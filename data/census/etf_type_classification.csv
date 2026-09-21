@@ -1,0 +1,472 @@
+ticker,type,rotates,transparent,confidence,agrees_name,source,note,name_type,phi_63,phibar_63
+ADIV,equity_longonly,N,Y,medium,Y,generic,Penserra sub-adviser generic; dividend equity by name,equity_longonly,0.9842,0.9911
+AMOM,equity_longonly,Y,Y,medium,Y,generic,ETC white-label generic; AI momentum rotation by name,equity_longonly,0.498,0.6673
+ARKG,equity_longonly,N,Y,high,Y,adv_data/brochures/169525/text.txt Item 8,ARK thematic disruptive-innovation equity conviction book,equity_longonly,0.9463,0.9733
+AVDE,equity_longonly,N,Y,medium,Y,generic,American Century/Avantis brochure text empty; systematic intl equity by name,equity_longonly,0.9617,0.9803
+AVIE,equity_longonly,N,Y,medium,Y,generic,Avantis brochure text empty; inflation-focused equity by name,equity_longonly,0.9766,0.9872
+AVIV,equity_longonly,N,Y,medium,Y,generic,Avantis brochure text empty; intl large-cap value by name,equity_longonly,0.9052,0.9523
+AVLV,equity_longonly,N,Y,medium,Y,generic,Avantis brochure text empty; US large-cap value by name,equity_longonly,0.9393,0.9707
+AVRE,equity_longonly,N,Y,medium,Y,generic,Avantis brochure text empty; US real estate REIT equity by name,equity_longonly,0.9903,0.9949
+AVSC,equity_longonly,N,Y,medium,Y,generic,Avantis brochure text empty; US small-cap equity by name,equity_longonly,0.8984,0.9488
+AVSD,equity_longonly,N,Y,medium,Y,generic,Avantis brochure text empty; responsible intl equity by name,equity_longonly,0.9671,0.9827
+AVSE,equity_longonly,N,Y,medium,Y,generic,Avantis brochure text empty; responsible EM equity by name,equity_longonly,0.9757,0.9872
+AVSU,equity_longonly,N,Y,medium,Y,generic,Avantis brochure text empty; responsible US equity by name,equity_longonly,0.9912,0.9955
+AVUS,equity_longonly,N,Y,medium,Y,generic,Avantis brochure text empty; US equity by name,equity_longonly,0.9906,0.9953
+AVUV,equity_longonly,N,Y,medium,Y,generic,Avantis brochure text empty; US small-cap value by name,equity_longonly,0.9313,0.9663
+BEDZ,equity_longonly,U,Y,medium,Y,name,AdvisorShares Hotel thematic equity; no brochure supplied,equity_longonly,0.8398,0.9136
+BKCI,equity_longonly,N,Y,high,Y,adv_data/brochures/112161/text.txt Item 5.2,Walter Scott long-only fundamental intl equity turnover under 20pct,equity_longonly,0.971,0.9851
+BKGI,equity_longonly,N,Y,medium,Y,adv_data/brochures/312937/text.txt Item 8,Newton long-only equity; infrastructure income,equity_longonly,0.9432,0.9714
+BLLD,equity_longonly,N,Y,medium,Y,generic,JPMIM firm brochure generic; sustainable infrastructure equity by name,equity_longonly,0.93,0.9661
+BMED,equity_longonly,N,Y,medium,Y,generic,BlackRock firm brochure generic; health thematic equity by name,equity_longonly,0.8357,0.9129
+BUYZ,equity_longonly,N,Y,medium,Y,generic,Franklin firm brochure generic; disruptive commerce thematic equity by name,equity_longonly,0.9468,0.9743
+CWS,equity_longonly,N,Y,medium,Y,name,AdvisorShares Focused Equity concentrated buy-and-hold; no brochure supplied,equity_longonly,0.9435,0.9714
+DBLV,equity_longonly,N,Y,medium,N,name,DoubleLine value equity by name; no prior name_type given,,0.9142,0.956
+DFAC,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 8,Dimensional systematic long-only US core equity,equity_longonly,0.9906,0.9954
+DFAI,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 8,Dimensional systematic long-only intl core equity,equity_longonly,0.9739,0.9852
+DFAR,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 8,Dimensional systematic US real estate REIT equity,equity_longonly,0.9939,0.9968
+DFAS,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 8,Dimensional systematic US small-cap equity,equity_longonly,0.9651,0.9826
+DFAT,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 8,Dimensional systematic US targeted value equity,equity_longonly,0.9586,0.9802
+DFAU,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 8,Dimensional systematic US core equity market,equity_longonly,0.9935,0.9967
+DFAX,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 8,Dimensional systematic world ex-US core equity,equity_longonly,0.9788,0.9887
+DFEM,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 8,Dimensional systematic EM core equity,equity_longonly,0.9868,0.9934
+DFEV,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 8,Dimensional systematic EM value equity,equity_longonly,0.9724,0.9866
+DFGR,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 8,Dimensional systematic global real estate REIT equity,equity_longonly,0.9952,0.9976
+DFIC,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 8,Dimensional systematic intl core equity,equity_longonly,0.9737,0.9836
+DFIV,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 8,Dimensional systematic intl value equity,equity_longonly,0.9812,0.9887
+DFLV,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 8,Dimensional systematic US large-cap value equity,equity_longonly,0.9732,0.9865
+DFNL,equity_longonly,N,Y,high,Y,adv_data/brochures/108674/text.txt Item 8,Davis long-only financial-services equity buy-and-hold,equity_longonly,0.9889,0.9944
+DFSE,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 8,Dimensional systematic EM sustainability core equity,equity_longonly,0.9811,0.9906
+DFSI,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 8,Dimensional systematic intl sustainability core equity,equity_longonly,0.9611,0.9784
+DFSU,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 8,Dimensional systematic US sustainability core equity,equity_longonly,0.9909,0.9954
+DFSV,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 8,Dimensional systematic US small-cap value equity,equity_longonly,0.9522,0.9769
+DFUS,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 4/8,dimensional systematic long-term equity; no stock picking or market timing,equity_longonly,0.9926,0.9962
+DFUV,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 4/8,dimensional marketwide value equity; systematic long-only,equity_longonly,0.9756,0.9878
+DIHP,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 4/8,dimensional intl high profitability equity; systematic long-only,equity_longonly,0.9603,0.9802
+DIVS,equity_longonly,U,Y,medium,Y,generic,penserra is generic tracking subadviser; dividend builder equity by name,equity_longonly,0.9701,0.9844
+DUHP,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 4/8,dimensional us high profitability equity; systematic long-only,equity_longonly,0.9799,0.9905
+DVAL,equity_longonly,N,Y,high,Y,adv_data/brochures/104517/text.txt Item 8,franklin/brandywine large cap value equity; no shorting,equity_longonly,0.8003,0.9001
+DWEQ,equity_longonly,Y,Y,high,Y,https://www.etf.com/DWEQ,dorsey wright relative strength; monthly sector/stock rotation; looked up,equity_longonly,0.3836,0.6318
+FDV,equity_longonly,U,Y,medium,Y,generic,federated enterprise brochure does not describe fund; strategic dividend equity by name,equity_longonly,0.9256,0.9625
+FLLV,equity_longonly,N,Y,medium,N,https://www.etf.com/FLLV,franklin us low volatility equity; no name_type provided; looked up,,0.938,0.9676
+GBUY,equity_longonly,N,Y,high,Y,adv_data/brochures/107738/text.txt Item 8,goldman future consumer thematic equity,equity_longonly,0.9282,0.9609
+GDIV,equity_longonly,N,Y,high,Y,adv_data/brochures/146990/text.txt Item 8,westfield dividend growth equity; no shorting or options,equity_longonly,0.8982,0.9478
+GDOC,equity_longonly,N,Y,high,Y,adv_data/brochures/107738/text.txt Item 8,goldman future health care thematic equity,equity_longonly,0.9348,0.968
+GREI,equity_longonly,N,Y,high,Y,adv_data/brochures/107738/text.txt Item 8,goldman future real estate and infrastructure equity; holds stocks,equity_longonly,0.9646,0.9805
+GSFP,equity_longonly,N,Y,high,Y,adv_data/brochures/107738/text.txt Item 8,goldman future planet climate thematic equity,equity_longonly,0.9568,0.9752
+GTEK,equity_longonly,N,Y,high,Y,adv_data/brochures/107738/text.txt Item 8,goldman future tech leaders thematic equity,equity_longonly,0.9127,0.9558
+HDMV,equity_longonly,N,Y,high,Y,adv_data/brochures/109552/text.txt Item 8,horizon managed volatility; selects low-vol/defensive stocks; developed intl,equity_longonly,0.8276,0.908
+HELX,equity_longonly,U,Y,medium,Y,adv_data/brochures/104517/text.txt Item 8,franklin advisers; genomic advancements thematic equity,equity_longonly,0.9304,0.9654
+HSMV,equity_longonly,N,Y,high,Y,adv_data/brochures/109552/text.txt Item 8,horizon managed volatility; low-vol stock selection; small/mid cap,equity_longonly,0.8571,0.924
+HUSV,equity_longonly,N,Y,high,Y,adv_data/brochures/109552/text.txt Item 8,horizon managed volatility; low-vol stock selection; domestic,equity_longonly,0.7633,0.8716
+JEMA,equity_longonly,N,Y,high,Y,adv_data/brochures/107038/text.txt Item 8,jpmorgan activebuilders EM equity; long-only,equity_longonly,0.9708,0.9813
+JGRO,equity_longonly,N,Y,high,Y,adv_data/brochures/107038/text.txt Item 8,jpmorgan active growth equity; long-only,equity_longonly,0.9652,0.9833
+JIRE,equity_longonly,N,Y,high,Y,adv_data/brochures/107038/text.txt Item 8,jpmorgan intl research enhanced index equity; long-only,equity_longonly,0.9753,0.9876
+JMEE,equity_longonly,N,Y,high,Y,adv_data/brochures/107038/text.txt Item 8,jpmorgan market expansion enhanced equity; long-only,equity_longonly,0.9098,0.9531
+JPRE,equity_longonly,N,Y,high,Y,adv_data/brochures/107038/text.txt Item 8,jpmorgan realty income; reit equity long-only,equity_longonly,0.9322,0.9666
+JUSA,equity_longonly,N,Y,high,Y,adv_data/brochures/107038/text.txt Item 8,jpmorgan activebuilders us large cap equity; long-only,equity_longonly,0.9797,0.9899
+KEJI,equity_longonly,N,Y,high,Y,adv_data/brochures/152807/text.txt Item 8,mirae/global x; china disruption thematic equity,equity_longonly,0.9342,0.9661
+LCTD,equity_longonly,N,Y,high,Y,adv_data/brochures/105247/text.txt Item 4/8,blackrock world ex-us carbon transition; long-only optimized equity,equity_longonly,0.9252,0.9613
+LSAF,equity_longonly,N,Y,medium,Y,adv_data/brochures/153139/text.txt Item 5/8,redwood alphafactor us core equity; factor stock selection,equity_longonly,0.5517,0.7706
+LSAT,equity_longonly,Y,Y,medium,Y,https://www.leadersharesetfs.com/funds/leadershares-tactical-focused-etf,alphafactor tactical; holds individual stocks plus money-market risk overlay; looked up,equity_longonly,0.7563,0.8727
+MOTO,equity_longonly,U,Y,medium,Y,generic,penserra is generic tracking subadviser; smart transportation and tech thematic equity by name,equity_longonly,0.9763,0.9852
+NDVG,equity_longonly,N,Y,high,Y,adv_data/brochures/155584/text.txt Item 8,nuveen dividend growth equity; long-only,equity_longonly,0.9855,0.9927
+NUGO,equity_longonly,N,Y,high,Y,adv_data/brochures/155584/text.txt Item 8,nuveen growth opportunities equity; long-only,equity_longonly,0.9774,0.9889
+NVQ,equity_longonly,U,Y,medium,Y,generic,exchange traded concepts white-label; qraft ai next value equity by name,equity_longonly,0.5513,0.7062
+PSR,equity_longonly,N,Y,high,Y,adv_data/brochures/105360/text.txt Item 4/8,invesco active us real estate; reit equity long-only,equity_longonly,0.9134,0.9329
+QRFT,equity_longonly,U,Y,medium,Y,generic,exchange traded concepts white-label; qraft ai large cap equity by name,equity_longonly,0.7973,0.8613
+RFEU,equity_longonly,Y,Y,medium,Y,https://www.etf.com/RFEU,riverfront dynamic europe; holds individual european stocks not etfs; tactical; looked up,equity_longonly,0.653,0.772
+SMIG,equity_longonly,N,Y,high,Y,adv_data/brochures/46727/text.txt Item 4/8,aam bahl & gaynor small/mid cap income growth; dividend equity,equity_longonly,0.9693,0.9854
+SOLR,equity_longonly,U,Y,medium,Y,generic,penserra is generic tracking subadviser; sustainable energy thematic equity by name,equity_longonly,0.9615,0.9754
+SURE,equity_longonly,U,Y,medium,Y,generic,wilshire brochure generic; insider advantage equity by name,equity_longonly,0.5822,0.7715
+SYLD,equity_longonly,N,Y,high,Y,adv_data/brochures/141600/text.txt Item 4/8,cambria shareholder yield factor equity; quarterly rebalanced,equity_longonly,0.8672,0.9317
+TMFG,equity_longonly,N,Y,medium,Y,name,motley fool global opportunities; long-only global equity; no brochure filed,equity_longonly,0.9728,0.9858
+UMI,equity_longonly,N,Y,high,Y,adv_data/brochures/105800/text.txt Item 4/8,miller howard midstream mlp sub-adviser; dividend value long-only,equity_longonly,0.9818,0.991
+UTES,equity_longonly,N,Y,high,Y,adv_data/brochures/3140/text.txt Item 8,reaves utilities sub-adviser; long-term value equity,equity_longonly,0.9576,0.9793
+VCLN,equity_longonly,N,Y,high,Y,adv_data/brochures/107296/text.txt Item 8,duff phelps global clean energy; bottom-up fundamental long-only,equity_longonly,0.9128,0.95
+VFMF,equity_longonly,N,Y,medium,Y,name,vanguard active multifactor equity; long-only; no brochure filed,equity_longonly,0.8413,0.9181
+VFQY,equity_longonly,N,Y,medium,Y,name,vanguard quality factor equity; long-only; no brochure filed,equity_longonly,0.8752,0.9351
+VFVA,equity_longonly,N,Y,medium,Y,name,vanguard value factor equity; long-only; no brochure filed,equity_longonly,0.9072,0.9501
+VGFO,equity_longonly,N,Y,medium,N,name,wellington WMC global factor equity; long-only; name_type blank,,0.7522,0.8726
+VICE,equity_longonly,N,Y,medium,Y,name,advisorshares vice thematic equity; long-only; no brochure filed,equity_longonly,0.781,0.8826
+WINN,equity_longonly,N,Y,high,Y,adv_data/brochures/107959/text.txt Item 4,jennison sub-adviser large-cap growth; long-only long-term growers,equity_longonly,0.9764,0.988
+WUGI,equity_longonly,Y,Y,high,Y,adv_data/brochures/304570/text.txt Item 8,esoterica nextg thematic tech equity; sector rotation within equities,equity_longonly,0.9292,0.9642
+ZIG,equity_longonly,N,Y,medium,Y,https://www.etfstrategy.com/acquirers-funds-debuts-with-long-short-deep-value-etf-zig-us-48594/,acquirers deep value; launched 130/30 long-short but shorts removed 2021 now long-only; looked up,equity_longonly,0.7094,0.8503
+AESR,allocation_fof,Y,Y,medium,Y,https://stockanalysis.com/etf/aesr/holdings/,anfield holds US equity sector ETFs plus some stocks; sector rotation; looked up,allocation_fof,0.8969,0.947
+AFLG,equity_longonly,N,Y,high,Y,adv_data/brochures/107027/text.txt Item 8,first trust quantitative multifactor equity; long-only large cap,equity_longonly,0.9484,0.9713
+AFMC,equity_longonly,N,Y,high,Y,adv_data/brochures/107027/text.txt Item 8,first trust quantitative multifactor equity; long-only mid cap,equity_longonly,0.8904,0.9426
+AFSM,equity_longonly,N,Y,high,Y,adv_data/brochures/107027/text.txt Item 8,first trust quantitative multifactor equity; long-only small cap,equity_longonly,0.8612,0.9269
+AIEQ,equity_longonly,U,Y,medium,Y,name,ai powered active US equity; long-only; no brochure filed,equity_longonly,0.4452,0.6037
+AVGE,allocation_fof,N,Y,medium,Y,generic,avantis all-equity etf-of-etfs; brochure text not extractable; allocation by structure,allocation_fof,0.9908,0.9916
+BBLU,equity_longonly,N,Y,high,Y,adv_data/brochures/111441/text.txt Item 8,bridgeway blue chip statistical large-cap; long-only,equity_longonly,0.977,0.9863
+BFTR,equity_longonly,N,Y,high,Y,adv_data/brochures/105247/text.txt Item 4/8,blackrock future innovators smid growth; long-only active equity,equity_longonly,0.9029,0.9489
+BRNY,equity_longonly,Y,Y,high,Y,adv_data/brochures/106945/text.txt Item 8,burney size-style responsive factor; long-only equity rotation,equity_longonly,0.614,0.7934
+CCOR,equity_options,N,Y,high,Y,adv_data/brochures/302011/text.txt Item 8,core alternative dividend equity plus index call/put overlay; hedged equity,equity_options,0.9756,0.9869
+CGDV,equity_longonly,N,Y,high,Y,adv_data/brochures/110885/text.txt Item 4/8,capital group active dividend value; bottom-up fundamental long-only,equity_longonly,0.9422,0.9712
+CGGR,equity_longonly,N,Y,high,Y,adv_data/brochures/110885/text.txt Item 4/8,capital group active growth; bottom-up fundamental long-only,equity_longonly,0.9724,0.9856
+CGUS,equity_longonly,N,Y,high,Y,adv_data/brochures/110885/text.txt Item 4/8,capital group core equity; bottom-up fundamental long-only,equity_longonly,0.9643,0.9817
+DFNV,equity_longonly,Y,Y,medium,N,https://www.etf.com/DFNV,donoghue forlines FCF and R&D innovation stocks; risk-managed de-risk overlay; looked up,,0.7778,0.8872
+DIVD,equity_longonly,N,Y,high,Y,adv_data/brochures/121529/text.txt Item 8,altrius sub-adviser global dividend; value long-only equity,equity_longonly,0.955,0.9767
+DIVZ,equity_longonly,N,Y,medium,Y,adv_data/brochures/322755/text.txt Item 8,opal dividend income concentrated equity; no options overlay confirmed via lookup,equity_longonly,0.8668,0.9307
+DSCF,allocation_fof,N,Y,medium,Y,adv_data/brochures/164874/text.txt Item 4,orcam discipline sub-adviser; fund of low-cost ETFs,allocation_fof,0.9837,0.9917
+DSTL,equity_longonly,N,Y,high,Y,adv_data/brochures/297521/text.txt Item 8,distillate quality-value quant US large cap; index-reconstituted long-only,equity_longonly,0.8307,0.9123
+DSTX,equity_longonly,N,Y,high,Y,adv_data/brochures/297521/text.txt Item 8,distillate quality-value quant international; index-reconstituted long-only,equity_longonly,0.7788,0.8798
+DWAT,allocation_fof,Y,Y,medium,Y,name,arrow dorsey wright tactical fund-of-ETFs; relative-strength rotation; no brochure filed,allocation_fof,0.6826,0.8293
+DWAW,allocation_fof,Y,Y,medium,Y,name,advisorshares dorsey wright FSM fund-of-ETFs; momentum rotation; no brochure filed,allocation_fof,0.4957,0.7411
+DWCR,equity_longonly,Y,Y,medium,N,name,arrow dorsey wright country rotation fund-of-ETFs; momentum; name_type blank,,0.6517,0.8189
+DWFI,allocation_fof,Y,Y,medium,N,name,dorsey wright fixed income fund-of-bond-ETFs; momentum rotation; name_type blank,,0.6969,0.8406
+DWUS,allocation_fof,Y,Y,medium,Y,name,advisorshares dorsey wright FSM US core fund-of-ETFs; momentum rotation; no brochure filed,allocation_fof,0.7477,0.8639
+DYNF,equity_longonly,Y,Y,high,Y,adv_data/brochures/105247/text.txt Item 4/8,ishares US equity factor rotation single stocks; rotates style factors,equity_longonly,0.9006,0.9463
+ECOZ,equity_longonly,N,Y,medium,Y,name,trueshares ESG active large-cap equity; long-only; no brochure filed,equity_longonly,0.9658,0.9816
+FFSG,allocation_fof,Y,Y,medium,Y,name,formulafolios smart growth fund-of-ETFs; tactical model; no brochure filed,allocation_fof,0.9753,0.9876
+FFTG,allocation_fof,Y,Y,medium,Y,name,formulafolios tactical growth fund-of-ETFs; tactical model; no brochure filed,allocation_fof,0.8108,0.8997
+FFTI,allocation_fof,Y,Y,high,Y,https://regulated-documents.saytechnologies.com/prospectuses/b783bb57-4e3b-4251-aef9-e06ffb45b134-66538H666.pdf,looked up; holds bond ETFs; tactical asset-class ranking,allocation_fof,0.8328,0.9136
+FISR,allocation_fof,Y,Y,medium,Y,generic,SSGA FM brochure generic; fixed income sector rotation fund-of-ETFs,allocation_fof,0.9339,0.9627
+FWDB,allocation_fof,Y,Y,high,N,https://www.sec.gov/Archives/edgar/data/1408970/000114420415061941/v423134_497kfwdb.htm,looked up; ETF-of-ETFs holding bond ETPs; yield-curve mean-reversion; defunct,,0.7464,0.8571
+GAA,allocation_fof,N,Y,medium,Y,adv_data/brochures/141600/text.txt Item 4,Cambria; global asset allocation fund-of-ETFs; buy-hold,allocation_fof,0.9694,0.9844
+GAL,allocation_fof,Y,Y,medium,Y,generic,SSGA FM generic; global multi-asset fund-of-ETFs,allocation_fof,0.924,0.9597
+GDMA,allocation_fof,Y,Y,medium,Y,generic,171412 ETF Architect white-label generic; Gadsden dynamic multi-asset by name,allocation_fof,0.451,0.6449
+GK,equity_longonly,N,Y,high,Y,adv_data/brochures/153649/text.txt Item 4,Gerber Kawasaki; focused growth stock book,equity_longonly,0.9421,0.9728
+GMOM,allocation_fof,Y,Y,high,Y,adv_data/brochures/141600/text.txt Item 4,Cambria; global momentum fund-of-ETFs; rotates,allocation_fof,0.7083,0.843
+GSPY,equity_longonly,N,Y,medium,N,adv_data/brochures/149335/text.txt Item 8,Gotham; enhanced 500 long/short overlay; shorts overvalued names,equity_longonly,0.9801,0.9893
+INKM,allocation_fof,Y,Y,medium,Y,generic,SSGA FM generic; income multi-asset fund-of-ETFs,allocation_fof,0.9248,0.9602
+ITAN,equity_longonly,N,Y,high,Y,adv_data/brochures/314364/text.txt Item 8,Sparkline; long-only intangible value quant equity,equity_longonly,0.9571,0.9772
+KOCG,equity_longonly,N,Y,high,Y,adv_data/brochures/174129/text.txt Item 4,KOCAA sub-adviser; catholic-screened global equity,equity_longonly,0.9344,0.9642
+LCTU,equity_longonly,N,Y,medium,Y,generic,BlackRock brochures generic; name-based long-only US equity carbon tilt,equity_longonly,0.9816,0.9907
+LDSF,allocation_fof,Y,Y,high,N,https://www.etf.com/LDSF,First Trust brochure generic; fund-of-First-Trust-bond-ETFs by structure; looked up,fixed_income,0.9388,0.9668
+LRGE,equity_longonly,N,Y,high,Y,adv_data/brochures/137028/text.txt Item 8,ClearBridge via FTPPG; large cap growth ESG long-only,equity_longonly,0.9722,0.9854
+MBOX,equity_longonly,N,Y,high,Y,adv_data/brochures/138962/text.txt Item 8,Freedom Day; dividend growth stock book,equity_longonly,0.8878,0.9415
+OCIO,allocation_fof,Y,Y,high,Y,adv_data/brochures/157531/text.txt Item 4,ClearShares; multi-asset ETF-of-ETFs; tactical,allocation_fof,0.9187,0.9583
+PDBC,commodity_futures,N,Y,high,Y,generic,Invesco brochure generic; diversified commodity futures No K-1,commodity_futures,0.8957,0.9466
+PPI,allocation_fof,Y,Y,medium,N,adv_data/brochures/288271/text.txt Item 8,Astoria; single stocks plus ETF overlay; multi-asset inflation,other,0.7985,0.891
+PSFF,allocation_fof,U,Y,high,Y,adv_data/brochures/114669/text.txt Item 4,Swan; SOS fund-of-funds by name and structure,allocation_fof,0.9256,0.9646
+QVAL,equity_longonly,N,Y,medium,Y,adv_data/brochures/153905/text.txt Item 8,Alpha Architect; quant deep value long-only,equity_longonly,0.6047,0.7837
+QXGG,allocation_fof,Y,Y,high,N,https://www.etf.com/QXGG,looked up; dynamic asset allocation holding ETFs; can go to cash,,0.8636,0.9146
+RISN,allocation_fof,Y,Y,medium,N,adv_data/brochures/171988/text.txt Item 8,Inspire; tactical balanced multi-asset; biblically screened,equity_longonly,0.7459,0.8493
+RLY,allocation_fof,Y,Y,medium,Y,generic,SSGA FM generic; multi-asset real return fund-of-ETFs,allocation_fof,0.9728,0.9853
+RORO,allocation_fof,Y,Y,high,Y,https://www.sec.gov/Archives/edgar/data/1742912/000183988222030547/roro-497k_122922.htm,looked up; fund-of-funds toggling equity ETFs vs Treasury ETFs,allocation_fof,0.4595,0.5214
+SECT,allocation_fof,Y,Y,high,Y,https://www.etf.com/SECT,looked up; fund-of-funds sector-ETF rotation,allocation_fof,0.9225,0.9599
+SIXA,equity_longonly,N,Y,high,Y,adv_data/brochures/307461/text.txt Item 8,6 Meridian via Madison Avenue Solutions; quant factor equity,equity_longonly,0.8284,0.8927
+SIXL,equity_longonly,N,Y,medium,Y,adv_data/brochures/307461/text.txt Item 8,low beta is factor screen not options overlay,equity_longonly,0.8546,0.9244
+SIXS,equity_longonly,N,Y,high,Y,adv_data/brochures/307461/text.txt Item 8,6 Meridian small cap quant factor equity,equity_longonly,0.7778,0.884
+SMCP,equity_longonly,N,Y,high,Y,adv_data/brochures/109366/text.txt Item 8,AlphaMark; actively managed small cap equity,equity_longonly,0.8062,0.8968
+SQEW,allocation_fof,Y,Y,medium,Y,https://www.sec.gov/Archives/edgar/data/1552947/000158064225001744/lsequityskew497k.htm,looked up; statistical skew not options; contrarian factor equity; borderline fof,equity_longonly,0.6849,0.8361
+SSFI,allocation_fof,Y,Y,high,Y,adv_data/brochures/139671/text.txt Item 8,Day Hagan/NDR; fund of fixed-income ETFs; model reallocates,allocation_fof,0.8878,0.936
+SSUS,allocation_fof,Y,Y,high,Y,adv_data/brochures/139671/text.txt Item 8,Day Hagan/NDR; fund of sector equity ETFs; tactical,allocation_fof,0.8188,0.8989
+TDSA,allocation_fof,Y,Y,high,Y,adv_data/brochures/151418/text.txt Item 8,Cabana Target Drawdown 5; all-asset ETF-of-ETFs; CARA tactical,allocation_fof,0.3634,0.6043
+TDSB,allocation_fof,Y,Y,high,Y,adv_data/brochures/151418/text.txt Item 8,Cabana Target Drawdown 7; all-asset ETF-of-ETFs; CARA tactical,allocation_fof,0.5341,0.7039
+TDSC,allocation_fof,Y,Y,high,Y,adv_data/brochures/151418/text.txt Item 8,Cabana Target Drawdown 10; all-asset ETF-of-ETFs; CARA tactical,allocation_fof,0.4554,0.67
+TDSD,allocation_fof,Y,Y,high,Y,adv_data/brochures/151418/text.txt Item 8,Cabana Target Drawdown 13; all-asset ETF-of-ETFs; CARA tactical,allocation_fof,0.3029,0.5709
+TDSE,allocation_fof,Y,Y,high,Y,adv_data/brochures/151418/text.txt Item 8,Cabana Target Drawdown 16; all-asset ETF-of-ETFs; CARA tactical,allocation_fof,0.2715,0.5384
+TRTY,allocation_fof,Y,Y,high,Y,adv_data/brochures/141600/text.txt Item 4,Cambria Trinity; global allocation fund-of-ETFs; trend/momentum,allocation_fof,0.9233,0.96
+TTAC,equity_longonly,N,Y,high,Y,adv_data/brochures/135152/text.txt Item 8,FCF Advisors; free cash flow quality long-only equity,equity_longonly,0.885,0.941
+VEGA,equity_options,N,Y,high,Y,adv_data/brochures/281213/text.txt Item 4/8,creativeone sub-adviser; global buy-write covered-call overlay,equity_options,0.9893,0.9945
+WBII,allocation_fof,Y,Y,medium,Y,adv_data/brochures/106336/text.txt Item 8,WBI balanced-income tactical multi-asset trend-switch; asset mix inferred,allocation_fof,0.3793,0.584
+WBIR,allocation_fof,Y,Y,medium,Y,adv_data/brochures/106336/text.txt Item 8,WBI rising-income tactical multi-asset; asset mix inferred,allocation_fof,0.1615,0.4526
+WBIT,allocation_fof,Y,Y,high,Y,https://finance.yahoo.com/quote/WBIT/holdings/,trend-switch between equity and bond ETFs; tactical allocation; looked up,allocation_fof,0.401,0.5608
+XDAT,equity_longonly,N,Y,medium,Y,name,Franklin Exponential Data thematic equity; Franklin brochure generic,equity_longonly,0.9469,0.9721
+XLSR,allocation_fof,Y,Y,high,Y,https://www.ssga.com/us/en/individual/etfs/spdr-ssga-us-sector-rotation-etf-xlsr,holds Select Sector SPDR ETFs; tactical rotation; looked up,allocation_fof,0.8644,0.9202
+ACSI,equity_longonly,N,Y,high,Y,https://www.acsietf.com/,US large-cap equity weighted by customer-satisfaction index; looked up,equity_longonly,0.9108,0.9536
+ACVF,equity_longonly,N,Y,high,Y,adv_data/brochures/286622/text.txt Item 4/8,Vident values-based equity screening long-only,equity_longonly,0.9695,0.9848
+AHLT,commodity_futures,Y,Y,high,Y,adv_data/brochures/167882/text.txt Item 8,AHL Partners systematic momentum/managed-futures,commodity_futures,,
+AIVI,equity_longonly,N,Y,high,Y,adv_data/brochures/139684/text.txt Item 8,WisdomTree AI-enhanced international value equity,equity_longonly,0.7177,0.7613
+AIVL,equity_longonly,N,Y,high,Y,adv_data/brochures/139684/text.txt Item 8,WisdomTree AI-enhanced US value equity,equity_longonly,0.8702,0.9331
+ARKF,equity_longonly,N,Y,high,Y,adv_data/brochures/169525/text.txt Item 8,ARK fintech-innovation thematic equity; high turnover,equity_longonly,0.9624,0.9806
+ARP,allocation_fof,Y,Y,high,Y,adv_data/brochures/308010/text.txt Item 8,PMV adaptive risk parity; momentum multi-asset via ETFs and pools,allocation_fof,0.7446,0.8551
+AVGV,allocation_fof,N,Y,high,Y,https://finance.yahoo.com/quote/AVGV/holdings/,fund of Avantis value-equity ETFs; looked up,allocation_fof,0.998,0.9984
+AVMA,allocation_fof,N,Y,high,Y,name,Avantis Moderate Allocation fund-of-Avantis-ETFs; looked up,allocation_fof,0.9898,0.9923
+AVNM,allocation_fof,N,Y,high,Y,name,Avantis All International Markets fund-of-funds; looked up,allocation_fof,0.9965,0.9969
+AVNV,allocation_fof,N,Y,high,Y,name,Avantis All International Markets Value fund-of-funds; looked up,allocation_fof,0.999,0.9987
+BAMA,allocation_fof,Y,Y,high,Y,https://money.usnews.com/funds/etfs/moderate-allocation/brookstone-active-etf/bama,Brookstone tactical fund-of-ETFs; no brochure; looked up,allocation_fof,0.9522,0.9762
+BAMO,allocation_fof,Y,Y,high,Y,https://www.investing.com/etfs/bamo,Brookstone Opportunities tactical fund-of-ETFs; no brochure; looked up,allocation_fof,0.9595,0.9797
+BAMY,allocation_fof,Y,Y,medium,Y,https://www.cboe.com/us/equities/listings/listed_products/symbols/BAMY/,Brookstone Yield multi-asset income via funds and securities; looked up,allocation_fof,0.7545,0.8765
+BCD,commodity_futures,N,Y,high,Y,adv_data/brochures/111069/text.txt Item 8,abrdn Bloomberg commodity-futures index; K-1 free,commodity_futures,,
+BSR,allocation_fof,Y,Y,high,Y,adv_data/brochures/120641/text.txt Item 4/8,Beacon Vantage tactical risk-budget fund-of-funds,allocation_fof,0.7583,0.871
+BTR,allocation_fof,Y,Y,high,Y,adv_data/brochures/120641/text.txt Item 4/8,Beacon Vantage tactical risk-budget fund-of-funds,allocation_fof,0.6567,0.8187
+BUFG,allocation_fof,N,Y,high,Y,adv_data/brochures/165976/text.txt Item 8,Vest fund-of-buffer-ETFs; defined-outcome allocation,allocation_fof,0.4934,0.6924
+BUFT,allocation_fof,N,Y,high,Y,adv_data/brochures/165976/text.txt Item 8,Vest fund-of-buffer-ETFs; defined-outcome allocation,allocation_fof,0.426,0.6624
+CCEF,allocation_fof,Y,Y,high,Y,adv_data/brochures/105758/text.txt Item 8,Calamos CEF income and arbitrage; fund of closed-end funds,allocation_fof,0.8362,0.9167
+CCNR,equity_longonly,N,Y,high,N,https://www.alpsfunds.com/exchange-traded-funds/ccnr,natural-resource producer equities not futures; looked up,commodity_futures,0.7585,0.8564
+CGBL,allocation_fof,N,Y,high,Y,adv_data/brochures/110885/text.txt Item 4/8,Capital Group core balanced equity and fixed income,allocation_fof,0.987,0.9924
+CHGX,equity_longonly,N,Y,high,Y,adv_data/brochures/287807/text.txt Item 4/8,Change Finance fossil-free ESG US large cap,equity_longonly,0.8081,0.9005
+CLSA,allocation_fof,Y,Y,high,Y,adv_data/brochures/151418/text.txt Item 4/8,Cabana target leading-sector rotation; ETFs and CITs,allocation_fof,0.1713,0.4567
+CLSC,allocation_fof,Y,Y,high,Y,adv_data/brochures/151418/text.txt Item 4/8,Cabana target leading-sector rotation; ETFs and CITs,allocation_fof,0.1878,0.4902
+CLSM,allocation_fof,Y,Y,high,Y,adv_data/brochures/151418/text.txt Item 4/8,Cabana target leading-sector rotation; ETFs and CITs,allocation_fof,0.3787,0.6009
+COMB,commodity_futures,N,Y,high,Y,name,GraniteShares Bloomberg Commodity Broad Strategy; no brochure,commodity_futures,,
+CUBS,equity_longonly,N,Y,high,Y,https://www.etf.com/CUBS,Asian frontier/EM growth equity; looked up,equity_longonly,0.9009,0.9464
+AMID,equity_longonly,N,Y,high,Y,adv_data/brochures/107930/text.txt Item 8,Argent active domestic equity,equity_longonly,0.9237,0.9614
+APIE,equity_longonly,N,Y,high,Y,adv_data/brochures/122836/text.txt Item 8,ActivePassive international equity blend; Lazard sub-adviser; looked up,equity_longonly,0.9702,0.9843
+APUE,equity_longonly,N,Y,medium,Y,name,ActivePassive US equity blend; identity inferred; looked up,equity_longonly,0.9848,0.9916
+BYRE,equity_longonly,N,Y,high,Y,adv_data/brochures/109002/text.txt Item 8,Principal real-estate active equity; converted to transparent; looked up,equity_longonly,0.9618,0.9805
+DEHP,equity_longonly,N,Y,high,Y,adv_data/brochures/106482/text.txt Item 8,Dimensional systematic EM high-profitability equity,equity_longonly,0.9698,0.9849
+DGRE,equity_longonly,N,Y,high,Y,adv_data/brochures/139684/text.txt Item 8,WisdomTree EM quality dividend-growth equity,equity_longonly,0.7471,0.8199
+DRAI,allocation_fof,Y,Y,high,Y,https://www.etftrends.com/new-draco-evolution-etf-uses-ai-driven-model/,Draco Evolution AI; AI macro fund-of-ETFs; looked up,allocation_fof,0.6098,0.6585
+DUKH,allocation_fof,Y,Y,medium,Y,https://www.oceanparkam.com/news-media/press-releases/ocean-park-asset-management-announces-launch-of-first-four-actively-managed-etfs/,Ocean Park trend-following fund-of-ETFs; 4th of family not individually confirmed; looked up,allocation_fof,0.7325,0.8413
+DUKQ,allocation_fof,Y,Y,high,Y,https://www.morningstar.com/etfs/arcx/dukq/quote,Ocean Park Domestic; trend-following US equity ETFs; looked up,allocation_fof,0.6465,0.807
+DUKX,allocation_fof,Y,Y,high,Y,https://www.morningstar.com/etfs/xnas/dukx/quote,Ocean Park International; trend-following intl equity ETFs; looked up,allocation_fof,0.5259,0.7204
+DUKZ,allocation_fof,Y,Y,high,Y,https://www.morningstar.com/etfs/arcx/dukz/quote,Ocean Park Diversified Income; trend-following bond ETFs; looked up,allocation_fof,0.6617,0.8027
+DVDN,equity_longonly,N,Y,high,Y,adv_data/brochures/316562/text.txt Item 8,Kingsbarn Dividend Opportunity; direct dividend REIT/mortgage stocks,equity_longonly,0.4495,0.5986
+DYFI,allocation_fof,Y,Y,high,Y,https://www.morningstar.com/etfs/xnas/dyfi/quote,IDX Dynamic Fixed Income; fund-of-bond-ETFs dynamic; looked up,allocation_fof,0.5558,0.7294
+EBLU,equity_longonly,N,Y,high,Y,adv_data/brochures/123711/text.txt Item 8,Tortoise/Ecofin; long-only water value-chain equities,equity_longonly,0.9659,0.9804
+ERUS,equity_longonly,N,Y,high,Y,name,iShares MSCI Russia; index equity; BlackRock brochure generic,equity_longonly,0.8822,0.9363
+FCPI,equity_longonly,N,Y,high,Y,name,Fidelity Stocks for Inflation; factor index equity; brochure generic,equity_longonly,0.7966,0.8957
+FCTE,equity_longonly,Y,Y,high,N,https://www.sec.gov/Archives/edgar/data/1771146/000199937125005134/fcte-485bpos_043025.htm,SMI 3Fourteen Full-Cycle Trend; long-only S&P500 trend/quality stock picks not fund-of-funds; looked up,allocation_fof,0.3755,0.6296
+FDAT,allocation_fof,Y,Y,medium,Y,adv_data/brochures/297082/text.txt Item 4,Family Dynasty Tactical Advantage ETF; tactical multi-asset allocation,allocation_fof,0.5022,0.6619
+FDIF,allocation_fof,N,Y,high,Y,https://money.usnews.com/funds/etfs/large-growth/fidelity-disruptors-etf/fdif,Fidelity Disruptors; ETF-of-5-Fidelity-disruptive-ETFs; looked up,allocation_fof,0.9983,0.9991
+FDLO,equity_longonly,N,Y,high,Y,name,Fidelity Low Volatility Factor; factor index equity; brochure generic,equity_longonly,0.9272,0.9624
+FDMO,equity_longonly,N,Y,high,Y,name,Fidelity Momentum Factor; reconstituted factor index equity; brochure generic,equity_longonly,0.8253,0.9101
+FDRR,equity_longonly,N,Y,high,Y,name,Fidelity Dividend for Rising Rates; factor index equity; brochure generic,equity_longonly,0.9625,0.9808
+FDVV,equity_longonly,N,Y,high,Y,name,Fidelity High Dividend; factor index equity; brochure generic,equity_longonly,0.9295,0.9639
+FFHG,allocation_fof,Y,Y,medium,Y,https://money.usnews.com/funds/etfs/long-short-equity/formulafolios-hedged-growth-etf/ffhg,FormulaFolios Hedged Growth; tactical fund-of-ETFs trend/hedge via inverse ETFs; looked up,allocation_fof,0.852,0.9147
+FFND,equity_longonly,N,Y,high,Y,adv_data/brochures/313973/text.txt Item 8,Future Fund Active ETF; long-only thematic equity; sibling long/short ETF is separate,equity_longonly,0.8867,0.9405
+FIDI,equity_longonly,N,Y,high,Y,name,Fidelity International High Dividend; factor index equity; brochure generic,equity_longonly,0.8338,0.9026
+FIVA,equity_longonly,N,Y,high,Y,name,Fidelity International Value Factor; factor index equity; brochure generic,equity_longonly,0.796,0.8904
+FLDZ,equity_longonly,N,Y,high,Y,https://www.rivernorth.com/investments/fldz/,RiverNorth Patriot; long-only domestic equity; looked up,equity_longonly,0.8691,0.9271
+FM,equity_longonly,N,Y,high,Y,name,iShares MSCI Frontier and Select EM; index equity; brochure generic,equity_longonly,0.928,0.9584
+FPAG,equity_longonly,N,Y,high,Y,adv_data/brochures/141823/text.txt Item 4,FPA Global Equity ETF; contrarian value long-only equity,equity_longonly,0.9495,0.972
+FQAL,equity_longonly,N,Y,high,Y,name,Fidelity Quality Factor; factor index equity; brochure generic,equity_longonly,0.9547,0.9767
+FUNL,equity_longonly,N,Y,high,Y,adv_data/brochures/107852/text.txt Item 4,CornerCap Fundametrics Large Cap; quant multifactor long-only equity,equity_longonly,0.8814,0.9367
+FVAL,equity_longonly,N,Y,high,Y,name,Fidelity Value Factor; factor index equity; brochure generic,equity_longonly,0.9453,0.9719
+GFGF,equity_longonly,N,Y,high,Y,adv_data/brochures/316414/text.txt Item 4,GuruFocus Guru Favorite Stocks; value equity from 13F guru holdings,equity_longonly,0.8837,0.9387
+GGM,allocation_fof,Y,Y,high,Y,adv_data/brochures/111509/text.txt Item 4,GGM Macro Alignment; macro fund-of-sector/style-ETFs quarterly; looked up,allocation_fof,0.2606,0.5626
+GHTA,allocation_fof,Y,Y,high,Y,adv_data/brochures/312912/text.txt Item 8,Goose Hollow Tactical Allocation; macro tactical multi-asset,allocation_fof,0.4979,0.713
+GLIF,equity_longonly,N,Y,high,Y,https://money.usnews.com/funds/etfs/infrastructure/agf-global-infrastructure-etf/glif,AGF Global Infrastructure; long-only infrastructure equity multi-factor; looked up,equity_longonly,0.9029,0.9428
+GLRY,equity_longonly,N,Y,medium,Y,adv_data/brochures/305092/text.txt Item 8,Inspire Faithward Mid Cap Momentum ESG; biblically-responsible momentum equity,equity_longonly,0.8262,0.9057
+GSID,equity_longonly,N,Y,high,Y,name,Goldman Sachs MarketBeta International Equity; beta index equity; brochure generic,equity_longonly,0.8545,0.8904
+GSUS,equity_longonly,N,Y,high,Y,name,Goldman Sachs MarketBeta US Equity; beta index equity; brochure generic,equity_longonly,0.9937,0.9966
+HAPY,equity_longonly,N,Y,high,Y,https://www.etftrends.com/harbor-launches-corporate-culture-leaders-etf-hapy/,Harbor Corporate Culture Leaders; human capital factor equity index; looked up,equity_longonly,0.8604,0.9285
+HAUS,equity_longonly,N,Y,high,Y,https://money.usnews.com/funds/etfs/real-estate/residential-reit-etf/haus,Armada Residential REIT; long-only residential REIT stocks; looked up,equity_longonly,0.9529,0.9744
+HDIV,equity_longonly,N,Y,medium,Y,https://www.dividend.com/etfs/hdiv-qraft-ai-enhanced-us-high-dividend-etf/,QRAFT AI-Enhanced US High Dividend; long-only US dividend equity; looked up,equity_longonly,0.5653,0.7804
+IECS,equity_longonly,N,Y,high,Y,name,iShares Evolved US Consumer Staples; active sector equity; brochure generic,equity_longonly,0.9889,0.9929
+IEDI,equity_longonly,N,Y,high,Y,name,iShares Evolved US Discretionary Spending; active sector equity; brochure generic,equity_longonly,0.9872,0.9936
+IEFN,equity_longonly,N,Y,high,Y,name,iShares Evolved US Financials; active sector equity; brochure generic,equity_longonly,0.9788,0.9872
+IEHS,equity_longonly,N,Y,medium,Y,generic,generic BlackRock master brochure; long-only US healthcare-staples sector equity; fell back to name,equity_longonly,0.987,0.9921
+IEIH,equity_longonly,N,Y,medium,Y,generic,generic BlackRock master brochure; long-only US innovative-healthcare sector equity; fell back to name,equity_longonly,0.9812,0.9879
+IGTR,allocation_fof,Y,Y,high,Y,adv_data/brochures/141726/text.txt Item 4,GI sub-adviser names Innovator Gradient Tactical Rotation ETF; tactical rotation across bond and equity ETFs,allocation_fof,0.2638,0.5521
+INTL,allocation_fof,Y,Y,high,Y,https://stockanalysis.com/etf/intl/,looked up; Main International ETF; fund-of-ETFs non-US equity dynamic allocation,allocation_fof,0.8714,0.9357
+IPO,equity_longonly,N,Y,high,Y,adv_data/brochures/109945/text.txt Item 8,Renaissance Capital; long-only IPO index equity book,equity_longonly,0.8053,0.8976
+IQM,equity_longonly,N,Y,medium,Y,generic,generic Franklin brochure; Intelligent Machines thematic AI/robotics long-only equity; fell back to name,equity_longonly,0.9602,0.9799
+IRTR,allocation_fof,Y,Y,medium,Y,generic,generic BlackRock brochure; iShares LifePath Retirement target-date fund-of-funds; name,allocation_fof,0.9981,0.9989
+ITDB,allocation_fof,Y,Y,medium,Y,generic,generic BlackRock brochure; iShares LifePath Target Date fund-of-funds; name,allocation_fof,0.9959,0.9979
+ITDC,allocation_fof,Y,Y,medium,Y,generic,generic BlackRock brochure; iShares LifePath Target Date fund-of-funds; name,allocation_fof,0.9985,0.9992
+ITDD,allocation_fof,Y,Y,medium,Y,generic,generic BlackRock brochure; iShares LifePath Target Date fund-of-funds; name,allocation_fof,0.9991,0.9995
+ITDE,allocation_fof,Y,Y,medium,Y,generic,generic BlackRock brochure; iShares LifePath Target Date fund-of-funds; name,allocation_fof,0.9993,0.9996
+ITDF,allocation_fof,Y,Y,medium,Y,generic,generic BlackRock brochure; iShares LifePath Target Date fund-of-funds; name,allocation_fof,0.9993,0.9996
+ITDG,allocation_fof,Y,Y,medium,Y,generic,generic BlackRock brochure; iShares LifePath Target Date fund-of-funds; name,allocation_fof,0.9994,0.9997
+ITDH,allocation_fof,Y,Y,medium,Y,generic,generic BlackRock brochure; iShares LifePath Target Date fund-of-funds; name,allocation_fof,0.9995,0.9997
+ITDI,allocation_fof,Y,Y,medium,Y,generic,generic BlackRock brochure; iShares LifePath Target Date fund-of-funds; name,allocation_fof,0.9995,0.9997
+IVOL,fixed_income,N,Y,medium,N,adv_data/brochures/157103/text.txt Item 8,Krane uncorrelated suite sub-advised by Quadratic; TIPS core plus interest-rate-vol options overlay; borderline vs other,commodity_futures,1.0,1.0
+JFWD,equity_longonly,N,Y,high,Y,https://www.etf.com/JFWD,looked up; Jacob Forward ETF; innovative/disruptive-tech growth stocks held directly,equity_longonly,0.9109,0.9527
+JIG,equity_longonly,N,Y,high,Y,https://am.jpmorgan.com/content/dam/jpm-am-aem/americas/us/en/literature/fact-sheet/etfs/FS-JIG.PDF,looked up; JPMorgan International Growth; foreign large/mid-cap growth stocks; JPMIM brochure is generic,equity_longonly,0.9299,0.9582
+JOET,equity_longonly,N,Y,medium,Y,generic,106982 brochure does not name JOET; Virtus Terranova US Quality Momentum factor index long-only equity; name,equity_longonly,0.7257,0.8592
+JSMD,equity_longonly,N,Y,medium,Y,generic,generic Janus Henderson brochure; Small/Mid Cap Growth Alpha factor index long-only equity; name,equity_longonly,0.7141,0.8515
+KEAT,equity_longonly,N,Y,medium,N,https://www.etf.com/KEAT,looked up; Keating Active ETF; concentrated value stock book plus TIPS cash sleeve; correction; borderline vs allocation,allocation_fof,0.9873,0.993
+KGRO,allocation_fof,Y,Y,high,Y,https://www.etf.com/KGRO,looked up; KraneShares China Innovation; fund-of-China-ETFs; Krane brochure did not name it,allocation_fof,0.9962,0.9974
+KLDW,equity_longonly,N,Y,high,Y,adv_data/brochures/144482/text.txt Item 4,Knowledge Leaders Capital; developed-world innovative-companies long-only equity,equity_longonly,0.8854,0.9386
+KNGS,equity_longonly,N,Y,medium,Y,name,ticker reuse; 301340 brochure is liquidated UpHoldings Compound Kings; current KNGS = Roundhill S&P Dividend Monarchs dividend-growth equity; borderline,equity_longonly,0.8402,0.9169
+LCF,equity_longonly,N,Y,medium,Y,adv_data/brochures/107126/text.txt Item 8,Sterling Capital; large-cap focused long-only equity,equity_longonly,0.9913,0.9957
+LCG,equity_longonly,N,Y,medium,Y,adv_data/brochures/135405/text.txt Item 8,Logan Capital; large-cap growth long-only equity,equity_longonly,0.9741,0.9868
+LCLG,equity_longonly,N,Y,medium,Y,adv_data/brochures/108893/text.txt Item 8,Logan Capital brochure; large-cap growth long-only equity,equity_longonly,0.9808,0.9899
+LVOL,equity_longonly,N,Y,high,Y,https://www.etf.com/LVOL,looked up; American Century Low Volatility; long-only low-vol US stocks; ACIM brochure did not name it,equity_longonly,0.8941,0.9451
+MAAX,allocation_fof,Y,Y,high,Y,adv_data/brochures/105080/text.txt Item 8,VanEck; tactical allocation across municipal bond ETFs; fund-of-ETFs by structure,allocation_fof,0.9078,0.9358
+MAPP,allocation_fof,Y,Y,high,Y,https://www.harborcapital.com/etf/mapp/,looked up; Harbor Multi-Asset Explorer; regime-based active fund-of-funds,allocation_fof,0.84,0.9078
+MDCP,equity_longonly,N,Y,high,Y,https://www.etf.com/MDCP,looked up; VictoryShares THB Mid Cap; ~30 mid-cap stocks buy-and-hold; Victory brochure generic,equity_longonly,0.9265,0.9625
+MFUL,allocation_fof,Y,Y,medium,Y,adv_data/brochures/313126/text.txt Item 4,Mohr Capital; Mindful Conservative ETF; tactical multi-asset via ETFs,allocation_fof,0.5985,0.7332
+MINV,equity_longonly,N,Y,high,Y,adv_data/brochures/106054/text.txt Item 4,Matthews Asia Innovators; long-only Asia/EM growth equity,equity_longonly,0.813,0.9016
+MMLG,equity_longonly,N,Y,high,Y,adv_data/brochures/137610/text.txt Item 4,First Trust Multi Manager Large Growth; multi-manager large-cap growth stock sleeves held directly,equity_longonly,0.9279,0.9486
+MODL,equity_longonly,Y,Y,high,N,https://www.vcm.com/products/victoryshares-etfs/victoryshares-etfs-list/victoryshares-westend-us-sector-etf,looked up; VictoryShares WestEnd US Sector; active sector rotation via individual stocks; correction; borderline,allocation_fof,0.9136,0.9543
+MOOD,allocation_fof,Y,Y,high,Y,adv_data/brochures/318050/text.txt Item 4,Relative Sentiment Technologies; MOOD dynamically allocates equities/bonds/gold via ETFs,allocation_fof,0.7017,0.7954
+MSMR,allocation_fof,Y,Y,high,Y,adv_data/brochures/115120/text.txt Item 4,McElhenny Sheffield Managed Risk ETF; holds other ETFs; trend-following and momentum,allocation_fof,0.2494,0.5274
+NETZ,equity_longonly,N,Y,medium,Y,adv_data/brochures/106546/text.txt Item 5,TCW Transform Systems ETF named in fee table; active thematic energy-transition equity; strategy from name,equity_longonly,0.8388,0.9143
+OPPX,allocation_fof,Y,Y,medium,Y,adv_data/brochures/305063/text.txt Item 4,Corbett Road SmartTactical; tactical allocation across exchange-traded asset classes via ETFs,allocation_fof,0.8434,0.9167
+PDBA,commodity_futures,N,Y,high,Y,adv_data/brochures/125601/text.txt Item 4,Invesco; agriculture commodity futures via CFTC subsidiary; No K-1,commodity_futures,,
+PLRG,equity_longonly,Y,Y,medium,Y,https://www.bloomberg.com/quote/PLRG:US,Principal US Large-Cap Adaptive Multi-Factor; adaptive factor tilts; looked up,equity_longonly,0.9836,0.9896
+PLTL,equity_longonly,Y,Y,medium,Y,https://www.principalam.com/fund/PLTL,Principal US Small-Cap Adaptive Multi-Factor; adaptive factor tilts; looked up,equity_longonly,0.8201,0.8979
+PSC,equity_longonly,N,Y,high,Y,generic,Principal AM diversified brochure generic; US small-cap multi-factor by name,equity_longonly,0.7896,0.8908
+PSET,equity_longonly,N,Y,high,Y,generic,Principal AM generic brochure; price setters index equity by name,equity_longonly,0.8715,0.9332
+PSMB,allocation_fof,N,Y,medium,Y,https://www.businesswire.com/news/home/20201223005281/en/Pacer-ETFs-Launches-Structured-Outcome-Strategy-ETFs-in-Partnership-With-Swan-Global-Management,Pacer Swan SOS Moderate target-risk fund-of-buffer-ETFs; Invesco brochures did not describe; looked up,allocation_fof,0.8918,0.9384
+PSMC,allocation_fof,N,Y,medium,Y,https://www.businesswire.com/news/home/20201223005281/en/Pacer-ETFs-Launches-Structured-Outcome-Strategy-ETFs-in-Partnership-With-Swan-Global-Management,Pacer Swan SOS Conservative target-risk fund-of-buffer-ETFs; FoF by structure; looked up,allocation_fof,0.8963,0.9332
+PSMG,allocation_fof,N,Y,medium,Y,https://www.businesswire.com/news/home/20201223005281/en/Pacer-ETFs-Launches-Structured-Outcome-Strategy-ETFs-in-Partnership-With-Swan-Global-Management,Pacer Swan SOS Growth target-risk fund-of-buffer-ETFs; FoF by structure; looked up,allocation_fof,0.8944,0.9413
+PSMM,allocation_fof,N,Y,medium,Y,https://www.businesswire.com/news/home/20201223005281/en/Pacer-ETFs-Launches-Structured-Outcome-Strategy-ETFs-in-Partnership-With-Swan-Global-Management,Pacer Swan SOS Moderate Growth target-risk fund-of-buffer-ETFs; FoF by structure; looked up,allocation_fof,0.8937,0.9359
+PSTR,allocation_fof,Y,Y,medium,Y,https://stockanalysis.com/etf/pstr/,PeakShares Sector Rotation; holds sector ETFs (XLF VGT XLK); tactical rotation; no brochure; looked up,allocation_fof,0.9593,0.9778
+PY,equity_longonly,N,Y,high,Y,generic,Principal AM generic brochure; value equity by name,equity_longonly,0.8361,0.9164
+QPX,allocation_fof,Y,Y,high,Y,adv_data/brochures/300530/text.txt Item 4,thinkbetter Q Dynamic Growth; actively managed fund of funds; dynamic risk-based allocation,allocation_fof,0.8663,0.9046
+QTUM,equity_longonly,N,Y,high,Y,generic,Penserra index sub-adviser generic brochure; quantum computing and ML index equity by name,equity_longonly,0.9296,0.9602
+RAYC,equity_longonly,N,Y,medium,Y,https://funds.rayliant.com/,Rayliant Quantamental China Equity; long-only quant equity; looked up,equity_longonly,0.7246,0.8516
+RAYD,equity_longonly,N,Y,medium,Y,https://finance.yahoo.com/quote/RAYD/,Rayliant NxtGen US Large Cap multifactor equity; looked up,equity_longonly,0.72,0.8507
+RAYE,equity_longonly,N,Y,medium,Y,https://www.bloomberg.com/quote/RAYE:US,Rayliant NxtGen Multifactor Emerging Markets Equity; looked up,equity_longonly,0.7127,0.843
+RESD,equity_longonly,N,Y,medium,Y,adv_data/brochures/139684/text.txt Item 8,WisdomTree ESG-screened equity index; Mellon index sub-adviser,equity_longonly,0.9625,0.9728
+RESP,equity_longonly,N,Y,medium,Y,adv_data/brochures/139684/text.txt Item 8,WisdomTree ESG-screened equity index fund,equity_longonly,0.9565,0.9774
+RHRX,allocation_fof,Y,Y,medium,Y,adv_data/brochures/281201/text.txt Item 8,Adaptive Investments fund-of-funds; tactical multi-asset; invests in ETFs,allocation_fof,0.7618,0.8636
+RHTX,allocation_fof,Y,Y,medium,Y,adv_data/brochures/281201/text.txt Item 8,Adaptive Investments fund-of-funds; tactical; invests in ETFs,allocation_fof,0.9148,0.9558
+RMIF,allocation_fof,Y,Y,medium,Y,adv_data/brochures/109420/text.txt Item 4,LHA Risk-Managed Income; Little Harbor tactical ETF-of-ETFs; Grimes sub-adviser,allocation_fof,0.7901,0.8826
+RSEE,allocation_fof,Y,Y,low,N,adv_data/brochures/284474/text.txt Item 8,Rareview Systematic Equity; systematic fund-of-equity-ETFs with futures/options; commodity pool; borderline vs equity_longshort,equity_longonly,0.7928,0.8597
+RSSB,allocation_fof,N,Y,medium,Y,adv_data/brochures/159064/text.txt Item 4,Return Stacked Global Stocks and Bonds; equity ETFs plus Treasury futures overlay; multi-asset,allocation_fof,0.9307,0.9655
+RSXJ,equity_longonly,N,Y,high,Y,generic,VanEck brochure generic index manager; Russia small-cap index equity by name,equity_longonly,0.8524,0.8864
+RUFF,allocation_fof,Y,Y,medium,N,adv_data/brochures/152001/text.txt Item 4,Alpha Dog ETF; actively managed ETF-of-ETFs; hedges with inverse ETFs; Tidal trust adviser; correction,equity_longonly,0.5533,0.7386
+SAMT,equity_longonly,Y,Y,medium,Y,adv_data/brochures/172000/text.txt Item 8,Strategas Macro Thematic; primarily US equities and ETFs; macro thematic tilts; Vident execution,equity_longonly,0.7046,0.841
+SEIM,equity_longonly,N,Y,high,Y,adv_data/brochures/105146/text.txt Item 8,SEI Enhanced US Large Cap Momentum Factor; long-only factor equity,equity_longonly,0.8909,0.9462
+SEIQ,equity_longonly,N,Y,high,Y,adv_data/brochures/105146/text.txt Item 8,SEI Enhanced US Large Cap Quality Factor; long-only factor equity,equity_longonly,0.9596,0.9795
+SEIV,equity_longonly,N,Y,high,Y,adv_data/brochures/105146/text.txt Item 8,SEI Enhanced US Large Cap Value Factor; long-only factor equity,equity_longonly,0.9281,0.9632
+SELV,equity_longonly,N,Y,high,Y,adv_data/brochures/105146/text.txt Item 8,SEI Enhanced Low Volatility Factor; long-only factor equity,equity_longonly,0.9702,0.9848
+SNAV,allocation_fof,Y,Y,high,Y,adv_data/brochures/313126/text.txt Item 4,Mohr Sector Nav; tactical sector-ETF rotation; primarily holds ETFs,allocation_fof,0.6127,0.7683
+SPRX,equity_longonly,N,Y,medium,Y,adv_data/brochures/314594/text.txt Item 4,Spear Alpha; actively managed concentrated thematic growth equity; options language is boilerplate,equity_longonly,0.8164,0.8942
+SQLV,equity_longonly,N,Y,high,Y,generic,Franklin/ClearBridge and Western Asset brochures generic; Royce quant small-cap quality value by name,equity_longonly,0.7984,0.8932
+SSXU,allocation_fof,Y,Y,high,Y,adv_data/brochures/139671/text.txt Item 4,Day Hagan/NDR Smart Sector International; tactical sector-ETF rotation,allocation_fof,0.7072,0.8129
+SXQG,equity_longonly,N,Y,high,Y,https://www.mutualfunds.com/etfs/sxqg-exchange-traded-concepts-trust-etc-6-meridian-quality-growth-etf/,ETC 6 Meridian Quality Growth; quant quality-growth long-only equity; MAS brochure generic; looked up,equity_longonly,0.852,0.9251
+TACK,allocation_fof,Y,Y,high,Y,adv_data/brochures/297384/text.txt Item 4,Fairlead Tactical Sector; technical tactical sector-ETF rotation; Cary Street trust adviser,allocation_fof,0.817,0.9
+TBFC,allocation_fof,Y,Y,high,Y,adv_data/brochures/123452/text.txt Item 4,Brinsmere Fund Conservative; rules-based tactical asset allocation ETF-of-ETFs; Milwaukee Company,allocation_fof,0.7541,0.8587
+TBFG,allocation_fof,Y,Y,high,Y,adv_data/brochures/123452/text.txt Item 4,Brinsmere Fund Growth; rules-based tactical asset allocation ETF-of-ETFs; Milwaukee Company,allocation_fof,0.6986,0.8254
+TPHD,equity_longonly,N,Y,medium,Y,generic,Timothy Plan High Dividend Stock; volatility-weighted BRI equity index; Victory generic brochure,equity_longonly,0.9037,0.951
+TPHE,equity_longonly,Y,Y,high,Y,https://timothyplan.com/our-etfs/summary-etf-tphe-holdings.php,Timothy Plan High Dividend Enhanced; long/cash volatility-weighted index; de-risks to T-bills not options; looked up,equity_longonly,0.9127,0.9557
+TPLC,equity_longonly,N,Y,medium,Y,generic,Timothy Plan US Large/Mid Cap Core; volatility-weighted BRI equity index; Victory generic brochure,equity_longonly,0.9393,0.9681
+TPLE,equity_longonly,N,Y,medium,Y,generic,Victory subadviser; screened enhanced-index equity; brochure generic,equity_longonly,0.9439,0.9701
+TPSC,equity_longonly,N,Y,medium,Y,generic,Victory subadviser; screened small-cap equity; brochure generic,equity_longonly,0.8762,0.9366
+TPYP,equity_longonly,N,Y,high,Y,adv_data/brochures/123711/text.txt item8,Tortoise; long-only pipeline equity,equity_longonly,0.9852,0.9917
+TUG,allocation_fof,Y,Y,medium,N,adv_data/brochures/173690/text.txt item4,STF; tactical trend equity/bond rotation; corrected from longonly,equity_longonly,0.987,0.9933
+UDI,equity_longonly,N,Y,high,Y,https://www.uscfinvestments.com/udi,Miller/Howard subadviser; dividend equity; looked up,equity_longonly,0.9392,0.9695
+UMMA,equity_longonly,N,Y,high,Y,adv_data/brochures/242793/text.txt item8,Wahed; Islamic world equity,equity_longonly,0.9583,0.9755
+USMC,equity_longonly,N,Y,high,Y,adv_data/brochures/109002/text.txt item8,Principal; mega-cap equity,equity_longonly,0.9466,0.9725
+VDNI,equity_longonly,N,Y,high,Y,https://www.etf.com/VDNI,V-Shares; diversity-index equity; looked up,equity_longonly,0.9702,0.9787
+VMOT,allocation_fof,Y,Y,high,Y,adv_data/brochures/153905/text.txt item8,Alpha Architect; value/momentum/trend fund-of-ETFs,allocation_fof,0.9111,0.9469
+VSLU,equity_longonly,N,Y,high,Y,https://appliedfinancefunds.com/ETF/ETFData/VSLU,Applied Finance; valuation large-cap equity; looked up,equity_longonly,0.9695,0.9845
+VWID,equity_longonly,N,Y,high,Y,https://www.etf.com/VWID,Virtus/WMC; international dividend equity; looked up,equity_longonly,0.8921,0.9252
+WBIY,equity_longonly,N,Y,high,Y,adv_data/brochures/106336/text.txt item8,WBI; tracks power-factor high-dividend index,equity_longonly,0.6713,0.8239
+WLTG,allocation_fof,Y,Y,medium,N,https://money.usnews.com/funds/etfs/large-blend/wealthtrust-dbs-long-term-growth-etf/wltg,WealthTrust; tactical AI asset-class allocation; corrected from longonly; looked up,equity_longonly,0.7946,0.8832
+WTV,equity_longonly,N,Y,high,Y,https://www.wisdomtree.com/us/products/equity/wtv,WisdomTree; model-based value equity; looked up,equity_longonly,0.7707,0.8816
+XCOR,allocation_fof,Y,Y,high,Y,adv_data/brochures/114861/text.txt item4,FundX/OCM; upgrading fund-of-ETFs,allocation_fof,0.7837,0.8905
+XFLX,allocation_fof,Y,Y,high,Y,adv_data/brochures/114861/text.txt item4,FundX/OCM; upgrading fund-of-ETFs,allocation_fof,0.7177,0.8536
+XNAV,allocation_fof,Y,Y,high,Y,adv_data/brochures/114861/text.txt item4,FundX/OCM; upgrading fund-of-ETFs,allocation_fof,0.742,0.8688
+XPND,equity_longonly,N,Y,high,Y,adv_data/brochures/107027/text.txt item4,First Trust; expanded technology equity,equity_longonly,0.8684,0.9295
+XRLX,allocation_fof,Y,Y,high,Y,adv_data/brochures/114861/text.txt item4,FundX/OCM; upgrading fund-of-ETFs,allocation_fof,0.827,0.9116
+YMAG,allocation_fof,N,Y,high,Y,https://yieldmaxetfs.com/our-etfs/ymag/,YieldMax; fund of option-income ETFs; looked up,allocation_fof,0.9381,0.9541
+YMAX,allocation_fof,N,Y,high,Y,https://yieldmaxetfs.com/our-etfs/ymax/,YieldMax; fund of option-income ETFs; looked up,allocation_fof,0.7917,0.8587
+ZECP,equity_longonly,N,Y,medium,Y,generic,Zacks; earnings-consistent equity; brochure generic,equity_longonly,0.9774,0.9886
+ADVE,equity_longonly,N,Y,high,Y,adv_data/brochures/106054/text.txt item8,Matthews; Asia dividend equity,equity_longonly,0.9392,0.9693
+AVLC,equity_longonly,N,Y,high,Y,https://www.avantisinvestors.com/avantis-investments/avantis-us-large-cap-equity-etf/,Avantis/American Century; systematic large-cap equity; looked up,equity_longonly,0.9892,0.9944
+BAMD,equity_longonly,N,Y,high,Y,https://www.brookstoneam.com/brookstone-dividend-stock-etf,Brookstone; dividend equity; no brochure; looked up,equity_longonly,0.8887,0.9443
+BAMG,equity_longonly,N,Y,high,Y,https://finance.yahoo.com/quote/BAMG/,Brookstone; growth equity; no brochure; looked up,equity_longonly,0.8632,0.931
+BAMV,equity_longonly,N,Y,high,Y,https://www.brookstoneam.com/brookstone-value-stock-etf,Brookstone; value equity; no brochure; looked up,equity_longonly,0.8217,0.9105
+BCHP,equity_longonly,N,Y,high,Y,adv_data/brochures/109002/text.txt item8,Principal; focused blue-chip equity,equity_longonly,0.9772,0.9889
+BDVG,equity_longonly,N,Y,high,Y,adv_data/brochures/145463/text.txt item4,Berkshire; dividend-growth equity,equity_longonly,0.9635,0.9763
+BGIG,equity_longonly,N,Y,high,Y,adv_data/brochures/106139/text.txt item8,Bahl & Gaynor; dividend-growth equity,equity_longonly,0.9697,0.9852
+BKIV,equity_longonly,N,Y,high,Y,https://www.etfstrategy.com/bny-mellon-debuts-two-active-thematic-etfs-10339/,BNY/Newton; innovation thematic equity; looked up,equity_longonly,0.9646,0.9824
+BKWO,equity_longonly,N,Y,high,Y,https://www.etfstrategy.com/bny-mellon-debuts-two-active-thematic-etfs-10339/,BNY/Newton; women's opportunities thematic equity; looked up,equity_longonly,0.9563,0.9785
+BLCR,equity_longonly,N,Y,high,Y,https://www.blackrock.com/us/individual/products/333889/blackrock-large-cap-core-etf,BlackRock; active large-cap core equity; looked up,equity_longonly,0.9118,0.9561
+BLCV,equity_longonly,N,Y,high,Y,https://www.blackrock.com/us/individual/products/331795/blackrock-large-cap-value-etf,BlackRock; active large-cap value equity; looked up,equity_longonly,0.8898,0.9421
+BWTG,equity_longonly,U,Y,medium,Y,adv_data/brochures/164937/text.txt item4,Tuttle/Brendan Wood; TopGun-ranked equity,equity_longonly,0.9252,0.9602
+CAMX,equity_longonly,N,Y,high,Y,adv_data/brochures/115093/text.txt item4,Cambiar; value equity,equity_longonly,0.8602,0.9298
+CANC,equity_longonly,N,Y,high,Y,https://temaetfs.com/canc,Tema; oncology thematic equity; looked up,equity_longonly,0.9152,0.9559
+CGRO,equity_longonly,N,Y,high,Y,https://www.cvafunds.com/cgro/,CoreValues Alpha; Greater China growth equity; looked up,equity_longonly,0.8795,0.9273
+CVSE,equity_longonly,N,Y,high,Y,https://www.dividend.com/etfs/cvse-morgan-stanley-etf-trust-calvert-us-select-equity-etf/,MSIM/Calvert; US select ESG equity; looked up,equity_longonly,0.9735,0.9832
+DCOR,equity_longonly,N,Y,high,Y,https://www.dimensional.com/us-en/funds/dcor/us-core-equity-1-etf,Dimensional; core US equity; looked up,equity_longonly,0.9908,0.9952
+DFVX,equity_longonly,N,Y,high,Y,https://www.dimensional.com/us-en/funds/dfvx/us-large-cap-vector-etf,Dimensional US Large Cap Vector systematic long-only equity; no shorting or options,equity_longonly,0.9824,0.9912
+DRLL,equity_longonly,N,Y,high,Y,adv_data/brochures/322039/text.txt Item 8,Strive passive energy-sector index equity; replication,equity_longonly,0.975,0.9853
+DSMC,equity_longonly,N,Y,high,Y,adv_data/brochures/297521/text.txt Item 4,Distillate Small/Mid Cash Flow quality-value quant long-only index ETF,equity_longonly,0.7152,0.8524
+ECML,equity_longonly,N,Y,medium,Y,adv_data/brochures/159018/text.txt Item 8,Euclidean quant long-term value long-only; looked up,equity_longonly,0.8574,0.9261
+EMC,equity_longonly,Y,Y,high,Y,https://www.globalxetfs.com/funds/emc,Global X Emerging Markets Great Consumer active long-only EM equity,equity_longonly,0.9095,0.9547
+EMM,equity_longonly,Y,Y,high,Y,https://www.globalxetfs.com/funds/emm,Global X Emerging Markets ex-China active long-only EM equity,equity_longonly,0.8885,0.943
+EQTY,equity_longonly,N,Y,high,Y,https://www.morningstar.com/etfs/arcx/eqty/quote,Kovitz Core Equity concentrated quality-value 20-30 names; looked up,equity_longonly,0.9537,0.9765
+FCFY,equity_longonly,N,Y,high,Y,https://www.ftportfolios.com/Retail/etf/etfSummary.aspx?Ticker=FCFY,First Trust S&P500 sector-neutral free-cash-flow index; looked up,equity_longonly,0.831,0.9092
+FDLS,equity_longonly,N,Y,high,Y,https://www.inspireetf.com/etf/fdls,Inspire Fidelis multifactor quality-value-momentum index replication; looked up,equity_longonly,0.3782,0.6792
+FFOG,equity_longonly,N,Y,high,Y,https://www.franklintempleton.com/investments/options/exchange-traded-funds/products/36370/SINGLCLASS/franklin-focused-growth-etf/FFOG,Franklin Focused Growth active concentrated large-growth; looked up,equity_longonly,0.9638,0.9823
+FWD,equity_longonly,N,Y,high,Y,https://www.alliancebernstein.com/us/en-us/investments/products/etf/equities/ab-disruptors-etf.-.00039J509.html,AB Disruptors thematic long-only equity ~100 stocks; no options no shorts,equity_longonly,0.7753,0.8777
+GSC,equity_longonly,N,Y,high,Y,https://am.gs.com/en-us/advisors/funds/detail/PV105332/38149W614/goldman-sachs-small-cap-equity-etf,Goldman Sachs Small Cap active fundamental quality-growth long-only; looked up,equity_longonly,0.8413,0.9194
+HAPI,equity_longonly,N,Y,high,Y,https://www.harborcapital.com/etf/hapi/,Human Capital Factor index ~150 large caps sector-neutral reconstituted; no brochure file,equity_longonly,0.9392,0.9689
+HAPS,equity_longonly,N,Y,high,Y,https://www.harborcapital.com/etf/haps/,Human Capital Factor index ~200 small caps reconstituted; no brochure file,equity_longonly,0.8122,0.9045
+HIDV,equity_longonly,N,Y,high,Y,https://finance.yahoo.com/quote/HIDV/,AB US High Dividend long-only equity factor,equity_longonly,0.8991,0.9393
+HRTS,equity_longonly,N,Y,high,Y,https://temaetfs.com/hrts,Tema Hearts&Health healthcare thematic long-only 46 names; no options or shorts; Tidal brochure generic,equity_longonly,0.9299,0.9631
+JCHI,equity_longonly,N,Y,high,Y,https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-active-china-etf-etf-shares-46654q880,JPMorgan Active China long-only equity,equity_longonly,0.9515,0.9754
+JDOC,equity_longonly,N,Y,medium,Y,generic,JPMorgan Healthcare Leaders sector long-only equity; firm-wide brochure; looked up,equity_longonly,0.9282,0.9639
+JGLO,equity_longonly,N,Y,high,Y,https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-global-select-equity-etf-etf-shares-46654q740,JPMorgan Global Select Equity long-only,equity_longonly,0.916,0.9594
+JPAN,equity_longonly,N,Y,high,Y,adv_data/brochures/106054/text.txt Item 8,Matthews Japan Active long-only Asia equity buy-and-hold low turnover,equity_longonly,0.8629,0.9327
+JPEF,equity_longonly,N,Y,high,Y,https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-equity-focus-etf-etf-shares-46654q781,JPMorgan Equity Focus concentrated long-only US equity,equity_longonly,0.9571,0.9789
+LBO,equity_longonly,N,Y,high,Y,adv_data/brochures/311816/text.txt Item 4,White Wolf listed PE/BDC single-name equities; long-only,equity_longonly,0.9765,0.9872
+LOWV,equity_longonly,N,Y,high,Y,https://finance.yahoo.com/quote/LOWV/,AB US Low Volatility long-only equity factor,equity_longonly,0.97,0.9852
+LRGC,equity_longonly,N,Y,high,Y,https://www.alliancebernstein.com/us/en-us/investments/products/etf/equities/ab-us-large-cap-strategic-equities-etf.-.00039J707.html,AB US Large Cap Strategic Equities long-only,equity_longonly,0.9799,0.99
+MCH,equity_longonly,N,Y,high,Y,adv_data/brochures/106054/text.txt Item 8,Matthews China Active long-only equity buy-and-hold low turnover,equity_longonly,0.9557,0.9769
+MEDI,equity_longonly,N,Y,high,Y,adv_data/brochures/146990/text.txt Item 8,Westfield health care strategy bottom-up long-only 30-50 names,equity_longonly,0.9186,0.9584
+NANC,equity_longonly,Y,Y,high,Y,https://subversiveetfs.com/nanc,active mirrors Democratic congressional trades; 500-600 names high turnover; Tidal generic,equity_longonly,0.9573,0.974
+PCGG,equity_longonly,N,Y,high,Y,https://money.usnews.com/funds/etfs/global-large-stock-growth/polen-capital-global-growth-etf/pcgg,Polen concentrated global growth 25-40 names low turnover; looked up,equity_longonly,0.9322,0.9659
+PEMX,equity_longonly,N,Y,high,Y,https://www.franklintempleton.com/investments/options/exchange-traded-funds/products/39499/SINGLCLASS/putnam-emerging-markets-ex-china-etf/PEMX,Putnam active EM ex-China fundamental long-only; looked up,equity_longonly,0.8474,0.9196
+PJFG,equity_longonly,N,Y,high,Y,https://www.pgim.com/us/en/intermediary/investment-capabilities/products/etf/pgim-jennison-focused-growth-etf,PGIM Jennison focused large-growth concentrated long-only; looked up,equity_longonly,0.9699,0.9854
+PJFV,equity_longonly,N,Y,high,Y,https://www.pgim.com/us/en/individual/investment-capabilities/products/etf/pgim-jennison-focused-value-etf,PGIM Jennison focused large-value concentrated long-only; looked up,equity_longonly,0.9267,0.963
+QUVU,equity_longonly,N,Y,high,Y,https://www.hartfordfunds.com/about-us/presscenter/hartford-funds-launch-of-quality-value-ETF.html,Hartford/Wellington large-cap quality-value fundamental long-only; looked up,equity_longonly,0.9161,0.9574
+REAI,equity_longonly,N,Y,medium,Y,https://money.usnews.com/investing/stocks/reai-tidal-etf-trust-intelligent-real-estate-etf,active holds REITs directly 80%+ plus some MBS; sector-equity book; Tidal generic,equity_longonly,0.746,0.8666
+RVRB,equity_longonly,Y,Y,medium,Y,https://www.tipranks.com/etf/rvrb,Penserra Reverb active sentiment-weighted 500 largest US stocks; looked up,equity_longonly,0.9918,0.9956
+SMRI,equity_longonly,N,Y,high,Y,adv_data/brochures/285645/text.txt Item 8,Sepio fundamental value US equity 30-50 names; looked up,equity_longonly,0.6099,0.7915
+SPDG,equity_longonly,N,Y,high,Y,https://www.ssga.com/us/en/intermediary/etfs/state-street-spdr-portfolio-sp-sector-neutral-dividend-etf-spdg,SSGA SPDR sector-neutral dividend aristocrats index; looked up,equity_longonly,0.9355,0.9662
+SROI,equity_longonly,N,Y,high,Y,https://www.calamos.com/funds/etf/calamos-antetokounmpo-global-sustainable-equities-sroi/,Calamos active global sustainable quality-growth equity; looked up,equity_longonly,0.9655,0.9823
+STRV,equity_longonly,N,Y,high,Y,adv_data/brochures/322039/text.txt Item 8,Strive passive 500 index equity; replication no active tilt,equity_longonly,0.9929,0.9964
+STXD,equity_longonly,N,Y,high,Y,adv_data/brochures/322039/text.txt Item 8,Strive passive dividend-growth index equity; reconstituted,equity_longonly,0.9665,0.9829
+STXE,equity_longonly,N,Y,high,Y,adv_data/brochures/322039/text.txt Item 8,Strive passive EM ex-China index equity; looked up name,equity_longonly,0.936,0.9521
+STXG,equity_longonly,N,Y,high,Y,adv_data/brochures/322039/text.txt Item 8,Strive index adviser; large-cap growth index; quarterly rebalance,equity_longonly,0.9926,0.9962
+STXV,equity_longonly,N,Y,high,Y,adv_data/brochures/322039/text.txt Item 8,Strive index adviser; large-cap value index; quarterly rebalance,equity_longonly,0.9586,0.9782
+TCAF,equity_longonly,N,Y,high,Y,https://www.troweprice.com/financial-intermediary/us/en/investments/etfs/capital-appreciation-equity-etf.html,generic TRP brochure; US large-cap active equity; transparent; looked up,equity_longonly,0.9553,0.9778
+TGLR,equity_longonly,N,Y,medium,Y,adv_data/brochures/108068/text.txt Item 8,Laffer Tengler adviser; global equity quant+fundamental long-only,equity_longonly,0.9653,0.9809
+TGRT,equity_longonly,N,Y,high,Y,https://investors.troweprice.com/news-releases/news-release-details/t-rowe-price-launches-its-first-transparent-active-equity,generic TRP brochure; active growth equity; fully transparent; looked up,equity_longonly,0.9838,0.9917
+TMSL,equity_longonly,N,Y,high,Y,https://investors.troweprice.com/news-releases/news-release-details/t-rowe-price-launches-its-first-transparent-active-equity,generic TRP brochure; active small-mid equity; fully transparent; looked up,equity_longonly,0.8984,0.9485
+TOLL,equity_longonly,N,Y,high,Y,https://temaetfs.com/toll,Tema Durable Quality; moats/quality long-only equity; Tidal white-label brochure generic; looked up,equity_longonly,0.9378,0.9683
+TOUS,equity_longonly,N,Y,high,Y,https://www.troweprice.com/financial-intermediary/us/en/investments/etfs/international-equity-etf.html,generic TRP brochure; intl active equity; transparent; looked up,equity_longonly,0.9261,0.9628
+TVAL,equity_longonly,N,Y,high,Y,https://investors.troweprice.com/news-releases/news-release-details/t-rowe-price-launches-its-first-transparent-active-equity,generic TRP brochure; active value equity; fully transparent; looked up,equity_longonly,0.9243,0.9611
+YALL,equity_longonly,N,Y,high,Y,adv_data/brochures/281943/text.txt Item 4,Curran sub-adviser; screened US large-cap equity long-only,equity_longonly,0.9645,0.9791
+ASPY,equity_longshort,Y,Y,high,Y,https://www.asymshares.com/about/aspy,ASYMmetric 500 index net-long/net-short via SPY cash short; brochure 164201 generic Tidal; looked up,equity_longshort,0.7056,0.8129
+BTAL,equity_longshort,N,Y,high,Y,adv_data/brochures/153781/text.txt Item 8,AGF anti-beta; long low-beta short high-beta dollar-neutral within sectors,equity_longshort,0.7473,0.861
+CLSE,equity_longshort,Y,Y,high,Y,https://money.usnews.com/funds/etfs/long-short-equity/convergence-long-short-equity-etf/clse,Convergence quant long/short net-long; brochure 148472 only a 2B supplement; monthly momentum rebalance; looked up,equity_longshort,0.722,0.8438
+JPED,equity_longshort,N,Y,high,Y,https://etfdb.com/etf/JPED/,JPM event-driven long/short; brochure 107038 generic multi-strategy; looked up,equity_longshort,0.5423,0.7489
+LSEQ,equity_longshort,Y,Y,high,Y,adv_data/brochures/167254/text.txt Item 8,Disciplined Alpha regime-based US long/short; separate short model; sub-adviser to Harbor L/S,equity_longshort,0.4378,0.6428
+MARB,equity_longshort,N,Y,high,Y,adv_data/brochures/317825/text.txt Item 8,FTCM merger arbitrage; buys sells and sells-short deal securities,equity_longshort,0.4367,0.6812
+PHDG,equity_longshort,Y,Y,medium,N,https://money.usnews.com/funds/etfs/equity-hedged/invesco-s-p-500-downside-hedged-etf/phdg,Holds S&P500 stocks + long VIX-futures downside hedge; VEQTOR dynamic; hedge is futures not options; brochure 125601 generic; looked up,equity_longshort,0.8622,0.8928
+SHDG,equity_options,N,Y,high,N,adv_data/brochures/173151/text.txt Item 8,Soundwatch hedged equity; S&P500 ETF + covered calls + protective puts,equity_longshort,0.9999,1.0
+SHRT,equity_longshort,N,Y,high,Y,adv_data/brochures/149335/text.txt Item 8,Gotham long/short value; ~50% net short target; identity looked up,equity_longshort,0.3891,0.6353
+TPMN,equity_longshort,N,Y,high,Y,https://timothyplan.com/our-etfs/summary-etf-tpmn.php,Timothy Plan market neutral; long dividend equities short index futures/ETFs; Victory sub-adviser; looked up,equity_longshort,0.9401,0.9692
+XVOL,equity_longshort,Y,Y,medium,N,adv_data/brochures/305482/text.txt Item 8,Acruence vol-targeted options/futures hedge on US equity; option writing + long vol overlay,equity_longshort,0.6054,0.7806
+ABCS,equity_longonly,Y,Y,high,Y,https://www.etf.com/ABCS,Alpha Blue Capital sub-adviser; multi-factor small-mid cap stocks + optional Vanguard index ETFs; dynamic momentum; ETF Architect white-label generic; looked up,equity_longonly,0.9694,0.9844
+AGIX,equity_longonly,N,Y,high,Y,adv_data/brochures/330644/text.txt Item 8,Etna Capital sub-adviser; thematic AI/tech growth equity; concentrated,equity_longonly,0.9321,0.9635
+AVEE,equity_longonly,N,Y,high,Y,https://stockanalysis.com/etf/avee/,Avantis EM small cap; systematic factor long-only; brochure text empty/generic; looked up,equity_longonly,0.8715,0.9333
+AVMC,equity_longonly,N,Y,high,Y,https://www.tradingview.com/symbols/AMEX-AVMC/analysis,Avantis US mid cap equity; systematic profitability/value tilt; brochure empty; looked up,equity_longonly,0.9479,0.9744
+AVMV,equity_longonly,N,Y,high,Y,https://www.avantisinvestors.com/avantis-investments/avantis-us-mid-cap-value-etf/,Avantis US mid cap value; systematic factor long-only; brochure empty; looked up,equity_longonly,0.9175,0.9599
+AVXC,equity_longonly,N,Y,high,Y,https://www.aaii.com/etf/ticker/AVXC,Avantis EM ex-China equity; systematic factor long-only; brochure empty; looked up,equity_longonly,0.9831,0.9913
+BCIL,equity_longonly,N,Y,medium,Y,https://stockanalysis.com/etf/bcil/,Bancreek intl large cap; quant 30-stock model; ETC white-label generic; looked up,equity_longonly,0.6283,0.7663
+BCUS,equity_longonly,N,Y,medium,Y,https://stockanalysis.com/etf/bcus/,Bancreek US large cap; quant structurally-advantaged names; ETC generic; looked up,equity_longonly,0.7077,0.8249
+BDIV,equity_longonly,N,Y,high,Y,adv_data/brochures/300409/text.txt Item 8,Brentview adviser; dividend-growth stocks + REITs long-only; AAM/Vident white-label,equity_longonly,0.9648,0.9815
+CARK,equity_longonly,N,Y,medium,Y,adv_data/brochures/109587/text.txt Item 8,CastleArk adviser; active growth equity; fundamental company research,equity_longonly,0.9504,0.9757
+CGCV,equity_longonly,N,Y,high,Y,https://www.capitalgroup.com/individual/investments/exchange-traded-funds/details/cgcv,conservative dividend long-only equity; buy-and-hold; Capital Research brochure generic; looked up,equity_longonly,0.9589,0.9795
+CPAI,equity_longonly,Y,Y,high,Y,https://counterpointfunds.com/quantitative-equity-etf/,AI/quant multifactor stock selection; dynamic factor rotation; Counterpoint brochure did not name it; looked up,equity_longonly,0.2606,0.6185
+EMOT,equity_longonly,N,Y,high,Y,https://www.ftportfolios.com/Retail/Etf/EtfHoldings.aspx?Ticker=EMOT,index top-50 economic-moat S&P500 stocks equal-weight; reconstituted; First Trust brochure generic; looked up,equity_longonly,0.9454,0.9718
+GLOW,allocation_fof,Y,Y,high,N,https://money.usnews.com/funds/etfs/global-large-stock-blend/victoryshares-westend-global-equity-etf/glow,WestEnd 80% in equity ETFs = ETF-of-ETFs by structure; macro tactical; looked up,equity_longonly,0.9578,0.9787
+GRW,equity_longonly,N,Y,high,Y,https://www.tcw.com/products/etfs/tcw-durable-growth-etf/grw,TCW durable-growth/compounders direct stocks; buy-and-hold quality; brochure generic; looked up,equity_longonly,0.928,0.965
+INRO,equity_longonly,Y,Y,high,Y,https://www.blackrock.com/us/individual/products/336430/ishares-u-s-industry-rotation-active-etf,US equity industry-rotation active; long-only plus derivatives; dynamic; looked up,equity_longonly,0.944,0.9662
+JADE,equity_longonly,N,Y,high,Y,https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-active-developing-markets-equity-etf-etf-shares-46654q690,EM equity bottom-up fundamental; long-only; JPM brochure generic; looked up,equity_longonly,0.9722,0.9854
+JDVI,equity_longonly,N,Y,high,Y,adv_data/brochures/124982/text.txt Item 8,Boston Partners intl disciplined value; relative valuation + quality + business momentum; adviser used = Boston Partners,equity_longonly,0.9019,0.9501
+KOOL,allocation_fof,Y,Y,medium,N,adv_data/brochures/152003/text.txt Item 8,Split Rock equity-rotation = sector/industry rotation; holds sector ETFs (SPY/XLK/XLV) plus stocks plus optional bonds/options; borderline; looked up,equity_longonly,0.8377,0.9191
+LCDS,equity_longonly,N,Y,high,Y,https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-fundamental-data-science-large-core-etf-etf-shares-46654q682,JPM data science large core; active quant long-only; looked up,equity_longonly,0.9862,0.9928
+LGHT,equity_longonly,N,Y,medium,Y,https://money.usnews.com/funds/etfs/health/langar-global-healthtech-etf/lght,Langar healthtech thematic equity; no brochure file; looked up,equity_longonly,0.974,0.986
+LOGO,equity_longonly,Y,Y,high,Y,https://logoetf.com/,Accuvest Alpha Brands consumption; offense/defense rotation; looked up,equity_longonly,0.7514,0.8589
+LQAI,equity_longonly,U,Y,medium,Y,https://stockanalysis.com/etf/lqai/,Qraft AI multi-factor US large core; ETC generic adviser; looked up,equity_longonly,0.7281,0.7953
+LYLD,equity_longonly,N,Y,high,Y,https://www.cambriafunds.com/lyld,Cambria large-cap shareholder yield quant; looked up,equity_longonly,0.9018,0.9501
+MCDS,equity_longonly,N,Y,high,Y,https://am.jpmorgan.com/us/en/asset-management/institutional/products/jpmorgan-fundamental-data-science-mid-core-etf-etf-shares-46654q674,JPM data science mid core; active quant long-only; looked up,equity_longonly,0.917,0.9567
+MCHS,equity_longonly,N,Y,high,Y,https://www.matthewsasia.com/funds/etfs/china-innovators-active-etf/,Matthews China active growth equity; looked up,equity_longonly,0.8172,0.9044
+MEMS,equity_longonly,N,Y,high,Y,https://www.matthewsasia.com/funds/etfs/emerging-markets-discovery-active-etf/,Matthews EM discovery small/mid growth equity; looked up,equity_longonly,0.9215,0.9604
+MGNR,equity_longonly,N,Y,high,Y,https://www.americanbeaconfunds.com/etfs/MGNR.aspx,American Beacon Man GLG natural-resource company equities; looked up,equity_longonly,0.8577,0.928
+MVPA,equity_longonly,N,Y,high,Y,https://etf.millervaluefunds.com/mvpa,Miller Value concentrated undervalued stock-picking; looked up,equity_longonly,0.84,0.9186
+MVPL,allocation_fof,Y,Y,high,N,https://etf.millervaluefunds.com/mvpl,Miller Value holds leveraged S&P500 ETFs tactically; fund-of-ETFs by structure; looked up,equity_longonly,0.4939,0.6664
+NDOW,allocation_fof,Y,Y,high,N,https://money.usnews.com/funds/etfs/global-moderately-conservative-allocation/anydrus-advantage-etf/ndow,Anydrus multi-asset allocation equities bonds and ETFs; looked up,equity_longonly,0.5973,0.7737
+NEWZ,equity_longonly,Y,Y,high,Y,https://money.usnews.com/funds/etfs/mid-cap-blend/stocksnips-ai-powered-sen-us-all-cp-etf/newz,StockSnips AI sentiment; dynamically rotates holdings; looked up,equity_longonly,0.2557,0.477
+NITE,equity_longonly,N,Y,high,Y,https://www.nightviewcapital.com/introducing-the-nightview-fund-nyse-nite-a-future-focused-equity-etf/,Nightview concentrated long-term value equity; looked up,equity_longonly,0.8884,0.9414
+NRES,equity_longonly,N,Y,high,Y,https://stockanalysis.com/etf/nres/,Xtrackers RREEF global natural-resource company stocks; looked up,equity_longonly,0.8223,0.9062
+NSCR,equity_longonly,N,Y,high,Y,https://www.nuveen.com/en-us/exchange-traded-funds/nscr-nuveen-sustainable-core-etf,Nuveen sustainable ESG large-cap core equity; looked up,equity_longonly,0.9003,0.9502
+OASC,equity_longonly,N,Y,high,Y,https://oneascent.com/investment-solutions/public-markets/etfs/oasc/,OneAscent values-based SMID core equity; looked up,equity_longonly,0.8074,0.899
+OPTZ,equity_longonly,N,Y,high,Y,https://www.optzfund.com/optz,Optimize Strategy Index; passive holding individual stocks; looked up,equity_longonly,0.7593,0.877
+OZEM,equity_longonly,N,Y,medium,Y,https://www.roundhillinvestments.com/etf/ozem/,Roundhill GLP-1 weight-loss thematic equity; looked up,equity_longonly,0.9497,0.9697
+PTL,equity_longonly,N,Y,high,Y,https://www.etf.com/PTL,Inspire 500 faith-based passive large-cap equity index; looked up,equity_longonly,0.9653,0.982
+RAYJ,equity_longonly,N,Y,high,Y,https://funds.rayliant.com/rayj/,Rayliant SMDAM Japan active growth equity; looked up,equity_longonly,0.9166,0.9578
+REMG,equity_longonly,N,Y,high,Y,https://www.etf.com/REMG,Russell multi-manager emerging-markets equity; looked up,equity_longonly,0.7828,0.8819
+SAMM,equity_longonly,Y,Y,medium,Y,https://www.strategasetfs.com/samm,Strategas macro momentum long US equities trend-following; holds stocks not futures; looked up,equity_longonly,0.5737,0.7714
+SAWG,equity_longonly,N,Y,high,Y,https://www.aamlive.com/ETF/Detail/SAWG,AAM Sawgrass US large-cap quality growth; looked up,equity_longonly,0.9358,0.9664
+SAWS,equity_longonly,N,Y,high,Y,https://stockanalysis.com/etf/saws/,AAM Sawgrass US small-cap quality growth; looked up,equity_longonly,0.8657,0.9352
+SMCO,equity_longonly,N,Y,high,Y,https://money.usnews.com/funds/etfs/mid-cap-blend/hilton-small-midcap-opportunity-etf/smco,Hilton small-mid cap opportunity bottom-up equity; looked up,equity_longonly,0.956,0.9772
+SMLL,equity_longonly,N,Y,high,Y,https://www.harborcapital.com/etf/smll/,Harbor active small-cap quality equity; looked up,equity_longonly,0.9292,0.9642
+SPTE,equity_longonly,N,Y,high,Y,https://www.sp-funds.com/spte/,SP Funds global tech Shariah passive equity index; looked up,equity_longonly,0.985,0.9909
+SPWO,equity_longonly,N,Y,high,Y,https://www.sp-funds.com/spwo/,SP Funds world ex-US Shariah passive equity index; looked up,equity_longonly,0.9792,0.9876
+TOGA,equity_longonly,N,Y,medium,Y,https://www.tremblantetf.com/,Tremblant concentrated global growth equity; transparency assumed; looked up,equity_longonly,0.8809,0.9359
+VGSR,equity_longonly,N,Y,high,Y,https://www.etf.com/VGSR,Vert global sustainable real-estate REIT equity; looked up,equity_longonly,0.9886,0.9923

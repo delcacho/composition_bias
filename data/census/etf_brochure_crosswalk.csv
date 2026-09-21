@@ -1,0 +1,472 @@
+ticker,name_type,phi_63,phibar_63,status_book,n_advisers,crds,adviser_names,text_paths,coverage
+ADIV,equity_longonly,0.9842,0.9911,active,2,159042;124465,"Penserra Capital Management, LLC | Guinness Atkinson Asset Management, Inc.",adv_data/brochures/159042/text.txt,on_disk
+AMOM,equity_longonly,0.498,0.6673,active,1,151197,"Exchange Traded Concepts, LLC",adv_data/brochures/151197/text.txt,on_disk
+ARKG,equity_longonly,0.9463,0.9733,active,1,169525,ARK Investment Management LLC,adv_data/brochures/169525/text.txt,on_disk
+AVDE,equity_longonly,0.9617,0.9803,active,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+AVIE,equity_longonly,0.9766,0.9872,active,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+AVIV,equity_longonly,0.9052,0.9523,active,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+AVLV,equity_longonly,0.9393,0.9707,active,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+AVRE,equity_longonly,0.9903,0.9949,active,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+AVSC,equity_longonly,0.8984,0.9488,active,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+AVSD,equity_longonly,0.9671,0.9827,active,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+AVSE,equity_longonly,0.9757,0.9872,active,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+AVSU,equity_longonly,0.9912,0.9955,active,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+AVUS,equity_longonly,0.9906,0.9953,active,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+AVUV,equity_longonly,0.9313,0.9663,active,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+BEDZ,equity_longonly,0.8398,0.9136,active,1,149782,"AdvisorShares Investments, LLC",,bulk_needed
+BKCI,equity_longonly,0.971,0.9851,active,2,112161;306148,"Walter Scott & Partners Limited | BNY Mellon ETF Investment Adviser, LLC",adv_data/brochures/112161/text.txt,on_disk
+BKGI,equity_longonly,0.9432,0.9714,active,3,312937;111208;306148,"Newton Investment Management North America, LLC | Newton Investment Management Limited | BNY Mellon ETF Investment Adviser, LLC",adv_data/brochures/312937/text.txt,on_disk
+BLLD,equity_longonly,0.93,0.9661,active,1,107038,J.P. Morgan Investment Management Inc.,adv_data/brochures/107038/text.txt,on_disk
+BMED,equity_longonly,0.8357,0.9129,active,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+BUYZ,equity_longonly,0.9468,0.9743,active,1,104517,"Franklin Advisers, Inc.",adv_data/brochures/104517/text.txt,on_disk
+CWS,equity_longonly,0.9435,0.9714,active,1,149782,"AdvisorShares Investments, LLC",,bulk_needed
+DBLV,,0.9142,0.956,active,0,,,,no_crd
+DFAC,equity_longonly,0.9906,0.9954,active,1,106482,Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DFAI,equity_longonly,0.9739,0.9852,active,3,107472;107621;106482,Dimensional Fund Advisors Ltd. | DFA Australia Limited | Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DFAR,equity_longonly,0.9939,0.9968,active,1,106482,Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DFAS,equity_longonly,0.9651,0.9826,active,1,106482,Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DFAT,equity_longonly,0.9586,0.9802,active,1,106482,Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DFAU,equity_longonly,0.9935,0.9967,active,1,106482,Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DFAX,equity_longonly,0.9788,0.9887,active,3,106482;107472;107621,Dimensional Fund Advisors LP | Dimensional Fund Advisors Ltd. | DFA Australia Limited,adv_data/brochures/106482/text.txt,on_disk
+DFEM,equity_longonly,0.9868,0.9934,active,3,107472;107621;106482,Dimensional Fund Advisors Ltd. | DFA Australia Limited | Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DFEV,equity_longonly,0.9724,0.9866,active,3,107472;107621;106482,Dimensional Fund Advisors Ltd. | DFA Australia Limited | Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DFGR,equity_longonly,0.9952,0.9976,active,3,107472;107621;106482,Dimensional Fund Advisors Ltd. | DFA Australia Limited | Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DFIC,equity_longonly,0.9737,0.9836,active,3,107472;107621;106482,Dimensional Fund Advisors Ltd. | DFA Australia Limited | Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DFIV,equity_longonly,0.9812,0.9887,active,3,107472;107621;106482,Dimensional Fund Advisors Ltd. | DFA Australia Limited | Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DFLV,equity_longonly,0.9732,0.9865,active,1,106482,Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DFNL,equity_longonly,0.9889,0.9944,active,2,108674;106659,"Davis Selected Advisers, L.P. | Davis Selected Advisers - NY, Inc.",adv_data/brochures/108674/text.txt;adv_data/brochures/106659/text.txt,on_disk
+DFSE,equity_longonly,0.9811,0.9906,active,1,106482,Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DFSI,equity_longonly,0.9611,0.9784,active,3,107472;107621;106482,Dimensional Fund Advisors Ltd. | DFA Australia Limited | Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DFSU,equity_longonly,0.9909,0.9954,active,1,106482,Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DFSV,equity_longonly,0.9522,0.9769,active,1,106482,Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DFUS,equity_longonly,0.9926,0.9962,active,1,106482,Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DFUV,equity_longonly,0.9756,0.9878,active,1,106482,Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DIHP,equity_longonly,0.9603,0.9802,active,3,107472;107621;106482,Dimensional Fund Advisors Ltd. | DFA Australia Limited | Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DIVS,equity_longonly,0.9701,0.9844,active,2,159042;124465,"Penserra Capital Management, LLC | Guinness Atkinson Asset Management, Inc.",adv_data/brochures/159042/text.txt,on_disk
+DUHP,equity_longonly,0.9799,0.9905,active,1,106482,Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DVAL,equity_longonly,0.8003,0.9001,active,2,104517;110783,"Franklin Advisers, Inc. | Brandywine Global Investment Management, LLC",adv_data/brochures/104517/text.txt;adv_data/brochures/110783/text.txt,on_disk
+DWEQ,equity_longonly,0.3836,0.6318,active,1,149782,"AdvisorShares Investments, LLC",,bulk_needed
+FDV,equity_longonly,0.9256,0.9625,active,2,128611;128610,Federated Advisory Services Company | Federated Equity Management Company of Pennsylvania,adv_data/brochures/128611/text.txt,on_disk
+FLLV,,0.938,0.9676,active,0,,,,no_crd
+GBUY,equity_longonly,0.9282,0.9609,active,1,107738,"Goldman Sachs Asset Management, L.P.",adv_data/brochures/107738/text.txt,on_disk
+GDIV,equity_longonly,0.8982,0.9478,active,2,113402;146990,"Harbor Capital Advisors, Inc. | Westfield Capital Management Company, L.P.",adv_data/brochures/146990/text.txt,on_disk
+GDOC,equity_longonly,0.9348,0.968,active,1,107738,"Goldman Sachs Asset Management, L.P.",adv_data/brochures/107738/text.txt,on_disk
+GREI,equity_longonly,0.9646,0.9805,active,1,107738,"Goldman Sachs Asset Management, L.P.",adv_data/brochures/107738/text.txt,on_disk
+GSFP,equity_longonly,0.9568,0.9752,active,1,107738,"Goldman Sachs Asset Management, L.P.",adv_data/brochures/107738/text.txt,on_disk
+GTEK,equity_longonly,0.9127,0.9558,active,1,107738,"Goldman Sachs Asset Management, L.P.",adv_data/brochures/107738/text.txt,on_disk
+HDMV,equity_longonly,0.8276,0.908,active,2,107027;109552,"First Trust Advisors L.P. | Horizon Investments, LLC",adv_data/brochures/107027/text.txt;adv_data/brochures/109552/text.txt,on_disk
+HELX,equity_longonly,0.9304,0.9654,active,1,104517,"Franklin Advisers, Inc.",adv_data/brochures/104517/text.txt,on_disk
+HSMV,equity_longonly,0.8571,0.924,active,2,107027;109552,"First Trust Advisors L.P. | Horizon Investments, LLC",adv_data/brochures/107027/text.txt;adv_data/brochures/109552/text.txt,on_disk
+HUSV,equity_longonly,0.7633,0.8716,active,2,107027;109552,"First Trust Advisors L.P. | Horizon Investments, LLC",adv_data/brochures/107027/text.txt;adv_data/brochures/109552/text.txt,on_disk
+JEMA,equity_longonly,0.9708,0.9813,active,1,107038,J.P. Morgan Investment Management Inc.,adv_data/brochures/107038/text.txt,on_disk
+JGRO,equity_longonly,0.9652,0.9833,active,1,107038,J.P. Morgan Investment Management Inc.,adv_data/brochures/107038/text.txt,on_disk
+JIRE,equity_longonly,0.9753,0.9876,active,1,107038,J.P. Morgan Investment Management Inc.,adv_data/brochures/107038/text.txt,on_disk
+JMEE,equity_longonly,0.9098,0.9531,active,1,107038,J.P. Morgan Investment Management Inc.,adv_data/brochures/107038/text.txt,on_disk
+JPRE,equity_longonly,0.9322,0.9666,active,1,107038,J.P. Morgan Investment Management Inc.,adv_data/brochures/107038/text.txt,on_disk
+JUSA,equity_longonly,0.9797,0.9899,active,1,107038,J.P. Morgan Investment Management Inc.,adv_data/brochures/107038/text.txt,on_disk
+KEJI,equity_longonly,0.9342,0.9661,active,2,152807;146932,Mirae Asset Global Investments (Hong Kong) Limited | GLOBAL X MANAGEMENT COMPANY LLC,adv_data/brochures/152807/text.txt;adv_data/brochures/146932/text.txt,on_disk
+LCTD,equity_longonly,0.9252,0.9613,active,2,105247;106843,BlackRock Fund Advisors | BlackRock International Limited,adv_data/brochures/105247/text.txt;adv_data/brochures/106843/text.txt,on_disk
+LSAF,equity_longonly,0.5517,0.7706,active,2,N/A;153139,"Redwood Investment Management, LLC | Redwood Investment Management, LLC",adv_data/brochures/153139/text.txt,on_disk
+LSAT,equity_longonly,0.7563,0.8727,active,2,N/A;153139,"Redwood Investment Management, LLC | Redwood Investment Management, LLC",adv_data/brochures/153139/text.txt,on_disk
+MOTO,equity_longonly,0.9763,0.9852,active,2,124465;159042,"Guinness Atkinson Asset Management, Inc. | Penserra Capital Management, LLC",adv_data/brochures/159042/text.txt,on_disk
+NDVG,equity_longonly,0.9855,0.9927,active,3,107157;155584;104626,"Teachers Advisors, LLC | Nuveen Asset Management, LLC | Nuveen Fund Advisors, LLC",adv_data/brochures/155584/text.txt,on_disk
+NUGO,equity_longonly,0.9774,0.9889,active,3,107157;155584;104626,"Teachers Advisors, LLC | Nuveen Asset Management, LLC | Nuveen Fund Advisors, LLC",adv_data/brochures/155584/text.txt,on_disk
+NVQ,equity_longonly,0.5513,0.7062,active,1,151197,"Exchange Traded Concepts, LLC",adv_data/brochures/151197/text.txt,on_disk
+PSR,equity_longonly,0.9134,0.9329,active,2,125601;105360,"Invesco Capital Management LLC | Invesco Advisers, Inc.",adv_data/brochures/125601/text.txt;adv_data/brochures/105360/text.txt,on_disk
+QRFT,equity_longonly,0.7973,0.8613,active,1,151197,"Exchange Traded Concepts, LLC",adv_data/brochures/151197/text.txt,on_disk
+RFEU,equity_longonly,0.653,0.772,active,2,146221;107027,"RiverFront Investment Group, LLC | First Trust Advisors L.P.",adv_data/brochures/146221/text.txt;adv_data/brochures/107027/text.txt,on_disk
+SMIG,equity_longonly,0.9693,0.9854,active,2,46727;106139,"Advisors Asset Management, Inc. | Bahl & Gaynor, Inc.",adv_data/brochures/46727/text.txt;adv_data/brochures/106139/text.txt,on_disk
+SOLR,equity_longonly,0.9615,0.9754,active,2,124465;159042,"Guinness Atkinson Asset Management, Inc. | Penserra Capital Management, LLC",adv_data/brochures/159042/text.txt,on_disk
+SURE,equity_longonly,0.5822,0.7715,active,3,6210;166732;149782,"Wilshire Associates Incorporated | DoubleLine Equity LP | AdvisorShares Investments, LLC",adv_data/brochures/6210/text.txt,on_disk
+SYLD,equity_longonly,0.8672,0.9317,active,3,N/A;141600;164201,"Cambria Investment Management, L.P. | Cambria Investment Management, L.P. | Tidal Investments LLC",adv_data/brochures/141600/text.txt;adv_data/brochures/164201/text.txt,on_disk
+TMFG,equity_longonly,0.9728,0.9858,active,1,149688,Motley Fool Asset Management,,bulk_needed
+UMI,equity_longonly,0.9818,0.991,active,2,171962;105800,"USCF Advisers, LLC | MILLER HOWARD INVESTMENTS INC",adv_data/brochures/105800/text.txt,on_disk
+UTES,equity_longonly,0.9576,0.9793,active,3,106982;168955;3140,"Virtus Investment Advisers, LLC | Virtus ETF Advisers LLC | W. H. Reaves & Co., Inc., d/b/a Reaves Asset Management",adv_data/brochures/106982/text.txt;adv_data/brochures/3140/text.txt,on_disk
+VCLN,equity_longonly,0.9128,0.95,active,3,168955;107296;106982,"Virtus ETF Advisers LLC | Duff & Phelps Investment Management Co. | Virtus Investment Advisers, LLC",adv_data/brochures/107296/text.txt;adv_data/brochures/106982/text.txt,on_disk
+VFMF,equity_longonly,0.8413,0.9181,active,1,105958,"The Vanguard Group, Inc.",,bulk_needed
+VFQY,equity_longonly,0.8752,0.9351,active,1,105958,"The Vanguard Group, Inc.",,bulk_needed
+VFVA,equity_longonly,0.9072,0.9501,active,1,105958,"The Vanguard Group, Inc.",,bulk_needed
+VGFO,,0.7522,0.8726,active,0,,,,no_crd
+VICE,equity_longonly,0.781,0.8826,active,1,149782,"AdvisorShares Investments, LLC",,bulk_needed
+WINN,equity_longonly,0.9764,0.988,active,2,107959;113402,"Jennison Associates LLC | Harbor Capital Advisors, Inc.",adv_data/brochures/107959/text.txt,on_disk
+WUGI,equity_longonly,0.9292,0.9642,active,3,171004;305714;304570,"Vident Investment Advisory, LLC | AXS Investments LLC | Esoterica Capital LLC",adv_data/brochures/171004/text.txt;adv_data/brochures/304570/text.txt,on_disk
+ZIG,equity_longonly,0.7094,0.8503,active,3,161626;298309;164201,"CSat Investment Advisory, L.P. d/b/a Exponential ETFs | Acquirers Funds, LLC | TIDAL INVESTMENTS LLC",adv_data/brochures/298309/text.txt;adv_data/brochures/164201/text.txt,on_disk
+AESR,allocation_fof,0.8969,0.947,active,2,284684;165211,"Regents Park Funds, LLC | Anfield Capital Management, LLC",adv_data/brochures/284684/text.txt;adv_data/brochures/165211/text.txt,on_disk
+AFLG,equity_longonly,0.9484,0.9713,active,1,107027,First Trust Advisors L.P.,adv_data/brochures/107027/text.txt,on_disk
+AFMC,equity_longonly,0.8904,0.9426,active,1,107027,First Trust Advisors L.P.,adv_data/brochures/107027/text.txt,on_disk
+AFSM,equity_longonly,0.8612,0.9269,active,1,107027,First Trust Advisors L.P.,adv_data/brochures/107027/text.txt,on_disk
+AIEQ,equity_longonly,0.4452,0.6037,active,1,268796,ETF Managers Group LLC,,bulk_needed
+AVGE,allocation_fof,0.9908,0.9916,active,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+BBLU,equity_longonly,0.977,0.9863,active,2,111441;171412,"Bridgeway Capital Management, LLC | Empowered Funds, LLC d/b/a EA Advisers",adv_data/brochures/111441/text.txt;adv_data/brochures/171412/text.txt,on_disk
+BFTR,equity_longonly,0.9029,0.9489,active,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+BRNY,equity_longonly,0.614,0.7934,active,2,171412;106945,"Empowered Funds, LLC d/b/a EA Advisers | Burney Co.",adv_data/brochures/171412/text.txt;adv_data/brochures/106945/text.txt,on_disk
+CCOR,equity_options,0.9756,0.9869,active,2,141600;302011,Cambria Investment Management LP | Core Alternative Capital LLC,adv_data/brochures/141600/text.txt;adv_data/brochures/302011/text.txt,on_disk
+CGDV,equity_longonly,0.9422,0.9712,active,1,110885,Capital Research and Management Company,adv_data/brochures/110885/text.txt,on_disk
+CGGR,equity_longonly,0.9724,0.9856,active,1,110885,Capital Research and Management Company,adv_data/brochures/110885/text.txt,on_disk
+CGUS,equity_longonly,0.9643,0.9817,active,1,110885,Capital Research and Management Company,adv_data/brochures/110885/text.txt,on_disk
+DFNV,,0.7778,0.8872,active,0,,,,no_crd
+DIVD,equity_longonly,0.955,0.9767,active,2,171412;121529,"Empowered Funds, LLC d/b/a EA Advisers | Altrius Capital Management Inc.",adv_data/brochures/171412/text.txt;adv_data/brochures/121529/text.txt,on_disk
+DIVZ,equity_longonly,0.8668,0.9307,active,2,322755;306600,"Opal Capital LLC | TrueMark Investments, LLC ",adv_data/brochures/322755/text.txt,on_disk
+DSCF,allocation_fof,0.9837,0.9917,active,2,164874;171412,"Orcam Financial Group, LLC d/b/a Discipline Funds | Empowered Funds, LLC d/b/a EA Advisers",adv_data/brochures/164874/text.txt;adv_data/brochures/171412/text.txt,on_disk
+DSTL,equity_longonly,0.8307,0.9123,active,3,171004;297521;286622,"Vident Investment Advisory, LLC | DISTILLATE CAPITAL PARTNERS LLC  | Vident Asset Management",adv_data/brochures/171004/text.txt;adv_data/brochures/297521/text.txt;adv_data/brochures/286622/text.txt,on_disk
+DSTX,equity_longonly,0.7788,0.8798,active,3,171004;297521;286622,"Vident Investment Advisory, LLC | DISTILLATE CAPITAL PARTNERS LLC  | Vident Asset Management",adv_data/brochures/171004/text.txt;adv_data/brochures/297521/text.txt;adv_data/brochures/286622/text.txt,on_disk
+DWAT,allocation_fof,0.6826,0.8293,active,2,N/A;139652,"Arrow Investment Advisors, LLC | Arrow Investment Advisors, LLC",,bulk_needed
+DWAW,allocation_fof,0.4957,0.7411,active,1,149782,"AdvisorShares Investments, LLC",,bulk_needed
+DWCR,,0.6517,0.8189,active,0,,,,no_crd
+DWFI,,0.6969,0.8406,active,0,,,,no_crd
+DWUS,allocation_fof,0.7477,0.8639,active,1,149782,"AdvisorShares Investments, LLC",,bulk_needed
+DYNF,equity_longonly,0.9006,0.9463,active,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+ECOZ,equity_longonly,0.9658,0.9816,active,2,289843;306600,Purview Investments LLC | TrueMark Investments LLC,,bulk_needed
+FFSG,allocation_fof,0.9753,0.9876,active,1,153467,"FormulaFolios Investments, LLC",,bulk_needed
+FFTG,allocation_fof,0.8108,0.8997,active,1,153467,"FormulaFolios Investments, LLC",,bulk_needed
+FFTI,allocation_fof,0.8328,0.9136,active,1,153467,"FormulaFolios Investments, LLC",,bulk_needed
+FISR,allocation_fof,0.9339,0.9627,active,1,111242,"SSGA Funds Management, Inc.",adv_data/brochures/111242/text.txt,on_disk
+FWDB,,0.7464,0.8571,active,0,,,,no_crd
+GAA,allocation_fof,0.9694,0.9844,active,3,N/A;141600;164201,"Cambria Investment Management, L.P. | Cambria Investment Management, L.P. | Tidal Investments LLC",adv_data/brochures/141600/text.txt;adv_data/brochures/164201/text.txt,on_disk
+GAL,allocation_fof,0.924,0.9597,active,2,;111242,"SSgA Funds Management, Inc. | SSGA Funds Management, Inc.",adv_data/brochures/111242/text.txt,on_disk
+GDMA,allocation_fof,0.451,0.6449,active,2,171412;291195,"Empowered Funds, LLC d/b/a EA Advisers | Gadsden, LLC",adv_data/brochures/171412/text.txt,on_disk
+GK,equity_longonly,0.9421,0.9728,active,2,153649;149782,"Gerber Kawasaki, Inc. | AdvisorShares Investments, LLC",adv_data/brochures/153649/text.txt,on_disk
+GMOM,allocation_fof,0.7083,0.843,active,3,N/A;141600;164201,"Cambria Investment Management, L.P. | Cambria Investment Management, L.P. | Tidal Investments LLC",adv_data/brochures/141600/text.txt;adv_data/brochures/164201/text.txt,on_disk
+GSPY,equity_longonly,0.9801,0.9893,active,2,149335;164201,"Gotham Asset Management, LLC | Tidal Investments LLC",adv_data/brochures/149335/text.txt;adv_data/brochures/164201/text.txt,on_disk
+INKM,allocation_fof,0.9248,0.9602,active,2,;111242,"SSgA Funds Management, Inc. | SSGA Funds Management, Inc.",adv_data/brochures/111242/text.txt,on_disk
+ITAN,equity_longonly,0.9571,0.9772,active,2,171412;314364,"Empowered Funds, LLC d/b/a EA Advisers | Sparkline Capital LP",adv_data/brochures/171412/text.txt;adv_data/brochures/314364/text.txt,on_disk
+KOCG,equity_longonly,0.9344,0.9642,active,2,174129;313337,"Knights of Columbus Asset Advisors LLC | Faith Investor Services, LLC",adv_data/brochures/174129/text.txt,on_disk
+LCTU,equity_longonly,0.9816,0.9907,active,2,105247;106843,BlackRock Fund Advisors | BlackRock International Limited,adv_data/brochures/105247/text.txt;adv_data/brochures/106843/text.txt,on_disk
+LDSF,fixed_income,0.9388,0.9668,active,1,107027,First Trust Advisors L.P.,adv_data/brochures/107027/text.txt,on_disk
+LRGE,equity_longonly,0.9722,0.9854,active,3,137028;110441;140432,"ClearBridge Investments, LLC | Western Asset Management Company, LLC | FRANKLIN TEMPLETON FUND ADVISER, LLC",adv_data/brochures/137028/text.txt;adv_data/brochures/110441/text.txt,on_disk
+MBOX,equity_longonly,0.8878,0.9415,active,2,171412;138962,"Empowered Funds, LLC d/b/a EA Advisers | Freedom Day Solutions, LLC ",adv_data/brochures/171412/text.txt;adv_data/brochures/138962/text.txt,on_disk
+OCIO,allocation_fof,0.9187,0.9583,active,2,157531;170196,ClearShares LLC | Blueprint Investment Partners LLC,adv_data/brochures/157531/text.txt;adv_data/brochures/170196/text.txt,on_disk
+PDBC,commodity_futures,0.8957,0.9466,active,1,125601,Invesco Capital Management LLC,adv_data/brochures/125601/text.txt,on_disk
+PPI,other,0.7985,0.891,active,2,305714;288271,AXS Investments LLC | Astoria Portfolio Advisors LLC,adv_data/brochures/288271/text.txt,on_disk
+PSFF,allocation_fof,0.9256,0.9646,active,3,137396;114669;137381,"Pacer Advisors, Inc. | Swan Global Management, LLC | Pacer Advisors, Inc.",adv_data/brochures/114669/text.txt;adv_data/brochures/137381/text.txt,on_disk
+QVAL,equity_longonly,0.6047,0.7837,active,2,171412;153905,"Empowered Funds, LLC d/b/a EA Advisers | Alpha Architect, LLC",adv_data/brochures/171412/text.txt;adv_data/brochures/153905/text.txt,on_disk
+QXGG,,0.8636,0.9146,active,0,,,,no_crd
+RISN,equity_longonly,0.7459,0.8493,active,1,171988,"CWM Advisors, LLC",adv_data/brochures/171988/text.txt,on_disk
+RLY,allocation_fof,0.9728,0.9853,active,2,;111242,"SSgA Funds Management, Inc. | SSGA Funds Management, Inc.",adv_data/brochures/111242/text.txt,on_disk
+RORO,allocation_fof,0.4595,0.5214,active,2,164201;333968,"Tidal Investments LLC | Tactical Rotation Management, LLC",adv_data/brochures/164201/text.txt,on_disk
+SECT,allocation_fof,0.9225,0.9599,active,1,288558,"Main Management ETF Advisors, LLC",,bulk_needed
+SIXA,equity_longonly,0.8284,0.8927,active,3,283845;151197;307461,"6 Meridian LLC | Exchange Traded Concepts, LLC | Madison Avenue Financial Solutions, LLC",adv_data/brochures/151197/text.txt;adv_data/brochures/307461/text.txt,on_disk
+SIXL,equity_longonly,0.8546,0.9244,active,3,283845;151197;307461,"6 Meridian LLC | Exchange Traded Concepts, LLC | Madison Avenue Financial Solutions, LLC",adv_data/brochures/151197/text.txt;adv_data/brochures/307461/text.txt,on_disk
+SIXS,equity_longonly,0.7778,0.884,active,3,283845;151197;307461,"6 Meridian LLC | Exchange Traded Concepts, LLC | Madison Avenue Financial Solutions, LLC",adv_data/brochures/151197/text.txt;adv_data/brochures/307461/text.txt,on_disk
+SMCP,equity_longonly,0.8062,0.8968,active,1,109366,"AlphaMark Advisors, LLC",adv_data/brochures/109366/text.txt,on_disk
+SQEW,equity_longonly,0.6849,0.8361,active,2,N/A;153139,"Redwood Investment Management, LLC | Redwood Investment Management, LLC",adv_data/brochures/153139/text.txt,on_disk
+SSFI,allocation_fof,0.8878,0.936,active,1,139671,Day Hagan Asset Management,adv_data/brochures/139671/text.txt,on_disk
+SSUS,allocation_fof,0.8188,0.8989,active,1,139671,Day Hagan Asset Management,adv_data/brochures/139671/text.txt,on_disk
+TDSA,allocation_fof,0.3634,0.6043,active,2,151418;151197,"Cabana Asset Management | Exchange Traded Concepts, LLC",adv_data/brochures/151418/text.txt;adv_data/brochures/151197/text.txt,on_disk
+TDSB,allocation_fof,0.5341,0.7039,active,2,151197;151418,"Exchange Traded Concepts, LLC | Cabana Asset Management",adv_data/brochures/151197/text.txt;adv_data/brochures/151418/text.txt,on_disk
+TDSC,allocation_fof,0.4554,0.67,active,2,151197;151418,"Exchange Traded Concepts, LLC | Cabana Asset Management",adv_data/brochures/151197/text.txt;adv_data/brochures/151418/text.txt,on_disk
+TDSD,allocation_fof,0.3029,0.5709,active,2,151418;151197,"Cabana Asset Management | Exchange Traded Concepts, LLC",adv_data/brochures/151418/text.txt;adv_data/brochures/151197/text.txt,on_disk
+TDSE,allocation_fof,0.2715,0.5384,active,2,151418;151197,"Cabana Asset Management | Exchange Traded Concepts, LLC",adv_data/brochures/151418/text.txt;adv_data/brochures/151197/text.txt,on_disk
+TRTY,allocation_fof,0.9233,0.96,active,3,N/A;164201;141600,"Cambria Investment Management, L.P. | Tidal Investments LLC | Cambria Investment Management, L.P.",adv_data/brochures/164201/text.txt;adv_data/brochures/141600/text.txt,on_disk
+TTAC,equity_longonly,0.885,0.941,active,1,135152,FCF Advisors LLC,adv_data/brochures/135152/text.txt,on_disk
+VEGA,equity_options,0.9893,0.9945,active,3,113621;281213;149782,"Partnervest Advisory Services, LLC | CreativeOne Wealth, LLC | AdvisorShares Investments, LLC",adv_data/brochures/281213/text.txt,on_disk
+WBII,allocation_fof,0.3793,0.584,active,2,147298;106336,"Millington Securities LLC | WBI Investments, LLC",adv_data/brochures/106336/text.txt,on_disk
+WBIR,allocation_fof,0.1615,0.4526,active,2,147298;106336,"Millington Securities, Inc. | WBI Investments, Inc.",adv_data/brochures/106336/text.txt,on_disk
+WBIT,allocation_fof,0.401,0.5608,active,2,147298;106336,"Millington Securities LLC | WBI Investments, LLC",adv_data/brochures/106336/text.txt,on_disk
+XDAT,equity_longonly,0.9469,0.9721,active,1,104517,"Franklin Advisers, Inc.",adv_data/brochures/104517/text.txt,on_disk
+XLSR,allocation_fof,0.8644,0.9202,active,1,111242,"SSGA Funds Management, Inc.",adv_data/brochures/111242/text.txt,on_disk
+ACSI,equity_longonly,0.9108,0.9536,index,1,164201,Tidal Investments LLC,adv_data/brochures/164201/text.txt,on_disk
+ACVF,equity_longonly,0.9695,0.9848,,3,171004;300807;286622,Vident Asset Management | Ridgeline Research LLC | Vident Asset Management,adv_data/brochures/171004/text.txt;adv_data/brochures/286622/text.txt,on_disk
+AHLT,commodity_futures,,,,2,105552;167882,"American Beacon Advisors, Inc. | AHL Partners LLP",adv_data/brochures/105552/text.txt;adv_data/brochures/167882/text.txt,on_disk
+AIVI,equity_longonly,0.7177,0.7613,,3,105764;106494;139684,"Mellon Investments Corporation | Voya Investment Management Co. LLC | WisdomTree Asset Management, Inc.",adv_data/brochures/105764/text.txt;adv_data/brochures/106494/text.txt;adv_data/brochures/139684/text.txt,on_disk
+AIVL,equity_longonly,0.8702,0.9331,,3,105764;106494;139684,"Mellon Investments Corporation | Voya Investment Management Co. LLC | WisdomTree Asset Management, Inc.",adv_data/brochures/105764/text.txt;adv_data/brochures/106494/text.txt;adv_data/brochures/139684/text.txt,on_disk
+ARKF,equity_longonly,0.9624,0.9806,,1,169525,ARK Investment Management LLC,adv_data/brochures/169525/text.txt,on_disk
+ARP,allocation_fof,0.7446,0.8551,,3,171004;308010;286622,"Vident Investment Advisory, LLC | PMV Capital Advisers, LLC | Vident Advisory, LLC",adv_data/brochures/171004/text.txt;adv_data/brochures/308010/text.txt;adv_data/brochures/286622/text.txt,on_disk
+AVGV,allocation_fof,0.998,0.9984,,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+AVMA,allocation_fof,0.9898,0.9923,,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+AVNM,allocation_fof,0.9965,0.9969,,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+AVNV,allocation_fof,0.999,0.9987,,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+BAMA,allocation_fof,0.9522,0.9762,,1,153467,"Brookstone Asset Management, LLC",,bulk_needed
+BAMO,allocation_fof,0.9595,0.9797,,1,153467,"Brookstone Asset Management, LLC",,bulk_needed
+BAMY,allocation_fof,0.7545,0.8765,,1,153467,"Brookstone Asset Management, LLC",,bulk_needed
+BCD,commodity_futures,,,,4,171004;172736;111069;N/A,"Vident Investment Advisory, LLC | abrdn ETFs Advisors LLC | abrdn Inc. | Vident Advisory, LLC",adv_data/brochures/171004/text.txt;adv_data/brochures/111069/text.txt,on_disk
+BSR,allocation_fof,0.7583,0.871,,2,120641;151197,"Beacon Capital Management, Inc. | Exchange Traded Concepts LLC",adv_data/brochures/120641/text.txt;adv_data/brochures/151197/text.txt,on_disk
+BTR,allocation_fof,0.6567,0.8187,,2,120641;151197,"Beacon Capital Management, Inc. | Exchange Traded Concepts LLC",adv_data/brochures/120641/text.txt;adv_data/brochures/151197/text.txt,on_disk
+BUFG,allocation_fof,0.4934,0.6924,active,2,165976;107027,VEST FINANCIAL LLC | First Trust Advisors L.P.,adv_data/brochures/165976/text.txt;adv_data/brochures/107027/text.txt,on_disk
+BUFT,allocation_fof,0.426,0.6624,active,2,165976;107027,VEST FINANCIAL LLC | First Trust Advisors L.P.,adv_data/brochures/165976/text.txt;adv_data/brochures/107027/text.txt,on_disk
+CCEF,allocation_fof,0.8362,0.9167,,1,105758,Calamos Advisors LLC,adv_data/brochures/105758/text.txt,on_disk
+CCNR,commodity_futures,0.7585,0.8564,,2,135810;134340,"CoreCommodity Management, LLC | ALPS Advisors, Inc.",adv_data/brochures/135810/text.txt;adv_data/brochures/134340/text.txt,on_disk
+CGBL,allocation_fof,0.987,0.9924,,1,110885,Capital Research and Management Company,adv_data/brochures/110885/text.txt,on_disk
+CHGX,equity_longonly,0.8081,0.9005,index,3,151197;171004;287807,"Exchange Traded Concepts, LLC | Vident Investment Advisory, LLC | Change Finance, PBC",adv_data/brochures/151197/text.txt;adv_data/brochures/171004/text.txt;adv_data/brochures/287807/text.txt,on_disk
+CLSA,allocation_fof,0.1713,0.4567,index,2,151418;151197,"Cabana Asset Management | Exchange Traded Concepts, LLC",adv_data/brochures/151418/text.txt;adv_data/brochures/151197/text.txt,on_disk
+CLSC,allocation_fof,0.1878,0.4902,index,2,151418;151197,"Cabana Asset Management | Exchange Traded Concepts, LLC",adv_data/brochures/151418/text.txt;adv_data/brochures/151197/text.txt,on_disk
+CLSM,allocation_fof,0.3787,0.6009,index,2,151197;151418,"Exchange Traded Concepts, LLC | Cabana Asset Management",adv_data/brochures/151197/text.txt;adv_data/brochures/151418/text.txt,on_disk
+COMB,commodity_futures,,,index,1,287806,GraniteShares Advisors LLC,,bulk_needed
+CUBS,equity_longonly,0.9009,0.9464,,3,291956;315449;151197,"Kingsway Capital Partners Limited | Tema Global Limited | Exchange Traded Concepts, LLC",adv_data/brochures/151197/text.txt,on_disk
+AMID,equity_longonly,0.9237,0.9614,unknown,2,171412;107930,"Empowered Funds, LLC d/b/a EA Advisers | Argent Capital Management, LLC",adv_data/brochures/171412/text.txt;adv_data/brochures/107930/text.txt,on_disk
+APIE,equity_longonly,0.9702,0.9843,,4,122836;113308;111694;108477,"Lazard Asset Management LLC | Causeway Capital Management LLC | Envestnet Asset Management, Inc. | AllianceBernstein L.P.",adv_data/brochures/122836/text.txt;adv_data/brochures/113308/text.txt;adv_data/brochures/111694/text.txt;adv_data/brochures/108477/text.txt,on_disk
+APUE,equity_longonly,0.9848,0.9916,,2,111694;106654,"Envestnet Asset Management, Inc. | The London Company of Virginia, LLC",adv_data/brochures/111694/text.txt;adv_data/brochures/106654/text.txt,on_disk
+BYRE,equity_longonly,0.9618,0.9805,,2,109008;109002,"Principal Real Estate Investors, LLC | Principal Global Investors, LLC",adv_data/brochures/109002/text.txt,on_disk
+DEHP,equity_longonly,0.9698,0.9849,unknown,3,107472;107621;106482,Dimensional Fund Advisors Ltd. | DFA Australia Limited | Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DGRE,equity_longonly,0.7471,0.8199,index,2,139684;105764,"WisdomTree Asset Management, Inc. | Mellon Investments Corporation",adv_data/brochures/139684/text.txt;adv_data/brochures/105764/text.txt,on_disk
+DRAI,allocation_fof,0.6098,0.6585,,2,329860;171412,"Draco Evolution Corp | Empowered Funds, LLC d/b/a EA Advisers",adv_data/brochures/171412/text.txt,on_disk
+DUKH,allocation_fof,0.7325,0.8413,,2,145634;151197,"Ocean Park Asset Management, LLC | Exchange Traded Concepts, LLC",adv_data/brochures/145634/text.txt;adv_data/brochures/151197/text.txt,on_disk
+DUKQ,allocation_fof,0.6465,0.807,,2,145634;151197,"Ocean Park Asset Management, LLC | Exchange Traded Concepts, LLC",adv_data/brochures/145634/text.txt;adv_data/brochures/151197/text.txt,on_disk
+DUKX,allocation_fof,0.5259,0.7204,,2,145634;151197,"Ocean Park Asset Management, LLC | Exchange Traded Concepts, LLC",adv_data/brochures/145634/text.txt;adv_data/brochures/151197/text.txt,on_disk
+DUKZ,allocation_fof,0.6617,0.8027,,2,145634;151197,"Ocean Park Asset Management, LLC | Exchange Traded Concepts, LLC",adv_data/brochures/145634/text.txt;adv_data/brochures/151197/text.txt,on_disk
+DVDN,equity_longonly,0.4495,0.5986,,3,171004;286622;316562,"Vident Asset Management | Vident Asset Management | Kingsbarn Capital Management, LLC",adv_data/brochures/171004/text.txt;adv_data/brochures/286622/text.txt;adv_data/brochures/316562/text.txt,on_disk
+DYFI,allocation_fof,0.5558,0.7294,,2,164201;299658,"Tidal Investments, LLC | IDX Advisors, LLC",adv_data/brochures/164201/text.txt,on_disk
+EBLU,equity_longonly,0.9659,0.9804,index,4,123711;151197;213515;171004,"Tortoise Capital Advisors, LLC | Exchange Traded Concepts, LLC | Tortoise Index Solutions, LLC | Vident Investment Advisory, LLC",adv_data/brochures/123711/text.txt;adv_data/brochures/151197/text.txt;adv_data/brochures/171004/text.txt,on_disk
+ERUS,equity_longonly,0.8822,0.9363,delisted,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+FCPI,equity_longonly,0.7966,0.8957,index,2,115504;108281,"Geode Capital Management, LLC | Fidelity Management & Research Company LLC",adv_data/brochures/115504/text.txt;adv_data/brochures/108281/text.txt,on_disk
+FCTE,allocation_fof,0.3755,0.6296,,2,331301;164201,"3Fourteen & SMI Advisory Services, LLC | Tidal Investments, LLC",adv_data/brochures/164201/text.txt,on_disk
+FDAT,allocation_fof,0.5022,0.6619,,2,164201;297082,Tidal Investments LLC | Family Dynasty Advisors LLC,adv_data/brochures/164201/text.txt;adv_data/brochures/297082/text.txt,on_disk
+FDIF,allocation_fof,0.9983,0.9991,,4,108281;108273;148239;148045,Fidelity Management & Research Company LLC | FMR Investment Management (UK) Limited | Fidelity Management & Research (Japan) Limited | Fidelity Management & Research (Hong Kong) Limited,adv_data/brochures/108281/text.txt;adv_data/brochures/108273/text.txt;adv_data/brochures/148239/text.txt;adv_data/brochures/148045/text.txt,on_disk
+FDLO,equity_longonly,0.9272,0.9624,index,3,108617;108281;115504,"FMR Co., Inc. | Fidelity Management & Research Company LLC | Geode Capital Management, LLC",adv_data/brochures/108281/text.txt;adv_data/brochures/115504/text.txt,on_disk
+FDMO,equity_longonly,0.8253,0.9101,index,3,108617;115504;108281,"FMR Co., Inc. | Geode Capital Management, LLC | Fidelity Management & Research Company LLC",adv_data/brochures/115504/text.txt;adv_data/brochures/108281/text.txt,on_disk
+FDRR,equity_longonly,0.9625,0.9808,index,3,108617;115504;108281,"FMR Co., Inc. | Geode Capital Management, LLC | Fidelity Management & Research Company LLC",adv_data/brochures/115504/text.txt;adv_data/brochures/108281/text.txt,on_disk
+FDVV,equity_longonly,0.9295,0.9639,index,3,108617;108281;115504,"FMR Co., Inc. | Fidelity Management & Research Company LLC | Geode Capital Management, LLC",adv_data/brochures/108281/text.txt;adv_data/brochures/115504/text.txt,on_disk
+FFHG,allocation_fof,0.852,0.9147,unknown,1,153467,"FormulaFolios Investments, LLC",,bulk_needed
+FFND,equity_longonly,0.8867,0.9405,,1,313973,The Future Fund LLC,adv_data/brochures/313973/text.txt,on_disk
+FIDI,equity_longonly,0.8338,0.9026,index,3,108617;108281;115504,"FMR Co., Inc. | Fidelity Management & Research Company LLC | Geode Capital Management, LLC",adv_data/brochures/108281/text.txt;adv_data/brochures/115504/text.txt,on_disk
+FIVA,equity_longonly,0.796,0.8904,index,3,108617;108281;115504,"FMR Co., Inc. | Fidelity Management & Research Company LLC | Geode Capital Management, LLC",adv_data/brochures/108281/text.txt;adv_data/brochures/115504/text.txt,on_disk
+FLDZ,equity_longonly,0.8691,0.9271,,2,122020;306600,"RiverNorth Capital Management, LLC  | TrueMark Investments, LLC",adv_data/brochures/122020/text.txt,on_disk
+FM,equity_longonly,0.928,0.9584,index,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+FPAG,equity_longonly,0.9495,0.972,,1,141823,"FIRST PACIFIC ADVISORS, LP",adv_data/brochures/141823/text.txt,on_disk
+FQAL,equity_longonly,0.9547,0.9767,index,3,108617;115504;108281,"FMR Co., Inc. | Geode Capital Management, LLC | Fidelity Management & Research Company LLC",adv_data/brochures/115504/text.txt;adv_data/brochures/108281/text.txt,on_disk
+FUNL,equity_longonly,0.8814,0.9367,,1,107852,CornerCap Fundametrics Large-Cap ETF,adv_data/brochures/107852/text.txt,on_disk
+FVAL,equity_longonly,0.9453,0.9719,index,3,108617;115504;108281,"FMR Co., Inc. | Geode Capital Management, LLC | Fidelity Management & Research Company LLC",adv_data/brochures/115504/text.txt;adv_data/brochures/108281/text.txt,on_disk
+GFGF,equity_longonly,0.8837,0.9387,unknown,2,171412;316414,"Empowered Funds, LLC d/b/a EA Advisers | GuruFocus Investments, LLC",adv_data/brochures/171412/text.txt;adv_data/brochures/316414/text.txt,on_disk
+GGM,allocation_fof,0.2606,0.5626,,3,159042;111509;115332,"Penserra Capital Management LLC | GGM Wealth Advisors | Waverly Advisors, LLC",adv_data/brochures/159042/text.txt;adv_data/brochures/111509/text.txt;adv_data/brochures/115332/text.txt,on_disk
+GHTA,allocation_fof,0.4979,0.713,,1,312912,"Goose Hollow Capital Management, LLC",adv_data/brochures/312912/text.txt,on_disk
+GLIF,equity_longonly,0.9029,0.9428,unknown,1,122836,Lazard Asset Management LLC,adv_data/brochures/122836/text.txt,on_disk
+GLRY,equity_longonly,0.8262,0.9057,index,2,305092;171988,"SevenOneSeven Capital Management, LTD | CWM Advisors, LLC",adv_data/brochures/305092/text.txt;adv_data/brochures/171988/text.txt,on_disk
+GSID,equity_longonly,0.8545,0.8904,index,1,107738,"Goldman Sachs Asset Management, L.P.",adv_data/brochures/107738/text.txt,on_disk
+GSUS,equity_longonly,0.9937,0.9966,index,1,107738,"Goldman Sachs Asset Management, L.P.",adv_data/brochures/107738/text.txt,on_disk
+HAPY,equity_longonly,0.8604,0.9285,index,1,113402,"Harbor Capital Advisors, Inc.",,bulk_needed
+HAUS,equity_longonly,0.9529,0.9744,,2,164201;317979,Tidal Investments LLC | Armada ETF Advisors LLC,adv_data/brochures/164201/text.txt,on_disk
+HDIV,equity_longonly,0.5653,0.7804,unknown,1,151197,"Exchange Traded Concepts, LLC",adv_data/brochures/151197/text.txt,on_disk
+IECS,equity_longonly,0.9889,0.9929,delisted,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+IEDI,equity_longonly,0.9872,0.9936,delisted,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+IEFN,equity_longonly,0.9788,0.9872,delisted,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+IEHS,equity_longonly,0.987,0.9921,delisted,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+IEIH,equity_longonly,0.9812,0.9879,delisted,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+IGTR,allocation_fof,0.2638,0.5521,,3,159042;141726;287718,"Penserra Capital Management LLC | Gradient Investmens LLC | Innovator Capital Management, LLC",adv_data/brochures/159042/text.txt;adv_data/brochures/141726/text.txt;adv_data/brochures/287718/text.txt,on_disk
+INTL,allocation_fof,0.8714,0.9357,,1,288558,"Main Management ETF Advisors, LLC",,bulk_needed
+IPO,equity_longonly,0.8053,0.8976,index,1,109945,Renaissance Capital LLC,adv_data/brochures/109945/text.txt,on_disk
+IQM,equity_longonly,0.9602,0.9799,index,1,104517,"Franklin Advisers, Inc.",adv_data/brochures/104517/text.txt,on_disk
+IRTR,allocation_fof,0.9981,0.9989,,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+ITDB,allocation_fof,0.9959,0.9979,,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+ITDC,allocation_fof,0.9985,0.9992,,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+ITDD,allocation_fof,0.9991,0.9995,,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+ITDE,allocation_fof,0.9993,0.9996,,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+ITDF,allocation_fof,0.9993,0.9996,,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+ITDG,allocation_fof,0.9994,0.9997,,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+ITDH,allocation_fof,0.9995,0.9997,,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+ITDI,allocation_fof,0.9995,0.9997,,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+IVOL,commodity_futures,1.0,1.0,active,2,157103;172768,"Krane Funds Advisors, LLC | Quadratic Capital Management LLC",adv_data/brochures/157103/text.txt,on_disk
+JFWD,equity_longonly,0.9109,0.9527,,1,112006,Jacob Asset Management of New York LLC,,bulk_needed
+JIG,equity_longonly,0.9299,0.9582,unknown,1,107038,J.P. Morgan Investment Management Inc.,adv_data/brochures/107038/text.txt,on_disk
+JOET,equity_longonly,0.7257,0.8592,index,2,168955;106982,"Virtus ETF Advisers LLC | Virtus Investment Advisers, LLC",adv_data/brochures/106982/text.txt,on_disk
+JSMD,equity_longonly,0.7141,0.8515,index,1,104652,Janus Henderson Investors US LLC,adv_data/brochures/104652/text.txt,on_disk
+KEAT,allocation_fof,0.9873,0.993,,2,171412;110134,"Empowered Funds, LLC d/b/a EA Advisers | Keating Investment Counselors, Inc",adv_data/brochures/171412/text.txt;adv_data/brochures/110134/text.txt,on_disk
+KGRO,allocation_fof,0.9962,0.9974,unknown,1,157103,"Krane Funds Advisors, LLC",adv_data/brochures/157103/text.txt,on_disk
+KLDW,equity_longonly,0.8854,0.9386,index,2,151197;144482,"Exchange Traded Concepts, LLC | Knowledge Leaders Capital, LLC",adv_data/brochures/151197/text.txt;adv_data/brochures/144482/text.txt,on_disk
+KNGS,equity_longonly,0.8402,0.9169,index,2,301340;171412,"Upholdings Group LLC | Empowered Funds, LLC d/b/a EA Advisers",adv_data/brochures/301340/text.txt;adv_data/brochures/171412/text.txt,on_disk
+LCF,equity_longonly,0.9913,0.9957,,2,107028;107126,"Touchstone Advisors, Inc. | Fort Washington Investment Advisors, Inc.",adv_data/brochures/107126/text.txt,on_disk
+LCG,equity_longonly,0.9741,0.9868,,1,135405,Sterling Capital Management LLC,adv_data/brochures/135405/text.txt,on_disk
+LCLG,equity_longonly,0.9808,0.9899,,1,108893,Logan Capital Management Inc.,adv_data/brochures/108893/text.txt,on_disk
+LVOL,equity_longonly,0.8941,0.9451,unknown,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+MAAX,allocation_fof,0.9078,0.9358,active,1,105080,Van Eck Associates Corporation,adv_data/brochures/105080/text.txt,on_disk
+MAPP,allocation_fof,0.84,0.9078,,1,113402,"Harbor Capital Advisors, Inc.",,bulk_needed
+MDCP,equity_longonly,0.9265,0.9625,unknown,1,106189,Victory Capital Management Inc,adv_data/brochures/106189/text.txt,on_disk
+MFUL,allocation_fof,0.5985,0.7332,unknown,2,313126;164937,"Retireful, LLC | Tuttle Capital Management, LLC",adv_data/brochures/313126/text.txt;adv_data/brochures/164937/text.txt,on_disk
+MINV,equity_longonly,0.813,0.9016,,1,106054,"Matthews International Capital Management, LLC",adv_data/brochures/106054/text.txt,on_disk
+MMLG,equity_longonly,0.9279,0.9486,unknown,3,106595;137610;107027,"Wellington Management Company LLP | Sands Capital Management, LLC | First Trust Advisors L.P.",adv_data/brochures/106595/text.txt;adv_data/brochures/137610/text.txt;adv_data/brochures/107027/text.txt,on_disk
+MODL,allocation_fof,0.9136,0.9543,,1,106189,Victory Capital Management Inc,adv_data/brochures/106189/text.txt,on_disk
+MOOD,allocation_fof,0.7017,0.7954,unknown,2,171412;318050,"Empowered Funds, LLC d/b/a EA Advisers | Relative Sentiment Technologies, LLC",adv_data/brochures/171412/text.txt;adv_data/brochures/318050/text.txt,on_disk
+MSMR,allocation_fof,0.2494,0.5274,,2,115120;167626,"MCELHENNY SHEFFIELD CAPITAL MANAGEMENT, LLC | APTUS CAPITAL ADVISORS, LLC",adv_data/brochures/115120/text.txt;adv_data/brochures/167626/text.txt,on_disk
+NETZ,equity_longonly,0.8388,0.9143,,2,311877;106546,Fund Management at Engine No. 1 LLC | TCW Investment Management Company LLC,adv_data/brochures/106546/text.txt,on_disk
+OPPX,allocation_fof,0.8434,0.9167,,2,151197;305063,"Exchange Traded Concepts, LLC | Corbett Road Capital Management, LLC",adv_data/brochures/151197/text.txt;adv_data/brochures/305063/text.txt,on_disk
+PDBA,commodity_futures,,,,1,125601,Invesco Capital Management LLC,adv_data/brochures/125601/text.txt,on_disk
+PLRG,equity_longonly,0.9836,0.9896,unknown,1,109002,"Principal Global Investors, LLC",adv_data/brochures/109002/text.txt,on_disk
+PLTL,equity_longonly,0.8201,0.8979,unknown,1,109002,"Principal Global Investors, LLC",adv_data/brochures/109002/text.txt,on_disk
+PSC,equity_longonly,0.7896,0.8908,index,1,109002,"Principal Global Investors, LLC",adv_data/brochures/109002/text.txt,on_disk
+PSET,equity_longonly,0.8715,0.9332,index,1,109002,"Principal Global Investors, LLC",adv_data/brochures/109002/text.txt,on_disk
+PSMB,allocation_fof,0.8918,0.9384,active,2,105360;125601,"Invesco Advisers, Inc. | Invesco Capital Management LLC",adv_data/brochures/105360/text.txt;adv_data/brochures/125601/text.txt,on_disk
+PSMC,allocation_fof,0.8963,0.9332,active,2,125601;105360,"Invesco Capital Management LLC | Invesco Advisers, Inc.",adv_data/brochures/125601/text.txt;adv_data/brochures/105360/text.txt,on_disk
+PSMG,allocation_fof,0.8944,0.9413,active,2,105360;125601,"Invesco Advisers, Inc. | Invesco Capital Management LLC",adv_data/brochures/105360/text.txt;adv_data/brochures/125601/text.txt,on_disk
+PSMM,allocation_fof,0.8937,0.9359,active,2,105360;125601,"Invesco Advisers, Inc. | Invesco Capital Management LLC",adv_data/brochures/105360/text.txt;adv_data/brochures/125601/text.txt,on_disk
+PSTR,allocation_fof,0.9593,0.9778,,1,329193,"PeakShares, LLC",,bulk_needed
+PY,equity_longonly,0.8361,0.9164,index,1,109002,"Principal Global Investors, LLC",adv_data/brochures/109002/text.txt,on_disk
+QPX,allocation_fof,0.8663,0.9046,unknown,2,300530;149782,"ThinkBetter, LLC | AdvisorShares Investments, LLC",adv_data/brochures/300530/text.txt,on_disk
+QTUM,equity_longonly,0.9296,0.9602,index,2,294410;159042,Defiance ETFs LLC | Penserra Capital Management LLC,adv_data/brochures/159042/text.txt,on_disk
+RAYC,equity_longonly,0.7246,0.8516,,1,150978,"Rayliant Asset Management, LLC",,bulk_needed
+RAYD,equity_longonly,0.72,0.8507,,1,150978,Rayliant Asset Management,,bulk_needed
+RAYE,equity_longonly,0.7127,0.843,,1,150978,Rayliant Asset Management,,bulk_needed
+RESD,equity_longonly,0.9625,0.9728,,3,;105764;139684,"BNY Mellon Asset Management North America Corporation | Mellon Investments Corporation | WisdomTree Asset Management, Inc.",adv_data/brochures/105764/text.txt;adv_data/brochures/139684/text.txt,on_disk
+RESP,equity_longonly,0.9565,0.9774,unknown,2,105764;139684,"Mellon Investments Corporation | WisdomTree Asset Management, Inc.",adv_data/brochures/105764/text.txt;adv_data/brochures/139684/text.txt,on_disk
+RHRX,allocation_fof,0.7618,0.8636,,1,281201,"Cavalier Investments, LLC d/b/a Adaptive Investments",adv_data/brochures/281201/text.txt,on_disk
+RHTX,allocation_fof,0.9148,0.9558,,1,281201,"Cavalier Investments, LLC d/b/a Adaptive Investments",adv_data/brochures/281201/text.txt,on_disk
+RMIF,allocation_fof,0.7901,0.8826,,2,168700;109420,"Little Harbor Advisors, LLC | Grimes & Company Wealth Management, LLC",adv_data/brochures/168700/text.txt;adv_data/brochures/109420/text.txt,on_disk
+RSEE,equity_longonly,0.7928,0.8597,,2,284474;290259,"Rareview Capital, LLC | GST Management, LLC",adv_data/brochures/284474/text.txt;adv_data/brochures/290259/text.txt,on_disk
+RSSB,allocation_fof,0.9307,0.9655,,2,164201;159064,Tidal Investments LLC | Newfound Research LLC,adv_data/brochures/164201/text.txt;adv_data/brochures/159064/text.txt,on_disk
+RSXJ,equity_longonly,0.8524,0.8864,index,1,105080,Van Eck Associates Corporation,adv_data/brochures/105080/text.txt,on_disk
+RUFF,equity_longonly,0.5533,0.7386,,2,164201;152001,"Toroso Asset Management | Gea Sphere, LLC",adv_data/brochures/164201/text.txt;adv_data/brochures/152001/text.txt,on_disk
+SAMT,equity_longonly,0.7046,0.841,,3,171004;286622;172000,"Vident Investment Advisory, LLC | Vident Advisory, LLC | Strategas Asset Management, LLC",adv_data/brochures/171004/text.txt;adv_data/brochures/286622/text.txt;adv_data/brochures/172000/text.txt,on_disk
+SEIM,equity_longonly,0.8909,0.9462,,1,105146,SEI Investments Management Corporation,adv_data/brochures/105146/text.txt,on_disk
+SEIQ,equity_longonly,0.9596,0.9795,,1,105146,SEI Investments Management Corporation,adv_data/brochures/105146/text.txt,on_disk
+SEIV,equity_longonly,0.9281,0.9632,,1,105146,SEI Investments Management Corporation,adv_data/brochures/105146/text.txt,on_disk
+SELV,equity_longonly,0.9702,0.9848,,1,105146,SEI Investments Management Corporation,adv_data/brochures/105146/text.txt,on_disk
+SNAV,allocation_fof,0.6127,0.7683,,2,313126;164937,"Retireful, LLC | Tuttle Capital Management, LLC",adv_data/brochures/313126/text.txt;adv_data/brochures/164937/text.txt,on_disk
+SPRX,equity_longonly,0.8164,0.8942,,1,314594,"Spear Advisors, LLC",adv_data/brochures/314594/text.txt,on_disk
+SQLV,equity_longonly,0.7984,0.8932,index,4,N/A;107689;110441;140432,"Royce & Associates LP | Royce & Associates, LP | Western Asset Management Company, LLC | FRANKLIN TEMPLETON FUND ADVISER, LLC",adv_data/brochures/107689/text.txt;adv_data/brochures/110441/text.txt,on_disk
+SSXU,allocation_fof,0.7072,0.8129,unknown,1,139671,Day Hagan Asset Management,adv_data/brochures/139671/text.txt,on_disk
+SXQG,equity_longonly,0.852,0.9251,unknown,3,283845;151197;307461,"6 Meridian LLC | Exchange Traded Concepts, LLC | Madison Avenue Financial Solutions, LLC",adv_data/brochures/151197/text.txt;adv_data/brochures/307461/text.txt,on_disk
+TACK,allocation_fof,0.817,0.9,,2,289178;297384,Cary Street Partners Asset Management LLC | Fairlead Strategies LLC,adv_data/brochures/289178/text.txt;adv_data/brochures/297384/text.txt,on_disk
+TBFC,allocation_fof,0.7541,0.8587,,2,159042;123452,Penserra Capital Management LLC | The Milwaukee Company,adv_data/brochures/159042/text.txt;adv_data/brochures/123452/text.txt,on_disk
+TBFG,allocation_fof,0.6986,0.8254,,2,159042;123452,Penserra Capital Management LLC | The Milwaukee Company,adv_data/brochures/159042/text.txt;adv_data/brochures/123452/text.txt,on_disk
+TPHD,equity_longonly,0.9037,0.951,index,2,106189;41835,"Victory Capital Management Inc | Timothy Partners, Ltd.",adv_data/brochures/106189/text.txt,on_disk
+TPHE,equity_longonly,0.9127,0.9557,index,2,41835;106189,"Timothy Partners, Ltd. | Victory Capital Management Inc",adv_data/brochures/106189/text.txt,on_disk
+TPLC,equity_longonly,0.9393,0.9681,index,2,106189;41835,"Victory Capital Management Inc | Timothy Partners, Ltd.",adv_data/brochures/106189/text.txt,on_disk
+TPLE,equity_longonly,0.9439,0.9701,index,2,41835;106189,"Timothy Partners, Ltd. | Victory Capital Management Inc",adv_data/brochures/106189/text.txt,on_disk
+TPSC,equity_longonly,0.8762,0.9366,index,2,106189;41835,"Victory Capital Management Inc | Timothy Partners, Ltd.",adv_data/brochures/106189/text.txt,on_disk
+TPYP,equity_longonly,0.9852,0.9917,index,3,151197;123711;213515,"Exchange Traded Concepts, LLC | Tortoise Capital Advisors, LLC | Tortoise Index Solutions, LLC",adv_data/brochures/151197/text.txt;adv_data/brochures/123711/text.txt,on_disk
+TUG,equity_longonly,0.987,0.9933,,2,104720;173690,Shelton Capital Management | STF Management LP,adv_data/brochures/104720/text.txt;adv_data/brochures/173690/text.txt,on_disk
+UDI,equity_longonly,0.9392,0.9695,,2,171962;105800,"USCF Advisers, LLC | MILLER HOWARD INVESTMENTS INC",adv_data/brochures/105800/text.txt,on_disk
+UMMA,equity_longonly,0.9583,0.9755,,1,242793,Wahed Invest LLC,adv_data/brochures/242793/text.txt,on_disk
+USMC,equity_longonly,0.9466,0.9725,index,1,109002,"Principal Global Investors, LLC",adv_data/brochures/109002/text.txt,on_disk
+VDNI,equity_longonly,0.9702,0.9787,,2,310355;171004,"V-Square Quantitative Management, LLC | Vident Investment Advisory, LLC",adv_data/brochures/310355/text.txt;adv_data/brochures/171004/text.txt,on_disk
+VMOT,allocation_fof,0.9111,0.9469,active,2,171412;153905,"Empowered Funds, LLC d/b/a EA Advisers | Alpha Architect, LLC",adv_data/brochures/171412/text.txt;adv_data/brochures/153905/text.txt,on_disk
+VSLU,equity_longonly,0.9695,0.9845,,2,140054;164201,"Applied Finance Advisors, LLC | Tidal Investments, LLC",adv_data/brochures/164201/text.txt,on_disk
+VWID,equity_longonly,0.8921,0.9252,unknown,3,106982;168955;106595,"Virtus Investment Advisers, LLC | Virtus ETF Advisers LLC | Wellington Management Company LLP",adv_data/brochures/106982/text.txt;adv_data/brochures/106595/text.txt,on_disk
+WBIY,equity_longonly,0.6713,0.8239,index,2,106336;147298,"WBI Investments, LLC | Millington Securities LLC",adv_data/brochures/106336/text.txt,on_disk
+WLTG,equity_longonly,0.7946,0.8832,,2,174901;164201,"WealthTrust Asset Management, LLC | Tidal Investments, LLC",adv_data/brochures/174901/text.txt;adv_data/brochures/164201/text.txt,on_disk
+WTV,equity_longonly,0.7707,0.8816,index,2,105764;139684,"Mellon Investments Corporation | WisdomTree Asset Management, Inc.",adv_data/brochures/105764/text.txt;adv_data/brochures/139684/text.txt,on_disk
+XCOR,allocation_fof,0.7837,0.8905,,1,114861,"One Capital Management, LLC",adv_data/brochures/114861/text.txt,on_disk
+XFLX,allocation_fof,0.7177,0.8536,,1,114861,"One Capital Management, LLC",adv_data/brochures/114861/text.txt,on_disk
+XNAV,allocation_fof,0.742,0.8688,,1,114861,"One Capital Management, LLC",adv_data/brochures/114861/text.txt,on_disk
+XPND,equity_longonly,0.8684,0.9295,index,1,107027,First Trust Advisors L.P.,adv_data/brochures/107027/text.txt,on_disk
+XRLX,allocation_fof,0.827,0.9116,,1,114861,"One Capital Management, LLC",adv_data/brochures/114861/text.txt,on_disk
+YMAG,allocation_fof,0.9381,0.9541,,2,156803;164201,"ZEGA Financial, LLC | Tidal Investments LLC",adv_data/brochures/156803/text.txt;adv_data/brochures/164201/text.txt,on_disk
+YMAX,allocation_fof,0.7917,0.8587,,2,156803;164201,"ZEGA Financial, LLC | Tidal Investments LLC",adv_data/brochures/156803/text.txt;adv_data/brochures/164201/text.txt,on_disk
+ZECP,equity_longonly,0.9774,0.9886,,1,110897,"Zacks Investment Management, Inc.",adv_data/brochures/110897/text.txt,on_disk
+ADVE,equity_longonly,0.9392,0.9693,,1,106054,"Matthews International Capital Management, LLC",adv_data/brochures/106054/text.txt,on_disk
+AVLC,equity_longonly,0.9892,0.9944,,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+BAMD,equity_longonly,0.8887,0.9443,,1,153467,"Brookstone Asset Management, LLC",,bulk_needed
+BAMG,equity_longonly,0.8632,0.931,,1,153467,"Brookstone Asset Management, LLC",,bulk_needed
+BAMV,equity_longonly,0.8217,0.9105,,1,153467,"Brookstone Asset Management, LLC",,bulk_needed
+BCHP,equity_longonly,0.9772,0.9889,unknown,1,109002,"Principal Global Investors, LLC",adv_data/brochures/109002/text.txt,on_disk
+BDVG,equity_longonly,0.9635,0.9763,,2,110005;145463,"IM Global Partner Fund Management, LLC | Berkshire Asset Management, LLC",adv_data/brochures/145463/text.txt,on_disk
+BGIG,equity_longonly,0.9697,0.9852,,1,106139,"Bahl & Gaynor, Inc.",adv_data/brochures/106139/text.txt,on_disk
+BKIV,equity_longonly,0.9646,0.9824,,3,306148;111208;312937,"BNY Mellon ETF Investment Adviser, LLC | Newton Investment Management Limited | Newton Investment Management North America, LLC",adv_data/brochures/312937/text.txt,on_disk
+BKWO,equity_longonly,0.9563,0.9785,,3,306148;312937;111208,"BNY Mellon ETF Investment Adviser, LLC | Newton Investment Management North America, LLC | Newton Investment Management Limited",adv_data/brochures/312937/text.txt,on_disk
+BLCR,equity_longonly,0.9118,0.9561,,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+BLCV,equity_longonly,0.8898,0.9421,,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+BWTG,equity_longonly,0.9252,0.9602,,2,N/A;164937,"Brendan Wood TopGun Partnerships, Inc. | Tuttle Capital Management, LLC",adv_data/brochures/164937/text.txt,on_disk
+CAMX,equity_longonly,0.8602,0.9298,,1,115093,"CAMBIAR INVESTORS, LLC",adv_data/brochures/115093/text.txt,on_disk
+CANC,equity_longonly,0.9152,0.9559,,4,315449;332224;164201;321256,"Tema Global Limited | Tema ETFs LLC | Tidal Investments LLC | NEOS Investment Management, LLC",adv_data/brochures/164201/text.txt;adv_data/brochures/321256/text.txt,on_disk
+CGRO,equity_longonly,0.8795,0.9273,,2,164201;326791,Tidal Investments LLC | MSA Power Funds LLC,adv_data/brochures/164201/text.txt,on_disk
+CVSE,equity_longonly,0.9735,0.9832,unknown,1,110353,Morgan Stanley Investment Management Inc.,adv_data/brochures/110353/text.txt,on_disk
+DCOR,equity_longonly,0.9908,0.9952,,1,106482,Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DFVX,equity_longonly,0.9824,0.9912,,3,107472;107621;106482,Dimensional Fund Advisors Ltd. | DFA Australia Limited | Dimensional Fund Advisors LP,adv_data/brochures/106482/text.txt,on_disk
+DRLL,equity_longonly,0.975,0.9853,index,2,322039;171412,"Strive Asset Management, LLC | Empowered Funds, LLC d/b/a EA Advisers",adv_data/brochures/322039/text.txt;adv_data/brochures/171412/text.txt,on_disk
+DSMC,equity_longonly,0.7152,0.8524,,3,171004;297521;286622,"Vident Investment Advisory, LLC | DISTILLATE CAPITAL PARTNERS LLC  | Vident Asset Management",adv_data/brochures/171004/text.txt;adv_data/brochures/297521/text.txt;adv_data/brochures/286622/text.txt,on_disk
+ECML,equity_longonly,0.8574,0.9261,,2,171412;159018,"Empowered Funds, LLC d/b/a EA Advisers | Euclidean Technologies Management, LLC",adv_data/brochures/171412/text.txt;adv_data/brochures/159018/text.txt,on_disk
+EMC,equity_longonly,0.9095,0.9547,,2,152807;146932,Mirae Asset Global Investments (Hong Kong) Limited | Global X Management Company LLC,adv_data/brochures/152807/text.txt;adv_data/brochures/146932/text.txt,on_disk
+EMM,equity_longonly,0.8885,0.943,unknown,2,152807;146932,Mirae Asset Global Investments (Hong Kong) Limited | Global X Management Company LLC,adv_data/brochures/152807/text.txt;adv_data/brochures/146932/text.txt,on_disk
+EQTY,equity_longonly,0.9537,0.9765,,1,282241,"Kovitz Investment Group Partners, LLC",adv_data/brochures/282241/text.txt,on_disk
+FCFY,equity_longonly,0.831,0.9092,,1,107027,First Trust Advisors L.P.,adv_data/brochures/107027/text.txt,on_disk
+FDLS,equity_longonly,0.3782,0.6792,,1,171988,"CWM Advisors, LLC",adv_data/brochures/171988/text.txt,on_disk
+FFOG,equity_longonly,0.9638,0.9823,,1,104517,"Franklin Advisers, Inc.",adv_data/brochures/104517/text.txt,on_disk
+FWD,equity_longonly,0.7753,0.8777,,1,108477,AllianceBernstein L.P.,adv_data/brochures/108477/text.txt,on_disk
+GSC,equity_longonly,0.8413,0.9194,,1,107738,"Goldman Sachs Asset Management, L.P.",adv_data/brochures/107738/text.txt,on_disk
+HAPI,equity_longonly,0.9392,0.9689,index,1,113402,"Harbor Capital Advisors, Inc.",,bulk_needed
+HAPS,equity_longonly,0.8122,0.9045,,1,113402,"Harbor Capital Advisors, Inc.",,bulk_needed
+HIDV,equity_longonly,0.8991,0.9393,,1,108477,AllianceBernstein L.P.,adv_data/brochures/108477/text.txt,on_disk
+HRTS,equity_longonly,0.9299,0.9631,,4,315449;332224;164201;321256,"Tema Global Limited | Tema ETFs LLC | Tidal Investments LLC | NEOS Investment Management, LLC",adv_data/brochures/164201/text.txt;adv_data/brochures/321256/text.txt,on_disk
+JCHI,equity_longonly,0.9515,0.9754,,1,107038,J.P. Morgan Investment Management Inc.,adv_data/brochures/107038/text.txt,on_disk
+JDOC,equity_longonly,0.9282,0.9639,,1,107038,J.P. Morgan Investment Management Inc.,adv_data/brochures/107038/text.txt,on_disk
+JGLO,equity_longonly,0.916,0.9594,,1,107038,J.P. Morgan Investment Management Inc.,adv_data/brochures/107038/text.txt,on_disk
+JPAN,equity_longonly,0.8629,0.9327,,1,106054,"Matthews International Capital Management, LLC",adv_data/brochures/106054/text.txt,on_disk
+JPEF,equity_longonly,0.9571,0.9789,,1,107038,J.P. Morgan Investment Management Inc.,adv_data/brochures/107038/text.txt,on_disk
+LBO,equity_longonly,0.9765,0.9872,,2,171412;311816,"Empowered Funds, LLC d/b/a EA Advisers | White Wolf Capital Advisors, LLC",adv_data/brochures/171412/text.txt;adv_data/brochures/311816/text.txt,on_disk
+LOWV,equity_longonly,0.97,0.9852,,1,108477,AllianceBernstein L.P.,adv_data/brochures/108477/text.txt,on_disk
+LRGC,equity_longonly,0.9799,0.99,,1,108477,AllianceBernstein L.P.,adv_data/brochures/108477/text.txt,on_disk
+MCH,equity_longonly,0.9557,0.9769,,1,106054,"Matthews International Capital Management, LLC",adv_data/brochures/106054/text.txt,on_disk
+MEDI,equity_longonly,0.9186,0.9584,,2,146990;113402,"Westfield Capital Management Company, L.P. | Harbor Capital Advisors, Inc.",adv_data/brochures/146990/text.txt,on_disk
+NANC,equity_longonly,0.9573,0.974,,1,164201,Tidal Investments LLC,adv_data/brochures/164201/text.txt,on_disk
+PCGG,equity_longonly,0.9322,0.9659,,2,110005;106093,"IM Global Partner Fund Management, LLC | Polen Capital Management, L.L.C.",adv_data/brochures/106093/text.txt,on_disk
+PEMX,equity_longonly,0.8474,0.9196,,4,122254;106629;111360;104517,"Putnam Investments Limited  | Putnam Investment Management, LLC   | Franklin Templeton Investment Management Limited | Franklin Advisors, Inc",adv_data/brochures/122254/text.txt;adv_data/brochures/106629/text.txt;adv_data/brochures/111360/text.txt;adv_data/brochures/104517/text.txt,on_disk
+PJFG,equity_longonly,0.9699,0.9854,,2,105670;107959,PGIM INVESTMENTS LLC | Jennison Associates LLC,adv_data/brochures/107959/text.txt,on_disk
+PJFV,equity_longonly,0.9267,0.963,,2,107959;105670,Jennison Associates LLC | PGIM INVESTMENTS LLC,adv_data/brochures/107959/text.txt,on_disk
+QUVU,equity_longonly,0.9161,0.9574,,2,106595;147746,"Wellington Management Company LLP | Hartford Funds Management Company, LLC",adv_data/brochures/106595/text.txt;adv_data/brochures/147746/text.txt,on_disk
+REAI,equity_longonly,0.746,0.8666,,2,164201;317979,Tidal Investments LLC | Armada ETF Advisors LLC,adv_data/brochures/164201/text.txt,on_disk
+RVRB,equity_longonly,0.9918,0.9956,,2,322048;159042,Distribution Cognizant LLC | Penserra Capital Management LLC,adv_data/brochures/159042/text.txt,on_disk
+SMRI,equity_longonly,0.6099,0.7915,,2,171412;285645,"Empowered Funds, LLC d/b/a EA Advisers | Sepio Capital L.P.",adv_data/brochures/171412/text.txt;adv_data/brochures/285645/text.txt,on_disk
+SPDG,equity_longonly,0.9355,0.9662,,1,111242,"SSGA Funds Management, Inc.",adv_data/brochures/111242/text.txt,on_disk
+SROI,equity_longonly,0.9655,0.9823,,2,322813;105758,Calamos Antetokounmpo Asset Management LLC | Calamos Advisors LLC,adv_data/brochures/105758/text.txt,on_disk
+STRV,equity_longonly,0.9929,0.9964,index,2,322039;171412,"Strive Asset Management, LLC | Empowered Funds, LLC d/b/a EA Advisers",adv_data/brochures/322039/text.txt;adv_data/brochures/171412/text.txt,on_disk
+STXD,equity_longonly,0.9665,0.9829,index,2,322039;171412,"Strive Asset Management, LLC | Empowered Funds, LLC d/b/a EA Advisers",adv_data/brochures/322039/text.txt;adv_data/brochures/171412/text.txt,on_disk
+STXE,equity_longonly,0.936,0.9521,,2,322039;171412,"Strive Asset Management, LLC | Empowered Funds, LLC d/b/a EA Advisers",adv_data/brochures/322039/text.txt;adv_data/brochures/171412/text.txt,on_disk
+STXG,equity_longonly,0.9926,0.9962,index,2,322039;171412,"Strive Asset Management, LLC | Empowered Funds, LLC d/b/a EA Advisers",adv_data/brochures/322039/text.txt;adv_data/brochures/171412/text.txt,on_disk
+STXV,equity_longonly,0.9586,0.9782,index,2,322039;171412,"Strive Asset Management, LLC | Empowered Funds, LLC d/b/a EA Advisers",adv_data/brochures/322039/text.txt;adv_data/brochures/171412/text.txt,on_disk
+TCAF,equity_longonly,0.9553,0.9778,,2,314590;105496,"T. Rowe Price Investment Management, Inc. | T. Rowe Price Associates, Inc.",adv_data/brochures/314590/text.txt;adv_data/brochures/105496/text.txt,on_disk
+TGLR,equity_longonly,0.9653,0.9809,,2,164937;108068,"Tuttle Capital Management, LLC | Laffer Tengler Investments, LLC",adv_data/brochures/164937/text.txt;adv_data/brochures/108068/text.txt,on_disk
+TGRT,equity_longonly,0.9838,0.9917,,1,105496,"T. Rowe Price Associates, Inc.",adv_data/brochures/105496/text.txt,on_disk
+TMSL,equity_longonly,0.8984,0.9485,,1,105496,"T. Rowe Price Associates, Inc.",adv_data/brochures/105496/text.txt,on_disk
+TOLL,equity_longonly,0.9378,0.9683,,4,315449;332224;164201;321256,"Tema Global Limited | Tema ETFs LLC | Tidal Investments LLC | NEOS Investment Management, LLC",adv_data/brochures/164201/text.txt;adv_data/brochures/321256/text.txt,on_disk
+TOUS,equity_longonly,0.9261,0.9628,,2,105496;126032,"T. Rowe Price Associates, Inc. | T. Rowe Price International Ltd",adv_data/brochures/105496/text.txt;adv_data/brochures/126032/text.txt,on_disk
+TVAL,equity_longonly,0.9243,0.9611,,1,105496,"T. Rowe Price Associates, Inc.",adv_data/brochures/105496/text.txt,on_disk
+YALL,equity_longonly,0.9645,0.9791,,2,164201;281943,"Tidal Investments LLC | Curran Financial Partners, LLC",adv_data/brochures/164201/text.txt;adv_data/brochures/281943/text.txt,on_disk
+ASPY,equity_longshort,0.7056,0.8129,,2,312297;164201,"ASYMmetric ETFs, LLC | Toroso Investments, LLC",adv_data/brochures/164201/text.txt,on_disk
+BTAL,equity_longshort,0.7473,0.861,index,1,153781,AGF Investments LLC ,adv_data/brochures/153781/text.txt,on_disk
+CLSE,equity_longshort,0.722,0.8438,,1,148472,"Convergence Investment Partners, LLC.",adv_data/brochures/148472/text.txt,on_disk
+JPED,equity_longshort,0.5423,0.7489,unknown,1,107038,J.P. Morgan Investment Management Inc.,adv_data/brochures/107038/text.txt,on_disk
+LSEQ,equity_longshort,0.4378,0.6428,,2,167254;113402,"Disciplined Alpha LLC | Harbor Capital Advisors, Inc.",adv_data/brochures/167254/text.txt,on_disk
+MARB,equity_longshort,0.4367,0.6812,active,3,168884;107027;317825,"Vivaldi Asset Management, LLC | First Trust Advisors L.P. | First Trust Capital Management L.P.",adv_data/brochures/107027/text.txt;adv_data/brochures/317825/text.txt,on_disk
+PHDG,equity_longshort,0.8622,0.8928,index,1,125601,Invesco Capital Management LLC,adv_data/brochures/125601/text.txt,on_disk
+SHDG,equity_longshort,0.9999,1.0,,1,173151,Soundwatch Capital LLC,adv_data/brochures/173151/text.txt,on_disk
+SHRT,equity_longshort,0.3891,0.6353,,2,149335;164201,"Gotham Asset Management, LLC | Tidal Investments LLC",adv_data/brochures/149335/text.txt;adv_data/brochures/164201/text.txt,on_disk
+TPMN,equity_longshort,0.9401,0.9692,,2,41835;106189,"Timothy Partners, Ltd. | Victory Capital Management Inc",adv_data/brochures/106189/text.txt,on_disk
+XVOL,equity_longshort,0.6054,0.7806,active,2,164201;305482,"Tidal Investments LLC | Acruence Capital, LLC",adv_data/brochures/164201/text.txt;adv_data/brochures/305482/text.txt,on_disk
+ABCS,equity_longonly,0.9694,0.9844,unknown,2,171412;328350,"Empowered Funds, LLC d/b/a EA Advisers | Alpha Blue Capital Management, LP",adv_data/brochures/171412/text.txt,on_disk
+AGIX,equity_longonly,0.9321,0.9635,,2,330644;157103,"Etna Capital Management Company Ltd. | Krane Funds Advisors, LLC",adv_data/brochures/330644/text.txt;adv_data/brochures/157103/text.txt,on_disk
+AVEE,equity_longonly,0.8715,0.9333,,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+AVMC,equity_longonly,0.9479,0.9744,,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+AVMV,equity_longonly,0.9175,0.9599,,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+AVXC,equity_longonly,0.9831,0.9913,,1,105778,"American Century Investment Management, Inc.",adv_data/brochures/105778/text.txt,on_disk
+BCIL,equity_longonly,0.6283,0.7663,,1,151197,"Exchange Traded Concepts, LLC",adv_data/brochures/151197/text.txt,on_disk
+BCUS,equity_longonly,0.7077,0.8249,,2,328736;151197,"Bancreek Capital Advisors, LLC | Exchange Traded Concepts, LLC",adv_data/brochures/151197/text.txt,on_disk
+BDIV,equity_longonly,0.9648,0.9815,,3,286622;300409;46727,"Vident Asset Management | Brentview Investment Management, LLC | Advisors Asset Management, Inc.",adv_data/brochures/286622/text.txt;adv_data/brochures/300409/text.txt;adv_data/brochures/46727/text.txt,on_disk
+CARK,equity_longonly,0.9504,0.9757,,1,109587,CastleArk Management LLC,adv_data/brochures/109587/text.txt,on_disk
+CGCV,equity_longonly,0.9589,0.9795,,1,110885,Capital Research and Management Company,adv_data/brochures/110885/text.txt,on_disk
+CPAI,equity_longonly,0.2606,0.6185,,1,172379,"Counterpoint Funds, LLC",adv_data/brochures/172379/text.txt,on_disk
+EMOT,equity_longonly,0.9454,0.9718,,1,107027,First Trust Advisors L.P.,adv_data/brochures/107027/text.txt,on_disk
+GLOW,equity_longonly,0.9578,0.9787,,1,106189,Victory Capital Management Inc,adv_data/brochures/106189/text.txt,on_disk
+GRW,equity_longonly,0.928,0.965,,1,106546,TCW Investment Management Company LLC,adv_data/brochures/106546/text.txt,on_disk
+INRO,equity_longonly,0.944,0.9662,,1,105247,BlackRock Fund Advisors,adv_data/brochures/105247/text.txt,on_disk
+JADE,equity_longonly,0.9722,0.9854,,1,107038,J.P. Morgan Investment Management Inc.,adv_data/brochures/107038/text.txt,on_disk
+JDVI,equity_longonly,0.9019,0.9501,,2,124982;105790,"Boston Partners Global Investors, Inc | John Hancock Investment Management LLC",adv_data/brochures/124982/text.txt,on_disk
+KOOL,equity_longonly,0.8377,0.9191,,1,152003,Split Rock Private Trading and Wealth Management LLC,adv_data/brochures/152003/text.txt,on_disk
+LCDS,equity_longonly,0.9862,0.9928,,1,107038,J.P. Morgan Investment Management Inc.,adv_data/brochures/107038/text.txt,on_disk
+LGHT,equity_longonly,0.974,0.986,,1,323433,"Langar Investment Management, LLC",,bulk_needed
+LOGO,equity_longonly,0.7514,0.8589,,2,164201;134096,Tidal Investments LLC | Accuvest Global Advisors Inc.,adv_data/brochures/164201/text.txt;adv_data/brochures/134096/text.txt,on_disk
+LQAI,equity_longonly,0.7281,0.7953,,1,151197,"Exchange Traded Concepts, LLC",adv_data/brochures/151197/text.txt,on_disk
+LYLD,equity_longonly,0.9018,0.9501,,2,141600;164201,"Cambria Investment Management, L.P. | Tidal Investments LLC",adv_data/brochures/141600/text.txt;adv_data/brochures/164201/text.txt,on_disk
+MCDS,equity_longonly,0.917,0.9567,,1,107038,J.P. Morgan Investment Management Inc.,adv_data/brochures/107038/text.txt,on_disk
+MCHS,equity_longonly,0.8172,0.9044,,1,106054,"Matthews International Capital Management, LLC",adv_data/brochures/106054/text.txt,on_disk
+MEMS,equity_longonly,0.9215,0.9604,,1,106054,"Matthews International Capital Management, LLC",adv_data/brochures/106054/text.txt,on_disk
+MGNR,equity_longonly,0.8577,0.928,,2,105552;138802,"American Beacon Advisors, Inc. | GLG LLC",adv_data/brochures/105552/text.txt;adv_data/brochures/138802/text.txt,on_disk
+MVPA,equity_longonly,0.84,0.9186,,1,110632,"Miller Value Partners, LLC",adv_data/brochures/110632/text.txt,on_disk
+MVPL,equity_longonly,0.4939,0.6664,,1,110632,"Miller Value Partners, LLC",adv_data/brochures/110632/text.txt,on_disk
+NDOW,equity_longonly,0.5973,0.7737,,2,327121;313126,"Collaborative Fund Advisors | Retireful, LLC",adv_data/brochures/313126/text.txt,on_disk
+NEWZ,equity_longonly,0.2557,0.477,,2,171412;322544,"Empowered Funds, LLC d/b/a EA Advisers | Stock Snips, Inc",adv_data/brochures/171412/text.txt;adv_data/brochures/322544/text.txt,on_disk
+NITE,equity_longonly,0.8884,0.9414,,2,284183;151197,Nightview Capital LLC | Exchange Traded Concepts LLC,adv_data/brochures/284183/text.txt;adv_data/brochures/151197/text.txt,on_disk
+NRES,equity_longonly,0.8223,0.9062,,2,154558;109596,DBX Advisors LLC | RREEF America L.L.C.,adv_data/brochures/109596/text.txt,on_disk
+NSCR,equity_longonly,0.9003,0.9502,,2,104626;155584,"Nuveen Fund Advisors, LLC | Nuveen Asset Management, LLC",adv_data/brochures/155584/text.txt,on_disk
+OASC,equity_longonly,0.8074,0.899,,1,285512,"OneAscent Investment Solutions, LLC",adv_data/brochures/285512/text.txt,on_disk
+OPTZ,equity_longonly,0.7593,0.877,,2,311034;315963,"Sound Capital Solutions, LLC | Optimize Financial Inc.",adv_data/brochures/315963/text.txt,on_disk
+OZEM,equity_longonly,0.9497,0.9697,,2,300799;151197,"ROUNDHILL INVESTMENTS INC. | EXCHANGE TRADED CONCEPTS, LLC",adv_data/brochures/300799/text.txt;adv_data/brochures/151197/text.txt,on_disk
+PTL,equity_longonly,0.9653,0.982,,1,171988,"CWM Advisors, LLC",adv_data/brochures/171988/text.txt,on_disk
+RAYJ,equity_longonly,0.9166,0.9578,,2,150978;301509,"Rayliant Asset Management, LLC | SUMITOMO MITSUI DS ASSET MANAGEMENT COMPANY, LIMITED",adv_data/brochures/301509/text.txt,on_disk
+REMG,equity_longonly,0.7828,0.8819,unknown,7,105734;105519;131684;106847;109605;290193;137610,"Russell Investment Management, LLC | Barrow, Hanley, Mewhinney & Strauss, LLC | Numeric Investors LLC | Pzena Investment Management, LLC | Axiom Investors LLC | Oaktree Fund Advisors, LLC | Sands Capital Management, LLC",adv_data/brochures/105734/text.txt;adv_data/brochures/105519/text.txt;adv_data/brochures/131684/text.txt;adv_data/brochures/106847/text.txt;adv_data/brochures/109605/text.txt;adv_data/brochures/137610/text.txt,on_disk
+SAMM,equity_longonly,0.5737,0.7714,,2,172000;286622,"Strategas Asset Management, LLC | Vident Advisory, LLC",adv_data/brochures/172000/text.txt;adv_data/brochures/286622/text.txt,on_disk
+SAWG,equity_longonly,0.9358,0.9664,,3,286622;108831;46727,"Vident Asset Management | Sawgrass Asset Management, LLC | Advisors Asset Management, Inc.",adv_data/brochures/286622/text.txt;adv_data/brochures/108831/text.txt;adv_data/brochures/46727/text.txt,on_disk
+SAWS,equity_longonly,0.8657,0.9352,,3,46727;286622;108831,"Advisors Asset Management, Inc. | Vident Asset Management | Sawgrass Asset Management, LLC",adv_data/brochures/46727/text.txt;adv_data/brochures/286622/text.txt;adv_data/brochures/108831/text.txt,on_disk
+SMCO,equity_longonly,0.956,0.9772,,2,164201;116357,"Tidal Investments LLC | Hilton Capital Management, LLC",adv_data/brochures/164201/text.txt;adv_data/brochures/116357/text.txt,on_disk
+SMLL,equity_longonly,0.9292,0.9642,unknown,2,113402;282078,"Harbor Capital Advisors, Inc. | Byron Place Capital Management, LLC",adv_data/brochures/282078/text.txt,on_disk
+SPTE,equity_longonly,0.985,0.9909,,2,173937;164201,"ShariaPortfolio, Inc. | Tidal Investments LLC",adv_data/brochures/173937/text.txt;adv_data/brochures/164201/text.txt,on_disk
+SPWO,equity_longonly,0.9792,0.9876,,2,173937;164201,"ShariaPortfolio, Inc. | Tidal Investments LLC",adv_data/brochures/173937/text.txt;adv_data/brochures/164201/text.txt,on_disk
+TOGA,equity_longonly,0.8809,0.9359,,2,286622;330605,"Vident Advisory, LLC | Tremblant Advisors LP",adv_data/brochures/286622/text.txt,on_disk
+VGSR,equity_longonly,0.9886,0.9923,,2,106482;288445,Dimensional Fund Advisors LP | Vert Asset Management LLC,adv_data/brochures/106482/text.txt,on_disk

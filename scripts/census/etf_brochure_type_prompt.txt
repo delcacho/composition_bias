@@ -1,0 +1,72 @@
+# ETF adviser-brochure typing (Form ADV Part 2A -> fund strategy class)
+
+You classify active US exchange-traded funds by strategy TYPE, reading the fund's investment
+adviser's Form ADV Part 2A brochure. The type decides which class the fund enters in a
+composition-bias test, so it must come from the DOCUMENT, not the fund name. The name-typing that
+exists is a hint that is wrong in both directions; confirm or correct it. You are given no
+measurement of the fund's behaviour; the document alone decides.
+
+INPUT CSV columns: ticker, fund_name, name_type (the prior name-based guess), crds (semicolon
+list of the adviser CRDs on the fund's N-CEN filing), text_paths (semicolon list of the local
+brochure text files for those CRDs).
+
+PRIMARY SOURCE: for each path in text_paths, read D:\multistrat-ball\<path> (lowercased full
+brochure text). A fund can list several advisers (an adviser plus a sub-adviser, or a white-label
+trust adviser plus the real strategy shop); read each and use the one whose Item 4 (advisory
+business) and Item 8 (methods of analysis, investment strategies) DESCRIBE THIS FUND'S STRATEGY,
+matched by the fund_name. If the only brochure is a generic multi-strategy or series-trust adviser
+that never names this fund's strategy, say so (source = generic) and fall back to the fund name.
+Use the web (WebSearch/WebFetch) only when the brochures do not settle it: the issuer's fund page,
+or the fund's summary prospectus. A handful of lookups per batch at most; note which rows you
+looked up.
+
+Assign exactly ONE type (same scheme as the census):
+  equity_longonly    long-only stock book, no shorting/hedging as a method (fundamental, quant,
+                     factor, thematic, sector, ESG). Includes quarterly-reconstituted factor funds.
+  equity_longshort   long/short, market-neutral, hedged equity, 130/30, net-exposure managed.
+  equity_options     equity book with an options overlay: covered call, buffer/defined outcome,
+                     premium/option income, collar, floor.
+  allocation_fof     multi-asset allocation, tactical/target-risk/target-drawdown, model portfolio,
+                     fund-of-funds / ETF-of-ETFs, balanced, target date.
+  commodity_futures  managed futures, trend, macro, commodity, volatility/carry futures strategies.
+  fixed_income       bonds, loans, CLOs, munis, treasuries, TIPS, preferreds, convertibles, cash.
+  crypto_digital     spot or futures crypto / digital-asset strategies.
+  other              currency, real assets, or genuinely unclear after the brochure + one lookup.
+
+Also read, from the same Item 4/8 text, whether the strategy ROTATES its holdings as a method:
+  rotates = Y  the process actively changes composition -- tactical asset allocation, trend/managed
+               futures, momentum or high-turnover rotation, regime switching, "we shift/rotate/
+               rebalance across ...".
+  rotates = N  a stable book -- buy-and-hold, long-term fundamental value, an index-like or
+               annually/quarterly reconstituted factor sleeve.
+  rotates = U  cannot tell from the document.
+Weigh Item 8's DESCRIPTION OF THE PROCESS, not turnover boilerplate. If name_type says
+equity_longonly but the brochure describes tactical rotation across asset classes or funds, correct
+the type and say so.
+
+TIE-BREAKS (apply exactly, so the type is deterministic):
+  - A fund that holds OTHER FUNDS / ETFs (fund-of-funds, ETF-of-ETFs) is allocation_fof BY
+    STRUCTURE, regardless of whether the underlying sleeves are one asset class or several. A
+    fund-of-bond-ETFs, a fund-of-sector-ETFs and a fund-of-buffer-ETFs are all allocation_fof, not
+    fixed_income / equity_longonly / equity_options. Only a fund that holds the securities THEMSELVES
+    directly (individual stocks, bonds, options) is typed by what it holds.
+  - A book that holds equities directly plus an OPTIONS OVERLAY (covered calls, buffers, collars,
+    vol-reduction) is equity_options; a book that is long some names and SHORT others (single-name or
+    net-exposure managed) is equity_longshort. When a fund does both (long/short positions AND an
+    options overlay), the SHORTING of the equity book decides: equity_longshort.
+
+OUTPUT CSV, EXACTLY these columns, one row per input ticker, all of them:
+  ticker,type,rotates,transparent,confidence,agrees_name,source,note
+    transparent: Y full daily holdings (default for ETFs under Rule 6c-11); N semi/non-transparent
+      active (Fidelity/T. Rowe/American Century ActiveShares, Precidian, Blue Tractor proxy basket);
+      U unknown.
+    confidence: high / medium / low.
+    agrees_name: Y if type == name_type, else N.
+    source: the brochure path (with the Item number used), 'generic' (brochure did not describe the
+      fund), or, whenever a web resource decided the type, the FULL URL of the page that decided
+      it (the exact page, not the site), or 'name' if only the fund name settled it.
+    note: a few words -- the adviser used, the cue, 'looked up' if fetched. The note must not
+      contain commas; use semicolons.
+Mark low confidence rather than guess; never guess a type in. Reply with the count by type, the
+count where agrees_name = N (the corrections), and one line for each row you found genuinely
+borderline.

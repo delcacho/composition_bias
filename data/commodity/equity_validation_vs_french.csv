@@ -1,0 +1,10 @@
+kind,ours,french,corr,sharpe_ours,sharpe_french,n_days
+factor,momentum,Mom,0.9640,0.0576,0.1385,6139
+factor,value,HML,0.9848,0.0908,0.0385,6014
+factor,quality,RMW,0.9041,0.4812,0.5643,6014
+cell,q_SH,SMALL HiOP,0.9946,,,6014
+cell,q_SL,SMALL LoOP,0.9933,,,6014
+cell,q_BH,BIG HiOP,0.9965,,,6014
+cell,q_BL,BIG LoOP,0.9791,,,6014
+rmw6,French RMW,RMW from 6,1.0000,,,6139
+rmw6,quality,RMW from 6,0.9040,,,6014

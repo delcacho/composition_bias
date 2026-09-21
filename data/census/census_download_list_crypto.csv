@@ -1,0 +1,58 @@
+ticker,series_id,fund_name,type,first_year,last_year
+SPBC,S000071926,Simplify US Equity PLUS Bitcoin Strategy ETF,crypto_digital,2021,2025
+BITO,S000073908,ProShares Bitcoin ETF,crypto_digital,2022,2025
+XBTF,S000074020,VanEck Bitcoin Strategy ETF,crypto_digital,2021,2023
+BTF,S000074058,Valkyrie Bitcoin and Ether Strategy ETF,crypto_digital,2022,2024
+EFUT,S000074154,VanEck Ethereum Strategy ETF,crypto_digital,2023,2023
+EETH,S000074165,ProShares Ether ETF,crypto_digital,2024,2025
+BITS,S000074177,Global X Blockchain & Bitcoin Strategy ETF,crypto_digital,2022,2025
+CRYP,S000074207,AdvisorShares Managed Bitcoin Strategy ETF,crypto_digital,2022,2022
+VBB,S000075054,Valkyrie Balance Sheet Opportunities ETF,crypto_digital,2022,2022
+MAXI,S000076784,Simplify Bitcoin Strategy PLUS Income ETF,crypto_digital,2023,2025
+BITC,S000079705,Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF,crypto_digital,2023,2025
+AETH,S000081198,Bitwise Trendwise Ethereum and Treasuries Rotation Strategy ETF,crypto_digital,2023,2025
+BTCI,S000081251,NEOS Bitcoin High Income ETF,crypto_digital,2025,2025
+BETH,S000082352,ProShares Bitcoin & Ether Market Cap Weight ETF,crypto_digital,2024,2025
+BTOP,S000082361,Bitwise Trendwise BTC/ETH and Treasuries Rotation Strategy ETF,crypto_digital,2023,2025
+BETE,S000082365,ProShares Bitcoin & Ether Equal Weight ETF,crypto_digital,2024,2025
+ARKA,S000082798,ARK 21 Shares Active Bitcoin Futures Strategy ETF ,crypto_digital,2024,2024
+ARKC,S000082799,ARK 21Shares Active On-Chain Bitcoin Strategy ETF,crypto_digital,2024,2024
+ARKD,S000082800,ARK 21Shares Blockchain and Digital Economy Innovation ETF,crypto_digital,2024,2024
+ARKY,S000083010,ARK 21Shares Active Bitcoin Ethereum Strategy ETF,crypto_digital,2024,2024
+ARKZ,S000083011,ARK 21 Shares Active Ethereum Futures Strategy ETF,crypto_digital,2024,2024
+YBTC,S000083807,Roundhill Bitcoin Covered Call Strategy ETF,crypto_digital,2024,2025
+BTCC,S000084446,Grayscale Bitcoin Covered Call ETF,crypto_digital,2025,2025
+YBIT,S000084633,YieldMax Bitcoin Option Income Strategy ETF,crypto_digital,2024,2025
+XBTY,S000086456,GraniteShares YieldBOOST Bitcoin ETF,crypto_digital,2025,2025
+YETH,S000086585,Roundhill Ether Covered Call Strategy ETF,crypto_digital,2024,2025
+HECO,S000087750,SPDR Galaxy Hedged Digital Asset Ecosystem ETF,crypto_digital,2024,2025
+BTGD,S000087755,STKd 100% Bitcoin & 100% Gold ETF,crypto_digital,2025,2026
+HBTC,S000089379,Fortuna Hedged Bitcoin ETF,crypto_digital,2026,2026
+ETCO,S000089961,Grayscale Ethereum Covered Call ETF,crypto_digital,2025,2025
+CBTJ,S000090058,Calamos Bitcoin 80 Series Structured Alt Protection ETF - January,crypto_digital,2025,2025
+CBTA,S000090059,Calamos Bitcoin 80 Series Structured Alt Protection ETF - April,crypto_digital,2025,2025
+CBTY,S000090060,Calamos Bitcoin 80 Series Structured Alt Protection ETF - July,crypto_digital,2025,2025
+CBXJ,S000090064,Calamos Bitcoin 90 Series Structured Alt Protection ETF - January,crypto_digital,2025,2025
+CBXA,S000090065,Calamos Bitcoin 90 Series Structured Alt Protection ETF - April,crypto_digital,2025,2025
+CBXY,S000090066,Calamos Bitcoin 90 Series Structured Alt Protection ETF - July,crypto_digital,2025,2025
+CBOJ,S000090114,Calamos Bitcoin Structured Alt Protection ETF - January,crypto_digital,2025,2025
+CBOA,S000090115,Calamos Bitcoin Structured Alt Protection ETF - April,crypto_digital,2025,2025
+CBOY,S000090116,Calamos Bitcoin Structured Alt Protection ETF - July,crypto_digital,2025,2025
+QBF,S000090181,Innovator Uncapped Bitcoin 20 Floor ETF - Quarterly,crypto_digital,2025,2025
+BFAP,S000090189,FT Vest Bitcoin Strategy Floor15 ETF - April,crypto_digital,2025,2025
+OOQB,S000090387,One+One Nasdaq-100 and Bitcoin ETF,crypto_digital,2025,2026
+OOSB,S000090391,One+One S&P 500 and Bitcoin ETF,crypto_digital,2025,2026
+DFII,S000090441,FT Vest Bitcoin Strategy & Target Income ETF,crypto_digital,2025,2025
+BPI,S000090980,Grayscale Bitcoin Premium Income ETF,crypto_digital,2025,2025
+SOLT,S000091118,2x Solana,crypto_digital,2026,2026
+SOLZ,S000091119,Solana ETF,crypto_digital,2026,2026
+BITK,S000091436,Tuttle Capital Bitcoin 0DTE Covered Call ETF,crypto_digital,2025,2025
+BCCC,S000091765,Global X Bitcoin Covered Call ETF,crypto_digital,2025,2025
+XRPI,S000092516,XRP ETF,crypto_digital,2026,2026
+BLOX,S000093157,Nicholas Crypto Income ETF,crypto_digital,2025,2025
+BFJL,S000093273,FT Vest Bitcoin Strategy Floor15 ETF - July,crypto_digital,2025,2025
+IETH,S000094298,Bitwise Ethereum Option Income Strategy ETF,crypto_digital,2025,2025
+BFOC,S000095614,FT Vest Bitcoin Strategy Floor15 ETF - October,crypto_digital,2025,2025
+NEHI,S000096184,NEOS Ethereum High Income ETF,crypto_digital,2025,2025
+TXXD,S000096555,21Shares 2x Long Dogecoin ETF,crypto_digital,2025,2025
+TXXS,S000096556,21Shares 2x Long Sui ETF,crypto_digital,2025,2025

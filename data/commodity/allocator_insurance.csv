@@ -1,0 +1,7 @@
+metric,tail,calm,ratio
+staleness |delta_rho|,0.09320,0.09911,0.94043
+current dependence |rho_holdings|,0.25159,0.28281,0.88962
+P&L sensitivity |dP/drho|,0.01011,0.01129,0.89622
+gross effect mean|A| (bp),8.85591,10.44183,0.84812
+alignment sumA/sum|A|,0.19337,0.02108,9.17391
+protection (bp/pair-day),1.71247,0.22010,7.78057

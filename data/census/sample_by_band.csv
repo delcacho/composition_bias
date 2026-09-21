@@ -1,0 +1,6 @@
+band,scored,admitted,allocation,longonly,longshort,mf,excluded,incomplete_books
+below 0.75,162,55,27,16,5,4,3,0
+0.75 to 0.85,86,41,13,22,4,1,1,0
+0.85 to 0.95,288,135,29,103,0,0,3,0
+above 0.95,427,237,37,189,1,0,10,0
+all,963,468,106,330,10,5,17,0

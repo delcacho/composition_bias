@@ -1,0 +1,211 @@
+geometry,regression,channel,age,stratum,coef,se,t,nobs
+neutral,holdings cov vs stream,covariance,0,Q1,918906165.308567,929847621.174506,0.988233,2897306
+neutral,holdings cov vs stream,covariance,0,Q2,2904868267.847162,2920468608.086282,0.994658,2897306
+neutral,holdings cov vs stream,covariance,0,Q3,80441428528.218735,80544428806.457642,0.998721,2897306
+neutral,holdings cov vs stream,covariance,0,Q4,0.679081,0.238598,2.846126,2897306
+neutral,holdings cov vs stream,covariance,21,Q1,4400181700.508750,4327295302.286954,1.016843,2897306
+neutral,holdings cov vs stream,covariance,21,Q2,10393490400.953690,10242047888.983288,1.014786,2897306
+neutral,holdings cov vs stream,covariance,21,Q3,128895184114.478806,129048448254.481033,0.998812,2897306
+neutral,holdings cov vs stream,covariance,21,Q4,0.238056,0.194161,1.226079,2897306
+neutral,holdings cov vs stream,covariance,63,Q1,3020343366.857080,3000134735.162973,1.006736,2897306
+neutral,holdings cov vs stream,covariance,63,Q2,11427974084.614437,11262159749.208828,1.014723,2897306
+neutral,holdings cov vs stream,covariance,63,Q3,123251418436.004044,123408564759.378082,0.998727,2897306
+neutral,holdings cov vs stream,covariance,63,Q4,0.311241,0.088926,3.500008,2897306
+neutral,holdings cov vs stream,covariance,108,Q1,-465307441.747692,383791500.862337,-1.212396,2897306
+neutral,holdings cov vs stream,covariance,108,Q2,2343390258.178394,2373777824.082644,0.987199,2897306
+neutral,holdings cov vs stream,covariance,108,Q3,83085120102.727432,83236556273.880447,0.998181,2897306
+neutral,holdings cov vs stream,covariance,108,Q4,0.692026,0.292700,2.364285,2897306
+neutral,holdings cov vs stream,covariance,0,Q1 - Q4,918906164.629485,929847621.169106,0.988233,2897306
+neutral,holdings cov vs stream,covariance,21,Q1 - Q4,4400181700.270694,4327295302.277574,1.016843,2897306
+neutral,holdings cov vs stream,covariance,63,Q1 - Q4,3020343366.545839,3000134735.157853,1.006736,2897306
+neutral,holdings cov vs stream,covariance,108,Q1 - Q4,-465307442.439718,383791500.863907,-1.212396,2897306
+neutral,blend vs stream,covariance,0,Q1,-5144.306483,4980.207179,-1.032950,2897306
+neutral,blend vs stream,covariance,0,Q2,-10282.463849,10057.191781,-1.022399,2897306
+neutral,blend vs stream,covariance,0,Q3,-26130.018426,26116.318699,-1.000525,2897306
+neutral,blend vs stream,covariance,0,Q4,0.021654,0.055331,0.391347,2897306
+neutral,blend vs stream,covariance,21,Q1,-4647.959997,4501.291333,-1.032584,2897306
+neutral,blend vs stream,covariance,21,Q2,-10706.512188,10471.649722,-1.022428,2897306
+neutral,blend vs stream,covariance,21,Q3,-28253.891442,28242.069433,-1.000419,2897306
+neutral,blend vs stream,covariance,21,Q4,-0.018820,0.028487,-0.660642,2897306
+neutral,blend vs stream,covariance,63,Q1,-4431.634440,4296.044331,-1.031562,2897306
+neutral,blend vs stream,covariance,63,Q2,-10903.531069,10662.807396,-1.022576,2897306
+neutral,blend vs stream,covariance,63,Q3,-28950.166891,28937.655769,-1.000432,2897306
+neutral,blend vs stream,covariance,63,Q4,0.022980,0.021419,1.072857,2897306
+neutral,blend vs stream,covariance,108,Q1,-4226.963284,4096.703767,-1.031796,2897306
+neutral,blend vs stream,covariance,108,Q2,-9911.158003,9691.145928,-1.022702,2897306
+neutral,blend vs stream,covariance,108,Q3,-27465.364215,27453.822137,-1.000420,2897306
+neutral,blend vs stream,covariance,108,Q4,0.129113,0.082200,1.570707,2897306
+neutral,blend vs stream,covariance,0,Q1 - Q4,-5144.328136,4980.210317,-1.032954,2897306
+neutral,blend vs stream,covariance,21,Q1 - Q4,-4647.941178,4501.295020,-1.032579,2897306
+neutral,blend vs stream,covariance,63,Q1 - Q4,-4431.657420,4296.047582,-1.031566,2897306
+neutral,blend vs stream,covariance,108,Q1 - Q4,-4227.092396,4096.706339,-1.031827,2897306
+neutral,holdings corr vs stream,correlation,0,Q1,-0.005948,0.001815,-3.276968,2897306
+neutral,holdings corr vs stream,correlation,0,Q2,-0.005640,0.002342,-2.408078,2897306
+neutral,holdings corr vs stream,correlation,0,Q3,-0.003238,0.001728,-1.873875,2897306
+neutral,holdings corr vs stream,correlation,0,Q4,-0.005144,0.001711,-3.006721,2897306
+neutral,holdings corr vs stream,correlation,21,Q1,0.004345,0.002602,1.670219,2897306
+neutral,holdings corr vs stream,correlation,21,Q2,-0.003115,0.002095,-1.486881,2897306
+neutral,holdings corr vs stream,correlation,21,Q3,-0.002066,0.001651,-1.251340,2897306
+neutral,holdings corr vs stream,correlation,21,Q4,-0.003591,0.001416,-2.535681,2897306
+neutral,holdings corr vs stream,correlation,63,Q1,0.011188,0.003144,3.558127,2897306
+neutral,holdings corr vs stream,correlation,63,Q2,0.000201,0.002198,0.091543,2897306
+neutral,holdings corr vs stream,correlation,63,Q3,0.000234,0.001644,0.142070,2897306
+neutral,holdings corr vs stream,correlation,63,Q4,-0.002461,0.001481,-1.661756,2897306
+neutral,holdings corr vs stream,correlation,108,Q1,0.014808,0.002953,5.013968,2897306
+neutral,holdings corr vs stream,correlation,108,Q2,0.004198,0.002327,1.803956,2897306
+neutral,holdings corr vs stream,correlation,108,Q3,0.002657,0.001687,1.575066,2897306
+neutral,holdings corr vs stream,correlation,108,Q4,-0.000803,0.001723,-0.465680,2897306
+neutral,holdings corr vs stream,correlation,0,Q1 - Q4,-0.000804,0.002238,-0.359413,2897306
+neutral,holdings corr vs stream,correlation,21,Q1 - Q4,0.007936,0.002740,2.897010,2897306
+neutral,holdings corr vs stream,correlation,63,Q1 - Q4,0.013649,0.003194,4.273471,2897306
+neutral,holdings corr vs stream,correlation,108,Q1 - Q4,0.015610,0.003128,4.989818,2897306
+neutral,blend corr vs stream,correlation,0,Q1,-0.006696,0.001756,-3.812426,2897306
+neutral,blend corr vs stream,correlation,0,Q2,-0.005675,0.002332,-2.433293,2897306
+neutral,blend corr vs stream,correlation,0,Q3,-0.003250,0.001723,-1.886292,2897306
+neutral,blend corr vs stream,correlation,0,Q4,-0.005149,0.001709,-3.013277,2897306
+neutral,blend corr vs stream,correlation,21,Q1,0.001330,0.001898,0.700533,2897306
+neutral,blend corr vs stream,correlation,21,Q2,-0.003226,0.002069,-1.558779,2897306
+neutral,blend corr vs stream,correlation,21,Q3,-0.002102,0.001636,-1.284609,2897306
+neutral,blend corr vs stream,correlation,21,Q4,-0.003614,0.001411,-2.561942,2897306
+neutral,blend corr vs stream,correlation,63,Q1,0.004071,0.001611,2.526345,2897306
+neutral,blend corr vs stream,correlation,63,Q2,-0.000221,0.002126,-0.103717,2897306
+neutral,blend corr vs stream,correlation,63,Q3,0.000056,0.001608,0.034570,2897306
+neutral,blend corr vs stream,correlation,63,Q4,-0.002528,0.001464,-1.727452,2897306
+neutral,blend corr vs stream,correlation,108,Q1,0.005605,0.001594,3.516577,2897306
+neutral,blend corr vs stream,correlation,108,Q2,0.003110,0.002206,1.409575,2897306
+neutral,blend corr vs stream,correlation,108,Q3,0.002096,0.001607,1.303675,2897306
+neutral,blend corr vs stream,correlation,108,Q4,-0.001000,0.001692,-0.591315,2897306
+neutral,blend corr vs stream,correlation,0,Q1 - Q4,-0.001547,0.002192,-0.705766,2897306
+neutral,blend corr vs stream,correlation,21,Q1 - Q4,0.004944,0.002110,2.343351,2897306
+neutral,blend corr vs stream,correlation,63,Q1 - Q4,0.006600,0.001799,3.668027,2897306
+neutral,blend corr vs stream,correlation,108,Q1 - Q4,0.006606,0.001966,3.360431,2897306
+neutral,factor corr K5 vs stream,correlation,0,Q1,-0.001266,0.004107,-0.308220,2889624
+neutral,factor corr K5 vs stream,correlation,0,Q2,-0.001005,0.005498,-0.182776,2889624
+neutral,factor corr K5 vs stream,correlation,0,Q3,0.003153,0.005964,0.528725,2889624
+neutral,factor corr K5 vs stream,correlation,0,Q4,0.009653,0.007391,1.306040,2889624
+neutral,factor corr K5 vs stream,correlation,21,Q1,-0.000579,0.003988,-0.145094,2889624
+neutral,factor corr K5 vs stream,correlation,21,Q2,-0.000492,0.005458,-0.090212,2889624
+neutral,factor corr K5 vs stream,correlation,21,Q3,0.003875,0.005913,0.655303,2889624
+neutral,factor corr K5 vs stream,correlation,21,Q4,0.011181,0.007383,1.514377,2889624
+neutral,factor corr K5 vs stream,correlation,63,Q1,-0.000215,0.003985,-0.053863,2889624
+neutral,factor corr K5 vs stream,correlation,63,Q2,-0.000472,0.005492,-0.085918,2889624
+neutral,factor corr K5 vs stream,correlation,63,Q3,0.004162,0.005945,0.699980,2889624
+neutral,factor corr K5 vs stream,correlation,63,Q4,0.011097,0.007422,1.495086,2889624
+neutral,factor corr K5 vs stream,correlation,108,Q1,0.000050,0.003891,0.012781,2889624
+neutral,factor corr K5 vs stream,correlation,108,Q2,-0.000197,0.005391,-0.036522,2889624
+neutral,factor corr K5 vs stream,correlation,108,Q3,0.004090,0.005962,0.686038,2889624
+neutral,factor corr K5 vs stream,correlation,108,Q4,0.010631,0.007465,1.423985,2889624
+neutral,factor corr K5 vs stream,correlation,0,Q1 - Q4,-0.010919,0.005021,-2.174626,2889624
+neutral,factor corr K5 vs stream,correlation,21,Q1 - Q4,-0.011759,0.005043,-2.331852,2889624
+neutral,factor corr K5 vs stream,correlation,63,Q1 - Q4,-0.011312,0.005060,-2.235537,2889624
+neutral,factor corr K5 vs stream,correlation,108,Q1 - Q4,-0.010581,0.005070,-2.087024,2889624
+neutral,factor corr K10 vs stream,correlation,0,Q1,-0.004836,0.003224,-1.500011,2884950
+neutral,factor corr K10 vs stream,correlation,0,Q2,-0.005142,0.004351,-1.181671,2884950
+neutral,factor corr K10 vs stream,correlation,0,Q3,-0.002617,0.004569,-0.572759,2884950
+neutral,factor corr K10 vs stream,correlation,0,Q4,0.000832,0.005527,0.150552,2884950
+neutral,factor corr K10 vs stream,correlation,21,Q1,-0.004213,0.003128,-1.346754,2884950
+neutral,factor corr K10 vs stream,correlation,21,Q2,-0.004808,0.004333,-1.109703,2884950
+neutral,factor corr K10 vs stream,correlation,21,Q3,-0.001982,0.004493,-0.441147,2884950
+neutral,factor corr K10 vs stream,correlation,21,Q4,0.002097,0.005442,0.385286,2884950
+neutral,factor corr K10 vs stream,correlation,63,Q1,-0.003893,0.003110,-1.252055,2884950
+neutral,factor corr K10 vs stream,correlation,63,Q2,-0.004719,0.004340,-1.087438,2884950
+neutral,factor corr K10 vs stream,correlation,63,Q3,-0.001690,0.004515,-0.374330,2884950
+neutral,factor corr K10 vs stream,correlation,63,Q4,0.002107,0.005468,0.385264,2884950
+neutral,factor corr K10 vs stream,correlation,108,Q1,-0.003759,0.003066,-1.226031,2884950
+neutral,factor corr K10 vs stream,correlation,108,Q2,-0.004542,0.004267,-1.064298,2884950
+neutral,factor corr K10 vs stream,correlation,108,Q3,-0.001837,0.004534,-0.405178,2884950
+neutral,factor corr K10 vs stream,correlation,108,Q4,0.001577,0.005548,0.284222,2884950
+neutral,factor corr K10 vs stream,correlation,0,Q1 - Q4,-0.005668,0.003601,-1.573959,2884950
+neutral,factor corr K10 vs stream,correlation,21,Q1 - Q4,-0.006309,0.003547,-1.778940,2884950
+neutral,factor corr K10 vs stream,correlation,63,Q1 - Q4,-0.006000,0.003561,-1.684740,2884950
+neutral,factor corr K10 vs stream,correlation,108,Q1 - Q4,-0.005336,0.003608,-1.479026,2884950
+neutral,proxy factor corr core 13 vs stream,correlation,0,Q1,-0.004659,0.001464,-3.181331,2874668
+neutral,proxy factor corr core 13 vs stream,correlation,0,Q2,-0.004673,0.002403,-1.944773,2874668
+neutral,proxy factor corr core 13 vs stream,correlation,0,Q3,-0.004025,0.001708,-2.356618,2874668
+neutral,proxy factor corr core 13 vs stream,correlation,0,Q4,-0.004225,0.001656,-2.551030,2874668
+neutral,proxy factor corr core 13 vs stream,correlation,21,Q1,-0.004273,0.001402,-3.047824,2874668
+neutral,proxy factor corr core 13 vs stream,correlation,21,Q2,-0.004572,0.002400,-1.904972,2874668
+neutral,proxy factor corr core 13 vs stream,correlation,21,Q3,-0.003794,0.001692,-2.242694,2874668
+neutral,proxy factor corr core 13 vs stream,correlation,21,Q4,-0.004138,0.001662,-2.490080,2874668
+neutral,proxy factor corr core 13 vs stream,correlation,63,Q1,-0.004054,0.001386,-2.924539,2874668
+neutral,proxy factor corr core 13 vs stream,correlation,63,Q2,-0.004503,0.002400,-1.876497,2874668
+neutral,proxy factor corr core 13 vs stream,correlation,63,Q3,-0.003591,0.001687,-2.128186,2874668
+neutral,proxy factor corr core 13 vs stream,correlation,63,Q4,-0.004198,0.001657,-2.533768,2874668
+neutral,proxy factor corr core 13 vs stream,correlation,108,Q1,-0.003956,0.001368,-2.891421,2874668
+neutral,proxy factor corr core 13 vs stream,correlation,108,Q2,-0.004281,0.002330,-1.837582,2874668
+neutral,proxy factor corr core 13 vs stream,correlation,108,Q3,-0.003523,0.001682,-2.094085,2874668
+neutral,proxy factor corr core 13 vs stream,correlation,108,Q4,-0.004043,0.001637,-2.469887,2874668
+neutral,proxy factor corr core 13 vs stream,correlation,0,Q1 - Q4,-0.000434,0.001346,-0.322195,2874668
+neutral,proxy factor corr core 13 vs stream,correlation,21,Q1 - Q4,-0.000135,0.001292,-0.104168,2874668
+neutral,proxy factor corr core 13 vs stream,correlation,63,Q1 - Q4,0.000144,0.001264,0.114052,2874668
+neutral,proxy factor corr core 13 vs stream,correlation,108,Q1 - Q4,0.000087,0.001221,0.071414,2874668
+neutral,proxy factor corr extended 22 vs stream,correlation,0,Q1,-0.004385,0.001395,-3.144313,2826588
+neutral,proxy factor corr extended 22 vs stream,correlation,0,Q2,-0.003677,0.002078,-1.769421,2826588
+neutral,proxy factor corr extended 22 vs stream,correlation,0,Q3,-0.003311,0.001473,-2.247107,2826588
+neutral,proxy factor corr extended 22 vs stream,correlation,0,Q4,-0.004268,0.001544,-2.765160,2826588
+neutral,proxy factor corr extended 22 vs stream,correlation,21,Q1,-0.004116,0.001331,-3.092711,2826588
+neutral,proxy factor corr extended 22 vs stream,correlation,21,Q2,-0.003684,0.002075,-1.775593,2826588
+neutral,proxy factor corr extended 22 vs stream,correlation,21,Q3,-0.003316,0.001471,-2.254504,2826588
+neutral,proxy factor corr extended 22 vs stream,correlation,21,Q4,-0.004273,0.001540,-2.775312,2826588
+neutral,proxy factor corr extended 22 vs stream,correlation,63,Q1,-0.004046,0.001315,-3.077164,2826588
+neutral,proxy factor corr extended 22 vs stream,correlation,63,Q2,-0.003664,0.002075,-1.765566,2826588
+neutral,proxy factor corr extended 22 vs stream,correlation,63,Q3,-0.003303,0.001470,-2.246371,2826588
+neutral,proxy factor corr extended 22 vs stream,correlation,63,Q4,-0.004202,0.001541,-2.727575,2826588
+neutral,proxy factor corr extended 22 vs stream,correlation,108,Q1,-0.003955,0.001288,-3.070514,2826588
+neutral,proxy factor corr extended 22 vs stream,correlation,108,Q2,-0.003481,0.001968,-1.768833,2826588
+neutral,proxy factor corr extended 22 vs stream,correlation,108,Q3,-0.003247,0.001467,-2.212568,2826588
+neutral,proxy factor corr extended 22 vs stream,correlation,108,Q4,-0.004137,0.001501,-2.755719,2826588
+neutral,proxy factor corr extended 22 vs stream,correlation,0,Q1 - Q4,-0.000117,0.001275,-0.092030,2826588
+neutral,proxy factor corr extended 22 vs stream,correlation,21,Q1 - Q4,0.000157,0.001227,0.128081,2826588
+neutral,proxy factor corr extended 22 vs stream,correlation,63,Q1 - Q4,0.000156,0.001212,0.128659,2826588
+neutral,proxy factor corr extended 22 vs stream,correlation,108,Q1 - Q4,0.000182,0.001147,0.158717,2826588
+neutral,"staleness cost, holdings cov vs fresh",covariance,21,Q1,3494375516.219352,3410829193.292315,1.024494,2163736
+neutral,"staleness cost, holdings cov vs fresh",covariance,21,Q2,7507371171.956503,7339116159.460643,1.022926,2163736
+neutral,"staleness cost, holdings cov vs fresh",covariance,21,Q3,48452880252.527611,48503187619.867294,0.998963,2163736
+neutral,"staleness cost, holdings cov vs fresh",covariance,21,Q4,-0.461591,0.366170,-1.260590,2163736
+neutral,"staleness cost, holdings cov vs fresh",covariance,63,Q1,2112510564.936308,2082110154.459574,1.014601,2163736
+neutral,"staleness cost, holdings cov vs fresh",covariance,63,Q2,8535498146.907287,8351934946.958578,1.021979,2163736
+neutral,"staleness cost, holdings cov vs fresh",covariance,63,Q3,42607562463.424973,42665377295.840691,0.998645,2163736
+neutral,"staleness cost, holdings cov vs fresh",covariance,63,Q4,-0.385750,0.267766,-1.440623,2163736
+neutral,"staleness cost, holdings cov vs fresh",covariance,108,Q1,-1399227615.306097,1332644232.092848,-1.049963,2163736
+neutral,"staleness cost, holdings cov vs fresh",covariance,108,Q2,-586959531.063988,572426838.007808,-1.025388,2163736
+neutral,"staleness cost, holdings cov vs fresh",covariance,108,Q3,2343417092.490360,2395091031.617891,0.978425,2163736
+neutral,"staleness cost, holdings cov vs fresh",covariance,108,Q4,-0.014277,0.130909,-0.109060,2163736
+neutral,"staleness cost, holdings cov vs fresh",covariance,21,Q1 - Q4,3494375516.680943,3410829193.288266,1.024494,2163736
+neutral,"staleness cost, holdings cov vs fresh",covariance,63,Q1 - Q4,2112510565.322057,2082110154.459778,1.014601,2163736
+neutral,"staleness cost, holdings cov vs fresh",covariance,108,Q1 - Q4,-1399227615.291820,1332644232.088709,-1.049963,2163736
+neutral,"staleness cost, holdings corr vs fresh",correlation,21,Q1,0.009793,0.002567,3.815581,2163736
+neutral,"staleness cost, holdings corr vs fresh",correlation,21,Q2,0.002225,0.000850,2.617254,2163736
+neutral,"staleness cost, holdings corr vs fresh",correlation,21,Q3,0.000569,0.000526,1.082218,2163736
+neutral,"staleness cost, holdings corr vs fresh",correlation,21,Q4,0.000188,0.000489,0.384344,2163736
+neutral,"staleness cost, holdings corr vs fresh",correlation,63,Q1,0.016239,0.003296,4.927056,2163736
+neutral,"staleness cost, holdings corr vs fresh",correlation,63,Q2,0.005449,0.001259,4.329358,2163736
+neutral,"staleness cost, holdings corr vs fresh",correlation,63,Q3,0.002594,0.000573,4.527579,2163736
+neutral,"staleness cost, holdings corr vs fresh",correlation,63,Q4,0.001354,0.000614,2.202884,2163736
+neutral,"staleness cost, holdings corr vs fresh",correlation,108,Q1,0.019897,0.002945,6.755251,2163736
+neutral,"staleness cost, holdings corr vs fresh",correlation,108,Q2,0.009426,0.001657,5.688548,2163736
+neutral,"staleness cost, holdings corr vs fresh",correlation,108,Q3,0.005205,0.000891,5.840455,2163736
+neutral,"staleness cost, holdings corr vs fresh",correlation,108,Q4,0.003462,0.000727,4.762679,2163736
+neutral,"staleness cost, holdings corr vs fresh",correlation,21,Q1 - Q4,0.009606,0.002496,3.847774,2163736
+neutral,"staleness cost, holdings corr vs fresh",correlation,63,Q1 - Q4,0.014885,0.003216,4.628906,2163736
+neutral,"staleness cost, holdings corr vs fresh",correlation,108,Q1 - Q4,0.016435,0.002879,5.708168,2163736
+neutral,"staleness cost, blend vs fresh",covariance,21,Q1,513.083459,495.313129,1.035877,2163736
+neutral,"staleness cost, blend vs fresh",covariance,21,Q2,-422.599729,412.957583,-1.023349,2163736
+neutral,"staleness cost, blend vs fresh",covariance,21,Q3,-2099.157768,2101.495692,-0.998887,2163736
+neutral,"staleness cost, blend vs fresh",covariance,21,Q4,-0.062119,0.073257,-0.847950,2163736
+neutral,"staleness cost, blend vs fresh",covariance,63,Q1,728.914220,699.992828,1.041317,2163736
+neutral,"staleness cost, blend vs fresh",covariance,63,Q2,-584.529775,570.743497,-1.024155,2163736
+neutral,"staleness cost, blend vs fresh",covariance,63,Q3,-2725.580930,2728.669365,-0.998868,2163736
+neutral,"staleness cost, blend vs fresh",covariance,63,Q4,-0.017285,0.053002,-0.326115,2163736
+neutral,"staleness cost, blend vs fresh",covariance,108,Q1,957.989707,922.149652,1.038866,2163736
+neutral,"staleness cost, blend vs fresh",covariance,108,Q2,456.191852,447.584673,1.019230,2163736
+neutral,"staleness cost, blend vs fresh",covariance,108,Q3,-1239.057579,1242.817690,-0.996975,2163736
+neutral,"staleness cost, blend vs fresh",covariance,108,Q4,0.088206,0.030055,2.934824,2163736
+neutral,"staleness cost, blend vs fresh",covariance,21,Q1 - Q4,513.145578,495.312363,1.036004,2163736
+neutral,"staleness cost, blend vs fresh",covariance,63,Q1 - Q4,728.931505,699.992518,1.041342,2163736
+neutral,"staleness cost, blend vs fresh",covariance,108,Q1 - Q4,957.901502,922.150026,1.038770,2163736
+neutral,future book vs fresh (positive control),covariance,future,Q1,-705136140.934567,669195511.328550,-1.053707,724923
+neutral,future book vs fresh (positive control),covariance,future,Q2,-811596835.118057,794641823.347545,-1.021337,724923
+neutral,future book vs fresh (positive control),covariance,future,Q3,-7345004123.449821,7349000496.192018,-0.999456,724923
+neutral,future book vs fresh (positive control),covariance,future,Q4,0.070292,0.039356,1.786062,724923
+neutral,future book vs fresh (positive control),covariance,future,Q1 - Q4,-705136141.004859,669195511.328106,-1.053707,724923

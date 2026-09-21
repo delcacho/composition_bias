@@ -1,0 +1,940 @@
+ticker,series_id,fund_name,type,first_year,last_year
+AIVL,S000012387,WisdomTree U.S. AI Enhanced Value Fund,equity_longonly,2022,2026
+AIVI,S000012389,WisdomTree International AI Enhanced Value Fund,equity_longonly,2022,2026
+WTV,S000015479,WisdomTree U.S. Value Fund,equity_longonly,2019,2026
+RESP,S000015504,WisdomTree U.S. ESG Fund,equity_longonly,2020,2023
+RSX,S000016885,VanEck Russia ETF,equity_longonly,2023,2025
+PSR,S000023365,Invesco Active U.S. Real Estate ETF,equity_longonly,2018,2025
+AADR,S000026954,AdvisorShares Dorsey Wright ADR ETF,equity_longonly,2018,2025
+HDGE,S000030090,AdvisorShares Ranger Equity Bear ETF,equity_longshort,2018,2025
+HECO,S000031176,Strategy Shares EcoLogical Strategy ETF,equity_longonly,2019,2019
+RSXJ,S000031766,VanEck Russia Small-Cap ETF,equity_longonly,2023,2025
+SURE,S000031813,AdvisorShares Insider Advantage ETF,equity_longonly,2018,2025
+BTAL,S000033013,AGF U.S. Market Neutral Anti-Beta Fund,equity_longshort,2022,2025
+EMLP,S000033458,First Trust North American Energy Infrastructure Fund,equity_longonly,2018,2025
+FM,S000036005,iShares Frontier and Select EM ETF,equity_longonly,2023,2024
+PHDG,S000036643,Invesco S&P 500 Downside Hedged ETF,equity_longshort,2018,2025
+SYLD,S000037634,Cambria Shareholder Yield ETF,equity_longonly,2021,2025
+FYLD,S000037635,Cambria Foreign Shareholder Yield ETF,equity_longonly,2021,2025
+EYLD,S000037636,Cambria Emerging Shareholder Yield ETF,equity_longonly,2021,2025
+SYE,S000040073,SPDR MFS Systematic Core Equity ETF,equity_longonly,2018,2020
+SYG,S000040074,SPDR MFS Systematic Growth Equity ETF,equity_longonly,2018,2020
+SYV,S000040075,SPDR MFS Systematic Value Equity ETF,equity_longonly,2018,2020
+EMCG,S000041431,WisdomTree Emerging Markets Consumer Growth Fund,equity_longonly,2019,2020
+DGRE,S000041433,WisdomTree Emerging Markets Quality Dividend Growth Fund,equity_longonly,2019,2026
+IPO,S000041784,Renaissance IPO ETF,equity_longonly,2018,2024
+ARKG,S000042975,ARK Genomic Revolution ETF,equity_longonly,2018,2025
+ARKQ,S000042976,ARK Autonomous Technology & Robotics ETF,equity_longonly,2018,2025
+ARKK,S000042977,ARK Innovation ETF,equity_longonly,2018,2025
+ARKW,S000042978,ARK Next Generation Internet ETF,equity_longonly,2018,2025
+GVAL,S000043317,Cambria Global Value ETF,equity_longonly,2021,2025
+VAMO,S000043319,Cambria Value and Momentum ETF,equity_longonly,2019,2025
+WBIA,S000044175,WBI BullBear Rising Income 2000 ETF,equity_longonly,2018,2019
+WBIB,S000044177,WBI BullBear Value 2000 ETF,equity_longonly,2018,2019
+WBIC,S000044178,WBI BullBear Yield 2000 ETF,equity_longonly,2018,2019
+WBID,S000044179,WBI BullBear Quality 2000 ETF,equity_longonly,2018,2019
+WBIE,S000044180,WBI BullBear Rising Income 3000 ETF,equity_longonly,2018,2020
+WBIF,S000044181,WBI BullBear Value 3000 ETF,equity_longonly,2018,2025
+WBIG,S000044182,WBI BullBear Yield 3000 ETF,equity_longonly,2018,2025
+WBIL,S000044183,WBI BullBear Quality 3000 ETF,equity_longonly,2018,2025
+AMZA,S000045418,InfraCap MLP ETF,equity_longonly,2018,2025
+FTLS,S000045700,First Trust Long/Short Equity ETF,equity_longshort,2018,2025
+QVAL,S000046016,Alpha Architect US Quantitative Value ETF,equity_longonly,2022,2024
+IVAL,S000046017,Alpha Architect International Quantitative Value ETF,equity_longonly,2022,2024
+QMOM,S000046018,Alpha Architect US Quantitative Momentum ETF,equity_longonly,2022,2024
+IMOM,S000046019,Alpha Architect International Quantitative Momentum ETF,equity_longonly,2022,2024
+IPOS,S000046875,Renaissance International IPO ETF,equity_longonly,2018,2024
+ERUS,S000047227,iShares MSCI Russia ETF,equity_longonly,2022,2022
+SMCP,S000049009,AlphaMark Actively Managed Small Cap ETF,equity_longonly,2019,2024
+UTES,S000049397,Virtus Reaves Utilities ETF,equity_longonly,2018,2025
+PRME,S000051581,First Trust Heitman Global Prime Real Estate ETF,equity_longonly,2018,2018
+JAMF,S000052355,WisdomTree Japan Multifactor Fund,equity_longonly,2019,2019
+EUMF,S000052357,WisdomTree Europe Multifactor Fund,equity_longonly,2019,2019
+JSML,S000052563,Janus Henderson Small Cap Growth Alpha ETF,equity_longonly,2025,2025
+JSMD,S000052564,Janus Henderson Small/Mid Cap Growth Alpha ETF,equity_longonly,2025,2025
+RFAP,S000052735,First Trust RiverFront Dynamic Asia Pacific ETF,equity_longonly,2018,2020
+RFDI,S000052736,First Trust RiverFront Dynamic Developed International ETF,equity_longonly,2018,2025
+RFEM,S000052737,First Trust RiverFront Dynamic Emerging Markets ETF,equity_longonly,2018,2025
+RFEU,S000052738,First Trust RiverFront Dynamic Europe ETF,equity_longonly,2018,2025
+RFDA,S000052852,RiverFront Dynamic US Dividend Advantage ETF,equity_longonly,2018,2025
+RFFC,S000052853,ALPS Active Equity Opportunity ETF,equity_longonly,2018,2025
+PSET,S000052929,Principal Quality ETF,equity_longonly,2023,2025
+PY,S000052930,Principal Value ETF,equity_longonly,2023,2025
+JPHF,S000052985,JPMorgan Diversified Alternatives ETF,equity_longshort,2018,2019
+RESE,S000053369,WisdomTree Emerging Markets ESG Fund,equity_longonly,2020,2023
+SCAP,S000053430,AdvisorShares Cornerstone Small Cap ETF,equity_longonly,2018,2019
+FLIO,S000053776,Franklin Liberty International Opportunities ETF,equity_longonly,2019,2019
+MVIN,S000053955,Natixis Seeyond International Minimum Volatility ETF,equity_longonly,2018,2019
+KOR,S000054175,AdvisorShares KIM Korea Equity ETF,equity_longonly,2018,2018
+JPED,S000054538,JPMorgan Event Driven ETF,equity_longshort,2018,2019
+BTEC,S000054611,Principal Healthcare Innovators ETF,equity_longonly,2023,2024
+GENY,S000054612,Principal Millennial Global Growth ETF,equity_longonly,2023,2023
+GOAU,S000054641,U.S. Global GO GOLD and Precious Metal Miners ETF,equity_longonly,2025,2025
+FDVV,S000054749,Fidelity High Dividend ETF,equity_longonly,2018,2020
+FDRR,S000054750,Fidelity Dividend ETF for Rising Rates,equity_longonly,2018,2020
+FDLO,S000054751,Fidelity Low Volatility Factor ETF,equity_longonly,2018,2020
+FDMO,S000054752,Fidelity Momentum Factor ETF,equity_longonly,2018,2020
+FQAL,S000054753,Fidelity Quality Factor ETF,equity_longonly,2018,2020
+FVAL,S000054754,Fidelity Value Factor ETF,equity_longonly,2018,2020
+HDMV,S000054959,First Trust Horizon Managed Volatility Developed International ETF,equity_longonly,2018,2025
+HUSV,S000054960,First Trust Horizon Managed Volatility Domestic ETF,equity_longonly,2018,2025
+TTAC,S000054995,FCF US Quality ETF,equity_longonly,2018,2024
+CWS,S000055090,AdvisorShares Focused Equity ETF,equity_longonly,2018,2025
+PSC,S000055159,Principal U.S. Small-Cap ETF,equity_longonly,2023,2025
+DUSA,S000055342,Davis Select U.S. Equity ETF,equity_longonly,2018,2025
+DFNL,S000055343,Davis Select Financial ETF,equity_longonly,2018,2025
+DWLD,S000055344,Davis Select Worldwide ETF,equity_longonly,2018,2025
+RESD,S000055378,WisdomTree International ESG Fund,equity_longonly,2020,2023
+WBIY,S000055583,WBI Power Factor High Dividend ETF,equity_longonly,2018,2018
+ERM,S000056061,EquityCompass Risk Manager ETF,equity_longonly,2018,2022
+EBLU,S000056225,Ecofin Global Water ESG Fund,equity_longonly,2018,2024
+TPYP,S000056247,Tortoise North American Pipeline Fund,equity_longonly,2018,2024
+AMLX,S000056752,Amplify YieldShares Oil Hedged MLP Income ETF,equity_longonly,2018,2018
+TTAI,S000056835,FCF International Quality ETF,equity_longonly,2018,2024
+GOP,S000056879,Republican Policies Fund,equity_longonly,2018,2018
+DEMS,S000056880,Democratic Policies Fund,equity_longonly,2018,2018
+PLCY,S000056881,EventShares U.S. Legislative Opportunities ETF,equity_longonly,2018,2019
+CACG,S000057207,ClearBridge All Cap Growth ESG ETF,equity_longonly,2018,2024
+FMDG,S000057344,FIELDSTONE MERLIN DYNAMIC LARGE CAP GROWTH ETF,equity_longonly,2018,2018
+UVDV,S000057346,UVA Dividend Value ETF,equity_longonly,2022,2022
+GDVD,S000057625,Principal Active Global Dividend Income ETF,equity_longonly,2018,2020
+LRGE,S000057700,ClearBridge Large Cap Growth Select ETF,equity_longonly,2018,2026
+FNG,S000058058,AdvisorShares New Tech and Media ETF,equity_longonly,2018,2019
+SQLV,S000058077,Royce Quant Small-Cap Quality Value ETF,equity_longonly,2018,2026
+BLDG,S000058208,Cambria Global Real Estate ETF,equity_longonly,2021,2025
+TOKE,S000058209,Cambria Cannabis ETF,equity_longonly,2020,2025
+VWID,S000058304,Virtus WMC International Dividend ETF,equity_longonly,2018,2025
+AIEQ,S000058619,AI Powered Equity ETF,equity_longonly,2018,2023
+NVOH,S000058687,Novo Nordisk A/S (B Shares) ADRhedged,equity_longonly,2025,2025
+TMH,S000058694,Toyota Motor Corporation ADRhedged,equity_longonly,2025,2025
+BPH,S000058698,BP p.l.c. ADRhedged,equity_longonly,2025,2025
+JPLS,S000059123,JPMorgan Long/Short ETF,equity_longshort,2018,2019
+CHGX,S000059138,Change Finance U.S. Large Cap Fossil Fuel Free ETF,equity_longonly,2018,2018
+USMC,S000059183,Principal U.S. Mega-Cap ETF,equity_longonly,2023,2025
+VICE,S000059263,AdvisorShares Vice ETF,equity_longonly,2018,2025
+XOVR,S000059420,ERShares Private-Public Crossover ETF,equity_longonly,2018,2025
+FIDI,S000059462,Fidelity International High Dividend ETF,equity_longonly,2018,2018
+FIVA,S000059463,Fidelity International Value Factor ETF,equity_longonly,2018,2018
+BLOK,S000061158,Amplify Transformational Data Sharing ETF,equity_longonly,2018,2024
+IECS,S000061254,iShares Evolved U.S. Consumer Staples ETF,equity_longonly,2018,2022
+IEDI,S000061255,iShares U.S. Consumer Focused ETF,equity_longonly,2018,2025
+IEFN,S000061256,iShares Evolved U.S. Financials ETF,equity_longonly,2018,2022
+IEHS,S000061257,iShares Evolved U.S. Healthcare Staples ETF,equity_longonly,2018,2022
+IEIH,S000061258,iShares Evolved U.S. Innovative Healthcare ETF,equity_longonly,2018,2022
+IEME,S000061259,iShares Evolved U.S. Media and Entertainment ETF,equity_longonly,2018,2022
+IETC,S000061260,iShares U.S. Tech Independence Focused ETF,equity_longonly,2018,2025
+VFLQ,S000061300,VANGUARD U.S. LIQUIDITY FACTOR ETF,equity_longonly,2018,2021
+VFMV,S000061301,VANGUARD U.S. MINIMUM VOLATILITY ETF,equity_longonly,2018,2025
+VFMO,S000061302,VANGUARD U.S. MOMENTUM FACTOR ETF,equity_longonly,2018,2025
+VFQY,S000061304,VANGUARD U.S. QUALITY FACTOR ETF,equity_longonly,2018,2025
+VFVA,S000061305,VANGUARD U.S. VALUE FACTOR ETF,equity_longonly,2018,2025
+VFMF,S000061310,VANGUARD U.S. MULTIFACTOR ETF,equity_longonly,2018,2025
+DINT,S000061340,Davis Select International ETF,equity_longonly,2018,2025
+BKC,S000061652,REX BKCM ETF,equity_longonly,2018,2018
+BATT,S000061920,Amplify Advanced Battery Metals and Materials ETF,equity_longonly,2018,2019
+LSAF,S000061956,Redwood LeaderShares AlphaFactor Core ETF,equity_longonly,2018,2019
+AIIQ,S000062057,AI Powered International Equity ETF,equity_longonly,2019,2022
+DWMC,S000062083,AdvisorShares Dorsey Wright Small Company ETF,equity_longonly,2019,2023
+DWSH,S000062084,AdvisorShares Dorsey Wright Short ETF,equity_longshort,2019,2025
+OSCV,S000062252,Opus Small Cap Value ETF,equity_longonly,2019,2025
+EMMF,S000062304,WisdomTree Emerging Markets Multifactor Fund,equity_longonly,2019,2026
+DWMF,S000062306,WisdomTree International Multifactor Fund,equity_longonly,2019,2026
+AUGR,S000062477,Defiance Future Tech ETF,equity_longonly,2018,2018
+QTUM,S000062478,Defiance Quantum ETF,equity_longonly,2018,2018
+DSTL,S000063127,Distillate U.S. Fundamental Stability & Value ETF,equity_longonly,2023,2024
+PQIN,S000063180,PGIM Quant Solutions Strategic Alpha International Equity ETF,equity_longonly,2019,2022
+PQLC,S000063181,PGIM QMA Strategic Alpha Large-Cap Core ETF,equity_longonly,2019,2021
+PQSG,S000063182,PGIM QMA Strategic Alpha Small-Cap Growth ETF,equity_longonly,2019,2021
+PQSV,S000063183,PGIM QMA Strategic Alpha Small-Cap Value ETF,equity_longonly,2019,2021
+TMFS,S000063392,Motley Fool Small-Cap Growth ETF,equity_longonly,2019,2024
+USDY,S000063508,Pacific Global US Equity Income ETF,equity_longonly,2019,2020
+ERSX,S000063752,ERShares NextGen Entrepreneurs ETF,equity_longonly,2020,2023
+TPLC,S000063763,Timothy Plan US Large/Mid Cap Core ETF,equity_longonly,2019,2022
+TPSC,S000063764,Timothy Plan US Small Cap Core ETF,equity_longonly,2019,2022
+TPIF,S000063765,Timothy Plan International ETF,equity_longonly,2019,2022
+TPHD,S000063766,Timothy Plan High Dividend Stock ETF,equity_longonly,2019,2022
+CNBS,S000064108,Amplify Seymour Cannabis ETF,equity_longonly,2019,2024
+TCLD,S000064221,Tortoise Cloud Infrastructure Fund,equity_longonly,2019,2019
+TPAY,S000064222,Ecofin Digital Payments Infrastructure Fund,equity_longonly,2019,2021
+ARKF,S000064752,ARK Fintech Innovation ETF,equity_longonly,2019,2025
+FSMD,S000064786,Fidelity Small-Mid Factor ETF,equity_longonly,2019,2020
+THCX,S000064815,The Cannabis ETF,equity_longonly,2020,2022
+DYNF,S000064945,iShares U.S. Equity Factor Rotation Active ETF,equity_longonly,2019,2025
+MOTO,S000065017,Guinness Atkinson Smart Transportation & Technology ETF,equity_longonly,2019,2025
+GIGE,S000065096,SoFi Gig Economy ETF,equity_longonly,2020,2023
+ZIG,S000065204,The Acquirers Fund,equity_longonly,2023,2025
+YOLO,S000065228,AdvisorShares Pure Cannabis ETF,equity_longonly,2019,2025
+NERD,S000065293,Roundhill Video Games ETF,equity_longonly,2025,2025
+QRFT,S000065357,QRAFT AI-Enhanced U.S. Large Cap ETF,equity_longonly,2020,2025
+AMOM,S000065358,QRAFT AI-Enhanced U.S. Large Cap Momentum ETF,equity_longonly,2020,2025
+USHG,S000065470,AGFIQ Dynamic Hedged U.S. Equity ETF,equity_longshort,2019,2020
+GLIF,S000065471,AGF Global Infrastructure ETF,equity_longonly,2019,2023
+FPWR,S000066179,First Trust EIP Power Solutions ETF,equity_longonly,2019,2025
+ACVF,S000066215,American Conservative Values ETF,equity_longonly,2021,2025
+AVEM,S000066454,Avantis Emerging Markets Equity ETF,equity_longonly,2020,2024
+AVDE,S000066456,Avantis International Equity ETF,equity_longonly,2020,2024
+AVDV,S000066457,Avantis International Small Cap Value ETF,equity_longonly,2020,2024
+AVUS,S000066458,Avantis U.S. Equity ETF,equity_longonly,2020,2024
+AVUV,S000066459,Avantis U.S. Small Cap Value ETF,equity_longonly,2020,2024
+DBEH,S000066474,iM DBi Hedge Strategy ETF,equity_longshort,2019,2019
+GSID,S000066532,Goldman Sachs MarketBeta International Equity ETF,equity_longonly,2020,2020
+GSEE,S000066533,Goldman Sachs MarketBeta Emerging Markets Equity ETF,equity_longonly,2020,2020
+GSUS,S000066535,Goldman Sachs MarketBeta U.S. Equity ETF,equity_longonly,2020,2020
+ZECP,S000066608,Zacks Earnings Consistent Portfolio ETF,equity_longonly,2022,2025
+AFLG,S000066788,First Trust Active Factor Large Cap ETF,equity_longonly,2020,2025
+AFMC,S000066789,First Trust Active Factor Mid Cap ETF,equity_longonly,2020,2025
+AFSM,S000066790,First Trust Active Factor Small Cap ETF,equity_longonly,2020,2025
+IDY,S000066791,Pacific Global International Equity Income ETF,equity_longonly,2020,2020
+FCPI,S000066804,Fidelity Stocks for Inflation ETF,equity_longonly,2020,2020
+MSOS,S000066948,AdvisorShares Pure US Cannabis ETF,equity_longonly,2021,2025
+WUGI,S000067057,Esoterica NextG Economy ETF,equity_longonly,2020,2022
+ABEQ,S000067086,Absolute Select Value ETF,equity_longonly,2020,2026
+HDIV,S000067182,QRAFT AI-Enhanced U.S. High Dividend ETF,equity_longonly,2020,2022
+MMLG,S000067359,First Trust Multi-Manager Large Growth ETF,equity_longonly,2020,2025
+DWEQ,S000067382,AdvisorShares Dorsey Wright Alpha Equal Weight ETF,equity_longonly,2020,2022
+BUYZ,S000067392,Franklin Disruptive Commerce ETF,equity_longonly,2020,2026
+HELX,S000067393,Franklin Genomic Advancements ETF,equity_longonly,2020,2026
+IQM,S000067394,Franklin Intelligent Machines ETF,equity_longonly,2020,2026
+MRAD,S000067431,SmartETFs Advertising & Marketing Technology ETF,equity_longonly,2020,2024
+MARB,S000067481,First Trust Merger Arbitrage ETF,equity_longshort,2020,2025
+CFCV,S000067572,ClearBridge Focus Value ESG ETF,equity_longonly,2020,2024
+SYUS,S000067955,Syntax Stratified U.S. Total Market ETF,equity_longonly,2021,2023
+LRNZ,S000068068,"TrueShares Technology, AI & Deep Learning ETF",equity_longonly,2020,2024
+ECOZ,S000068069,TrueShares ESG Active Opportunities ETF,equity_longonly,2020,2022
+HSMV,S000068212,First Trust Horizon Managed Volatility Small/Mid ETF,equity_longonly,2020,2025
+ACTV,S000068213,LeaderShares Activist Leaders ETF,equity_longonly,2020,2024
+LSAT,S000068214,LeaderShares AlphaFactor Tactical Focused ETF,equity_longonly,2020,2025
+SQEW,S000068215,LeaderShares Equity Skew ETF,equity_longonly,2020,2024
+ESGA,S000068307,American Century Sustainable Equity ETF,equity_longonly,2020,2024
+JIG,S000068407,JPMorgan International Growth ETF,equity_longonly,2020,2025
+KLDW,S000068493,Knowledge Leaders Developed World ETF,equity_longonly,2021,2024
+SIXL,S000068543,ETC 6 Meridian Low Beta Equity Strategy ETF,equity_longonly,2020,2025
+SIXA,S000068544,ETC 6 Meridian Mega Cap Equity ETF,equity_longonly,2020,2025
+SIXS,S000068545,ETC 6 Meridian Small Cap Equity ETF,equity_longonly,2020,2025
+RISN,S000068946,Inspire Capital Appreciation ETF,equity_longonly,2020,2025
+LCG,S000068966,Sterling Capital Focus Equity ETF,equity_longonly,2021,2025
+GGRW,S000069038,Gabelli Growth Innovators ETF,equity_longonly,2021,2025
+GABF,S000069039,Gabelli Financial Services Opportunities ETF,equity_longonly,2022,2025
+LOPP,S000069043,Gabelli Love Our Planet & People ETF,equity_longonly,2021,2025
+GCAD,S000069045,Gabelli Commercial Aerospace and Defense ETF,equity_longonly,2023,2025
+ADIV,S000069134,Guinness Atkinson Asia Pacific Dividend Builder ETF,equity_longonly,2021,2025
+DIVS,S000069135,Guinness Atkinson Dividend Builder ETF,equity_longonly,2021,2025
+BMED,S000069260,iShares Health Innovation Active ETF,equity_longonly,2021,2025
+BTEK,S000069261,BlackRock Future Tech ETF,equity_longonly,2021,2024
+BFTR,S000069262,BlackRock Future Innovators ETF,equity_longonly,2021,2023
+FUNL,S000069264,CornerCap Fundametrics Large-Cap ETF,equity_longonly,2021,2023
+LYFE,S000069334,2ndVote Life Neutral Plus ETF,equity_longonly,2021,2023
+EGIS,S000069336,2ndVote Society Defended ETF,equity_longonly,2021,2023
+DFAU,S000069432,Dimensional US Core Equity Market ETF,equity_longonly,2021,2025
+DFAI,S000069433,Dimensional International Core Equity Market ETF,equity_longonly,2021,2025
+DFAE,S000069434,Dimensional Emerging Core Equity Market ETF,equity_longonly,2021,2025
+LBAY,S000069694,Leatherback Long/Short Alternative Yield ETF,equity_longshort,2021,2025
+JSTC,S000069950,Adasina Social Justice All Cap Global ETF,equity_longonly,2021,2025
+FRTY,S000069955,Alger Mid Cap 40 ETF,equity_longonly,2021,2025
+ATFV,S000069956,Alger 35 ETF,equity_longonly,2021,2025
+SOLR,S000069963,Guinness Atkinson Sustainable Energy ETF,equity_longonly,2020,2025
+NVQ,S000069970,QRAFT AI-Enhanced U.S. Next Value ETF,equity_longonly,2021,2023
+GSPY,S000069980,Gotham Enhanced 500 ETF,equity_longonly,2021,2025
+CBLS,S000069997,Clough Hedged Equity ETF,equity_longshort,2021,2024
+CBSE,S000069998,Clough Select Equity ETF,equity_longonly,2021,2024
+JOET,S000070014,Virtus Terranova U.S. Quality Momentum ETF,equity_longonly,2023,2024
+LVOL,S000070039,American Century Low Volatility ETF,equity_longonly,2021,2024
+MGMT,S000070046,BALLAST SMALL/MID CAP ETF,equity_longonly,2021,2025
+FEVR,S000070124,Inspire Faithward Large Cap Momentum ESG ETF,equity_longonly,2021,2021
+GLRY,S000070125,Inspire Growth ETF,equity_longonly,2021,2025
+KNGS,S000070140,UPHOLDINGS Compound Kings ETF,equity_longonly,2021,2023
+DSTX,S000070185,Distillate International Fundamental Stability & Value ETF,equity_longonly,2023,2024
+SPCX,S000070261,The SPAC and New Issue ETF,equity_longonly,2021,2024
+XDAT,S000070439,Franklin Exponential Data ETF,equity_longonly,2021,2026
+TMAT,S000070451,Main Thematic Innovation ETF,equity_longonly,2021,2025
+CBTG,S000070457,Cabot Growth ETF,equity_longonly,2021,2021
+INFL,S000070458,Horizon Kinetics Inflation Beneficiaries ETF,equity_longonly,2021,2025
+DIVY,S000070511,Sound Equity Dividend Income ETF,equity_longonly,2021,2025
+UGCE,S000070522,Uncommon Portfolio Design Core Equity ETF,equity_longonly,2021,2021
+EUCG,S000070565,Euclid Capital Growth ETF,equity_longonly,2021,2021
+RAYC,S000070570,Rayliant Quantamental China Equity ETF,equity_longonly,2021,2025
+AVDG,S000070637,AVDR US LargeCap ESG ETF,equity_longonly,2021,2021
+AVDR,S000070638,AVDR US LargeCap Leading ETF,equity_longonly,2021,2021
+SENT,S000070646,AdvisorShares Alpha DNA Equity Sentiment ETF,equity_longonly,2021,2023
+SPXZ,S000070708,Morgan Creek - Exos SPAC Originated ETF,equity_longonly,2021,2021
+DIVZ,S000070814,Opal Dividend Income ETF,equity_longonly,2021,2024
+KEJI,S000070816,Global X China Innovation ETF,equity_longonly,2021,2022
+DFAT,S000070901,Dimensional U.S. Targeted Value ETF,equity_longonly,2021,2025
+DFUS,S000070902,Dimensional U.S. Equity Market ETF,equity_longonly,2021,2025
+DFAC,S000070903,Dimensional U.S. Core Equity 2 ETF,equity_longonly,2021,2025
+DFIV,S000070904,Dimensional International Value ETF,equity_longonly,2021,2025
+DFAX,S000070905,Dimensional World ex U.S. Core Equity 2 ETF,equity_longonly,2021,2025
+DFAS,S000070906,Dimensional U.S. Small Cap ETF,equity_longonly,2021,2025
+SUBZ,S000070922,Roundhill Streaming Services & Technology ETF,equity_longonly,2021,2021
+STNC,S000070925,Stance Equity ESG Large Cap Core ETF,equity_longonly,2021,2022
+ASPY,S000070934,ASYMshares ASYMmetric S&P 500 ETF,equity_longshort,2021,2022
+LCLG,S000070990,Logan Capital Broad Innovative Growth ETF ,equity_longonly,2023,2025
+UMI,S000071002,USCF Midstream Energy Income Fund,equity_longonly,2021,2025
+JEMA,S000071185,JPMorgan ActiveBuilders Emerging Markets Equity ETF,equity_longonly,2021,2025
+EOPS,S000071225,Emles Alpha Opportunities ETF,equity_longshort,2021,2022
+FORH,S000071248,Formidable ETF,equity_longonly,2022,2026
+KONG,S000071250,Formidable Fortress ETF,equity_longonly,2022,2026
+MVP,S000071254,"Roundhill Pro Sports, Media & Apparel ETF",equity_longonly,2021,2021
+LCTU,S000071281,BlackRock U.S. Carbon Transition Readiness ETF,equity_longonly,2021,2025
+LCTD,S000071282,BlackRock World ex U.S. Carbon Transition Readiness ETF,equity_longonly,2021,2025
+VSLU,S000071288,Applied Finance Valuation Large Cap ETF,equity_longonly,2021,2025
+EPRE,S000071293,First Trust TCW ESG Premier Equity ETF,equity_longonly,2021,2022
+ARKX,S000071318,ARK Space Exploration & Innovation ETF,equity_longonly,2021,2025
+XVOL,S000071415,Acruence Active Hedge U.S. Equity ETF,equity_longshort,2022,2026
+GTEK,S000071430,Goldman Sachs Future Tech Leaders Equity ETF,equity_longonly,2022,2025
+SXQG,S000071535,ETC 6 Meridian Quality Growth ETF,equity_longonly,2021,2025
+BEDZ,S000071546,AdvisorShares Hotel ETF,equity_longonly,2021,2025
+EATZ,S000071547,AdvisorShares Restaurant ETF,equity_longonly,2021,2025
+MBOX,S000071574,Freedom Day Dividend ETF,equity_longonly,2021,2024
+PXUS,S000071620,Principal International Adaptive Multi-Factor ETF,equity_longonly,2021,2023
+PLRG,S000071621,Principal U.S. Large-Cap Adaptive Multi-Factor ETF,equity_longonly,2021,2023
+PLTL,S000071622,Principal U.S. Small-Cap Adaptive Multi-Factor ETF,equity_longonly,2021,2023
+GSFP,S000071688,Goldman Sachs Future Planet Equity ETF,equity_longonly,2021,2024
+JRE,S000071696,Janus Henderson U.S. Real Estate ETF,equity_longonly,2021,2025
+PGRO,S000071709,Putnam Focused Large Cap Growth ETF,equity_longonly,2021,2025
+PVAL,S000071710,Putnam Focused Large Cap Value ETF,equity_longonly,2021,2025
+PFUT,S000071711,Putnam Sustainable Future ETF,equity_longonly,2021,2025
+PLDR,S000071712,Putnam Sustainable Leaders ETF,equity_longonly,2021,2025
+MJUS,S000071726,ETFMG U.S. Alternative Harvest ETF,equity_longonly,2022,2022
+ACSI,S000071844,American Customer Satisfaction ETF,equity_longonly,2021,2022
+ILDR,S000071847,First Trust Innovation Leaders ETF,equity_longonly,2021,2025
+KOCG,S000071907,FIS Knights of Columbus Global Belief ETF,equity_longonly,2022,2025
+CUBS,S000071948,Asian Growth Cubs ETF,equity_longonly,2022,2023
+JFWD,S000071967,Jacob Forward ETF,equity_longonly,2021,2024
+XPND,S000071978,First Trust Expanded Technology ETF,equity_longonly,2021,2025
+BUDX,S000071980,Cannabis Growth ETF,equity_longonly,2022,2023
+BKES,S000072023,BNY Mellon Sustainable Global Emerging Markets ETF,equity_longonly,2022,2023
+BKIS,S000072024,BNY Mellon Sustainable International Equity ETF,equity_longonly,2022,2023
+BKUS,S000072025,BNY Mellon Sustainable US Equity ETF,equity_longonly,2022,2023
+GK,S000072084,AdvisorShares Gerber Kawasaki ETF,equity_longonly,2022,2025
+PSIL,S000072085,AdvisorShares Psychedelics ETF,equity_longonly,2022,2025
+VSPY,S000072134,VectorShares Min Vol ETF,equity_longonly,2022,2022
+AQGX,S000072155,AI Quality Growth ETF,equity_longonly,2022,2022
+JUSA,S000072166,JPMorgan ActiveBuilders U.S. Large Cap Equity ETF,equity_longonly,2022,2023
+SPAX,S000072268,Robinson Alternative Yield Pre-Merger SPAC ETF,equity_longonly,2022,2024
+GBUY,S000072294,Goldman Sachs Future Consumer Equity ETF,equity_longonly,2022,2024
+GDOC,S000072296,Goldman Sachs Future Health Care Equity ETF,equity_longonly,2022,2025
+ITAN,S000072323,Sparkline Intangible Value ETF,equity_longonly,2023,2025
+HVAL,S000072374,ALPS Hillman Active Value ETF,equity_longonly,2021,2022
+ESGY,S000072412,American Century Sustainable Growth ETF,equity_longonly,2021,2024
+BECO,S000072413,BlackRock Future Climate and Sustainable Economy ETF,equity_longonly,2022,2024
+NETZ,S000072458,TCW Transform Systems ETF,equity_longonly,2022,2025
+VCLN,S000072510,Virtus Duff & Phelps Clean Energy ETF,equity_longonly,2022,2025
+TPLE,S000072550,Timothy Plan US Large/Mid Cap Core Enhanced ETF,equity_longonly,2021,2022
+TPHE,S000072551,Timothy Plan High Dividend Stock Enhanced ETF,equity_longonly,2021,2022
+SMIG,S000072560,Bahl & Gaynor Small/Mid Cap Income Growth ETF,equity_longonly,2021,2025
+FFND,S000072561,One Global ETF,equity_longonly,2022,2025
+SPRX,S000072639,Spear Alpha ETF,equity_longonly,2022,2025
+HEET,S000072686,Hartford Schroders ESG US Equity ETF,equity_longonly,2022,2022
+EVNT,S000072757,AltShares Event-Driven ETF,equity_longshort,2022,2025
+APXH,S000072783,APEX Healthcare ETF,equity_longonly,2022,2022
+DBEH,S000072814,iMGP DBi Hedge Strategy ETF,equity_longshort,2021,2023
+GREI,S000072818,Goldman Sachs Future Real Estate and Infrastructure Equity ETF,equity_longonly,2022,2024
+MOHR,S000072880,Mohr Growth ETF,equity_longonly,2022,2023
+JAVA,S000072931,JPMorgan Active Value ETF,equity_longonly,2022,2025
+AVES,S000072996,Avantis Emerging Markets Value ETF,equity_longonly,2022,2024
+AVIV,S000072997,Avantis International Large Cap Value ETF,equity_longonly,2022,2024
+AVLV,S000072998,Avantis U.S. Large Cap Value ETF,equity_longonly,2022,2024
+AVRE,S000072999,Avantis Real Estate ETF,equity_longonly,2022,2024
+SPC,S000073002,CrossingBridge Pre-Merger SPAC ETF,equity_longonly,2021,2024
+SXUS,S000073431,Janus Henderson International Sustainable Equity ETF,equity_longonly,2021,2023
+JZRO,S000073432,Janus Henderson Net Zero Transition Resources ETF,equity_longonly,2021,2022
+SSPX,S000073433,Janus Henderson U.S. Sustainable Equity ETF,equity_longonly,2021,2024
+CRPT,S000073441,First Trust SkyBridge Crypto Industry and Digital Economy ETF,equity_longonly,2022,2025
+MMSC,S000073489,First Trust Multi-Manager Small Cap Opportunities ETF,equity_longonly,2022,2025
+INNO,S000073580,Harbor Disruptive Innovation ETF,equity_longonly,2022,2024
+HFGO,S000073664,Hartford Large Cap Growth ETF,equity_longonly,2022,2025
+MDCP,S000073699,VictoryShares THB Mid Cap ETF,equity_longonly,2022,2024
+RUFF,S000073725,Alpha Dog ETF,equity_longonly,2022,2023
+BKCI,S000073736,BNY Mellon Concentrated International ETF,equity_longonly,2022,2025
+PINK,S000073751,Simplify Health Care ETF,equity_longonly,2022,2025
+NZRO,S000073809,Strategy Shares Halt Climate Change ETF,equity_longonly,2022,2023
+TEMP,S000073853,JPMorgan Climate Change Solutions ETF,equity_longonly,2022,2024
+GFGF,S000073969,Guru Favorite Stocks ETF,equity_longonly,2022,2025
+GCIG,S000073970,Genuine Investors ETF,equity_longonly,2022,2022
+JIRE,S000074054,JPMorgan International Research Enhanced Equity ETF,equity_longonly,2022,2025
+JMEE,S000074055,JPMorgan Small & Mid Cap Enhanced Equity ETF,equity_longonly,2022,2025
+JPRE,S000074056,JPMorgan Realty Income ETF,equity_longonly,2023,2026
+PSDN,S000074074,AdvisorShares Poseidon Dynamic Cannabis ETF,equity_longonly,2022,2023
+WEED,S000074090,Roundhill Cannabis ETF,equity_longonly,2022,2025
+YUMY,S000074132,VanEck Future of Food ETF,equity_longonly,2021,2023
+AILV,S000074139,Alpha Intelligent - Large Cap Value ETF,equity_longonly,2022,2022
+AILG,S000074140,Alpha Intelligent - Large Cap Growth ETF,equity_longonly,2022,2022
+CGGR,S000074246,Capital Group Growth ETF,equity_longonly,2022,2025
+CGUS,S000074247,Capital Group Core Equity ETF,equity_longonly,2022,2025
+CGXU,S000074248,Capital Group International Focus Equity ETF,equity_longonly,2022,2025
+CGDV,S000074249,Capital Group Dividend Value ETF,equity_longonly,2022,2025
+CGGO,S000074250,Capital Group Global Growth Equity ETF,equity_longonly,2022,2025
+OALC,S000074252,OneAscent Large Cap Core ETF,equity_longonly,2022,2025
+iBET,S000074300,iBET Sports Betting & Gaming ETF,equity_longonly,2022,2022
+UMMA,S000074340,Wahed Dow Jones Islamic World ETF,equity_longonly,2022,2025
+DEIF,S000074383,Sterling Capital Diverse Multi-Manager Active ETF,equity_longonly,2022,2023
+UBCB,S000074411,UBC Algorithmic Fundamentals ETF,equity_longonly,2022,2022
+WLTG,S000074455,WealthTrust DBS Long Term Growth ETF,equity_longonly,2022,2025
+THRO,S000074569,iShares U.S. Thematic Rotation Active ETF,equity_longonly,2022,2025
+SYII,S000074623,Syntax Stratified Total Market II ETF,equity_longonly,2022,2023
+FMCX,S000074624,FMC Excelsior Focus Equity ETF,equity_longonly,2023,2026
+IUSA,S000074631,Amberwave Invest USA JSG Fund,equity_longonly,2022,2022
+TMFG,S000074654,Motley Fool Global Opportunities ETF,equity_longonly,2022,2024
+TMFM,S000074655,Motley Fool Mid-Cap Growth ETF,equity_longonly,2022,2024
+GRZZ,S000074690,Grizzle Growth ETF,equity_longonly,2022,2023
+ZGEN,S000074694,The Generation Z ETF,equity_longonly,2022,2022
+FPAG,S000074718,FPA Global Equity ETF,equity_longonly,2022,2023
+VDNI,S000074719,V-Shares US Leadership Diversity ETF,equity_longonly,2022,2023
+EATV,S000074724,VegTech Plant-based Innovation and Climate ETF,equity_longonly,2022,2024
+RAYE,S000074753,Rayliant Quantamental Emerging Market ex-China Equity ETF,equity_longonly,2022,2025
+RAYD,S000074754,Rayliant Quantitative Developed Market Equity ETF,equity_longonly,2022,2025
+TIME,S000074761,Clockwise Core Equity & Innovation ETF,equity_longonly,2022,2023
+CAPE,S000074771,DoubleLine Shiller CAPE U.S. Equities ETF,equity_longonly,2022,2025
+CVAR,S000074803,Cultivar ETF,equity_longonly,2022,2025
+AVSC,S000074835,Avantis U.S. Small Cap Equity ETF,equity_longonly,2022,2024
+CLSE,S000074838,Convergence Long/Short Equity ETF,equity_longshort,2022,2025
+PUNK,S000074852,Subversive Metaverse ETF,equity_longonly,2022,2022
+FLDZ,S000074873,RiverNorth Patriot ETF,equity_longonly,2021,2024
+ROCI,S000074895,ROC ETF,equity_longonly,2023,2023
+FFLS,S000074927,The Future Long/Short ETF,equity_longshort,2024,2025
+CGV,S000074951,Conductor Global Equity Value ETF,equity_longonly,2022,2025
+DFUV,S000075030,Dimensional US Marketwide Value ETF,equity_longonly,2022,2025
+SELV,S000075036,SEI Enhanced Low Volatility U.S. Large Cap ETF,equity_longonly,2023,2026
+SEIM,S000075037,SEI Enhanced U.S. Large Cap Momentum Factor ETF,equity_longonly,2023,2026
+SEIQ,S000075038,SEI Enhanced U.S. Large Cap Quality Factor ETF,equity_longonly,2023,2026
+SEIV,S000075039,SEI Enhanced U.S. Large Cap Value Factor ETF,equity_longonly,2023,2026
+WGMI,S000075052,Valkyrie Bitcoin Miners ETF,equity_longonly,2022,2024
+SAGP,S000075077,Strategas Global Policy Opportunities ETF,equity_longonly,2022,2025
+SAMT,S000075078,Strategas Macro Thematic Opportunities ETF,equity_longonly,2022,2025
+LETB,S000075085,AdvisorShares Let Bob AI Powered Momentum ETF,equity_longonly,2022,2023
+RSEE,S000075093,Rareview Systematic Equity ETF,equity_longonly,2022,2024
+CSH,S000075116,Morgan Creek - Exos Active SPAC Arbitrage ETF,equity_longshort,2022,2022
+DUHP,S000075148,Dimensional US High Profitability ETF,equity_longonly,2022,2025
+DFEM,S000075149,Dimensional Emerging Markets Core Equity 2 ETF,equity_longonly,2022,2025
+DFAR,S000075150,Dimensional US Real Estate ETF,equity_longonly,2022,2025
+DFSV,S000075151,Dimensional US Small Cap Value ETF,equity_longonly,2022,2025
+DFIC,S000075152,Dimensional International Core Equity 2 ETF,equity_longonly,2022,2025
+DISV,S000075153,Dimensional International Small Cap Value ETF,equity_longonly,2022,2025
+DFIS,S000075154,Dimensional International Small Cap ETF,equity_longonly,2022,2025
+DIHP,S000075155,Dimensional International High Profitability ETF,equity_longonly,2022,2025
+DEHP,S000075156,Dimensional Emerging Markets High Profitability ETF,equity_longonly,2022,2025
+DFEV,S000075157,Dimensional Emerging Markets Value ETF,equity_longonly,2022,2025
+WINN,S000075162,Harbor Long-Term Growers ETF,equity_longonly,2022,2025
+PRAY,S000075169,FIS Christian Stock Fund,equity_longonly,2022,2025
+APUE,S000075229,ActivePassive U.S. Equity ETF,equity_longonly,2023,2024
+APIE,S000075230,ActivePassive International Equity ETF,equity_longonly,2023,2024
+HAUS,S000075316,Residential REIT ETF,equity_longonly,2023,2026
+TSME,S000075337,Thrivent Small-Mid Cap Equity ETF,equity_longonly,2023,2025
+HAPY,S000075357,Harbor Human Capital Factor Unconstrained ETF,equity_longonly,2022,2023
+AVSE,S000075381,Avantis Responsible Emerging Markets Equity ETF,equity_longonly,2022,2024
+AVSD,S000075382,Avantis Responsible International Equity ETF,equity_longonly,2022,2024
+AVSU,S000075383,Avantis Responsible U.S. Equity ETF,equity_longonly,2022,2024
+NBET,S000075395,Neuberger Berman Energy Transition & Infrastructure ETF,equity_longonly,2022,2025
+NBDS,S000075396,Neuberger Berman Disrupters ETF,equity_longonly,2022,2025
+NBCC,S000075397,Neuberger Berman Next Generation Connected Consumer ETF,equity_longonly,2022,2024
+SEMI,S000075502,Columbia Semiconductor and Technology ETF,equity_longonly,2022,2024
+IPDP,S000075510,Dividend Performers ETF,equity_longonly,2022,2024
+UAV,S000075536,AdvisorShares Drone Technology ETF,equity_longonly,2022,2022
+KGHG,S000075539,KraneShares Global Carbon Transformation ETF,equity_longonly,2022,2023
+IWLG,S000075560,NYLI Winslow Large Cap Growth ETF,equity_longonly,2023,2025
+IWFG,S000075561,NYLI Winslow Focused Large Cap Growth ETF,equity_longonly,2023,2025
+OAIE,S000075564,Optimize AI Smart Sentiment Event-Driven ETF,equity_longonly,2023,2023
+AHOY,S000075593,Newday Ocean Health ETF,equity_longonly,2023,2024
+GDVD,S000075613,R3 Global Dividend Growth ETF,equity_longonly,2023,2024
+RPHS,S000075684,Regents Park Hedged Market Strategy ETF,equity_longshort,2023,2026
+DVAL,S000075788,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,equity_longonly,2023,2026
+MCSE,S000075790,Martin Currie Sustainable International Equity ETF,equity_longonly,2023,2025
+GDIV,S000075911,Harbor Dividend Growth Leaders ETF,equity_longonly,2022,2025
+BYRE,S000076068,Principal Real Estate Active Opportunities ETF,equity_longonly,2022,2025
+UDI,S000076071,USCF Dividend Income Fund,equity_longonly,2022,2025
+BLLD,S000076158,JPMorgan Sustainable Infrastructure ETF,equity_longonly,2022,2024
+VMAT,S000076256,V-Shares MSCI World ESG Materiality and Carbon Transition ETF,equity_longonly,2022,2023
+TUGN,S000076366,STF Tactical Growth & Income ETF,equity_longonly,2023,2026
+TUG,S000076367,STF Tactical Growth ETF,equity_longonly,2023,2026
+NSPY,S000076400,NightShares 500 ETF,equity_longonly,2023,2023
+NIWM,S000076402,NightShares 2000 ETF,equity_longonly,2023,2023
+AMID,S000076459,Argent Mid Cap ETF,equity_longonly,2023,2025
+GVLU,S000076475,Gotham 1000 Value ETF,equity_longonly,2022,2025
+AOTG,S000076479,AOT Growth and Innovation ETF,equity_longonly,2023,2025
+DVDN,S000076504,Kingsbarn Dividend Opportunity ETF,equity_longonly,2024,2025
+DSPC,S000076580,AXS De-SPAC ETF,equity_longonly,2022,2022
+GGTL,S000076599,Gabelli Global Technology Leaders ETF,equity_longonly,2022,2025
+DFSU,S000076639,Dimensional US Sustainability Core 1 ETF,equity_longonly,2023,2025
+DFSI,S000076640,Dimensional International Sustainability Core 1 ETF,equity_longonly,2023,2025
+DFSE,S000076641,Dimensional Emerging Markets Sustainability Core 1 ETF,equity_longonly,2023,2025
+DVND,S000076657,Touchstone Dividend Select ETF,equity_longonly,2022,2025
+LCF,S000076659,Touchstone US Large Cap Focused ETF,equity_longonly,2022,2025
+SGLC,S000076677,SGI U.S. Large Cap Core ETF,equity_longonly,2023,2024
+SPCZ,S000076705,RiverNorth Enhanced Pre-Merger SPAC ETF,equity_longonly,2022,2024
+MEM,S000076755,Matthews Emerging Markets Equity Active ETF,equity_longonly,2022,2025
+MINV,S000076756,Matthews Asia Innovators Active ETF,equity_longonly,2022,2025
+MCH,S000076757,Matthews China Active ETF,equity_longonly,2022,2025
+CCSO,S000076804,Carbon Collective Climate Solutions U.S. Equity ETF,equity_longonly,2023,2024
+BPAY,S000076808,iShares FinTech Active ETF,equity_longonly,2023,2025
+BCDF,S000076848,Horizon Kinetics Blockchain Development ETF,equity_longonly,2022,2025
+FDLS,S000076870,Inspire Fidelis Multi Factor ETF,equity_longonly,2022,2024
+RVRB,S000076891,Reverb ETF,equity_longonly,2023,2025
+JGRO,S000077070,JPMorgan Active Growth ETF,equity_longonly,2023,2025
+OSEA,S000077093,Harbor International Compounders ETF,equity_longonly,2022,2025
+BBLU,S000077095,EA Bridgeway Blue Chip ETF,equity_longonly,2023,2025
+DSMC,S000077110,Distillate Small/Mid Cash Flow ETF,equity_longonly,2023,2024
+STRV,S000077125,Strive 500 ETF,equity_longonly,2023,2023
+DRLL,S000077126,Strive U.S. Energy ETF,equity_longonly,2023,2023
+SHOC,S000077127,Strive U.S. Semiconductor ETF,equity_longonly,2023,2023
+PBDC,S000077137,Putnam BDC Income ETF,equity_longonly,2023,2025
+SYNB,S000077138,Putnam BioRevolution ETF,equity_longonly,2023,2025
+PEMX,S000077139,Putnam Emerging Markets ex-China ETF,equity_longonly,2024,2025
+OAEM,S000077261,OneAscent Emerging Markets ETF,equity_longonly,2023,2025
+OAIM,S000077262,OneAscent International Equity ETF,equity_longonly,2023,2025
+PPEM,S000077300,Putnam Panagora ESG Emerging Markets Equity ETF,equity_longonly,2023,2025
+PPIE,S000077301,Putnam Panagora ESG International Equity ETF,equity_longonly,2023,2025
+STXE,S000077313,Strive Emerging Markets Ex-China ETF,equity_longonly,2023,2023
+NXTE,S000077398,AXS Green Alpha ETF,equity_longonly,2023,2026
+JHDV,S000077441,John Hancock U.S. High Dividend ETF,equity_longonly,2023,2026
+EQTY,S000077457,Kovitz Core Equity ETF,equity_longonly,2023,2025
+SUPP,S000077466,TCW Transform Supply Chain ETF,equity_longonly,2023,2025
+AVIE,S000077485,Avantis Inflation Focused Equity ETF,equity_longonly,2023,2024
+DIVD,S000077499,Altrius Global Dividend ETF,equity_longonly,2023,2024
+BRNY,S000077503,Burney U.S. Factor Rotation ETF,equity_longonly,2023,2024
+SHDG,S000077614,Soundwatch Hedged Equity ETF,equity_longshort,2022,2022
+YALL,S000077618,God Bless America ETF,equity_longonly,2023,2025
+CAMX,S000077620,Cambiar Aggressive Value ETF,equity_longonly,2023,2025
+HAPI,S000077722,Harbor Human Capital Factor US Large Cap ETF,equity_longonly,2022,2023
+BKGI,S000077785,BNY Mellon Global Infrastructure Income ETF,equity_longonly,2023,2025
+EIPX,S000077877,FT Energy Income Partners Strategy ETF,equity_longonly,2023,2025
+PP,S000077894,The Meet Kevin Pricing Power ETF,equity_longonly,2023,2024
+DKRB,S000077930,Subversive Decarbonization ETF,equity_longonly,2023,2023
+KCAL,S000077931,Subversive Food Security ETF,equity_longonly,2023,2023
+SANE,S000077932,Subversive Mental Health ETF,equity_longonly,2023,2023
+CVSE,S000077962,Calvert US Select Equity ETF,equity_longonly,2023,2024
+MEDI,S000077996,Harbor Health Care ETF,equity_longonly,2023,2025
+ADPV,S000077998,Adaptiv Select ETF,equity_longonly,2023,2025
+STXG,S000078017,Strive 1000 Growth ETF,equity_longonly,2023,2023
+STXV,S000078018,Strive 1000 Value ETF,equity_longonly,2023,2023
+STXK,S000078019,Strive Small-Cap ETF,equity_longonly,2023,2023
+STXD,S000078020,Strive 1000 Dividend Growth ETF,equity_longonly,2023,2023
+DIP,S000078027,BTD Capital Fund,equity_longonly,2023,2023
+SURI,S000078061,Simplify Propel Opportunities ETF,equity_longonly,2023,2025
+BSVO,S000078089,EA Bridgeway Omni Small-Cap Value ETF,equity_longonly,2023,2025
+FDV,S000078169,Federated Hermes U.S. Strategic Dividend ETF,equity_longonly,2023,2025
+RSHO,S000078298,Tema American Reshoring ETF,equity_longonly,2024,2026
+CANC,S000078299,Tema Oncology ETF,equity_longonly,2024,2026
+LUX,S000078301,Tema Luxury ETF,equity_longonly,2024,2025
+TOLL,S000078302,Tema Monopolies and Oligopolies ETF,equity_longonly,2024,2026
+AAUM,S000078303,Tema Alternative Asset Managers ETF,equity_longonly,2026,2026
+EVXX,S000078790,Defiance Pure Electric Vehicle ETF,equity_longonly,2023,2023
+NANC,S000078920,Unusual Whales Subversive Democratic Trading ETF,equity_longonly,2023,2024
+KRUZ,S000078921,Unusual Whales Subversive Republican Trading ETF,equity_longonly,2023,2024
+RNWZ,S000078930,TrueShares Eagle Global Renewables Income ETF,equity_longonly,2022,2024
+MEDX,S000078972,Horizon Kinetics Medical ETF,equity_longonly,2023,2025
+SPAQ,S000078973,Horizon Kinetics SPAC Active ETF,equity_longonly,2023,2025
+DFLV,S000078987,Dimensional US Large Cap Value ETF,equity_longonly,2023,2025
+DFGR,S000078988,Dimensional Global Real Estate ETF,equity_longonly,2023,2025
+INFR,S000079010,ClearBridge Sustainable Infrastructure ETF,equity_longonly,2023,2025
+JHID,S000079041,John Hancock International High Dividend ETF,equity_longonly,2023,2026
+EMM,S000079056,Global X Emerging Markets ex-China ETF,equity_longonly,2023,2025
+EMC,S000079059,Global X Emerging Markets Great Consumer ETF,equity_longonly,2023,2025
+STNC,S000079062,Hennessy Sustainable ETF,equity_longonly,2023,2025
+PJFV,S000079105,PGIM Jennison Focused Value ETF,equity_longonly,2023,2025
+PJFG,S000079106,PGIM Jennison Focused Growth ETF,equity_longonly,2023,2025
+ROYA,S000079263,Tema Global Royalties ETF,equity_longonly,2024,2024
+WUGI,S000079287,AXS Esoterica NextG Economy ETF,equity_longonly,2023,2026
+FCUS,S000079304,Pinnacle Focused Opportunities ETF,equity_longonly,2023,2025
+WCEO,S000079305,Hypatia Women CEO ETF,equity_longonly,2023,2025
+CLIA,S000079334,Veridien Climate Action ETF,equity_longonly,2024,2024
+MEMX,S000079342,Matthews Emerging Markets ex China Active ETF,equity_longonly,2023,2025
+TPMN,S000079419,Timothy Plan Market Neutral ETF,equity_longshort,2023,2024
+NVIR,S000079432,Horizon Kinetics Energy and Remediation ETF,equity_longonly,2023,2025
+SROI,S000079464,Calamos Antetokounmpo Global Sustainable Equities ETF,equity_longonly,2023,2025
+FWD,S000079470,AB Disruptors ETF,equity_longonly,2023,2025
+HIDV,S000079471,AB US High Dividend ETF,equity_longonly,2023,2025
+LOWV,S000079472,AB US Low Volatility Equity ETF,equity_longonly,2023,2025
+MAGS,S000079576,Roundhill Magnificent Seven ETF,equity_longonly,2023,2025
+AWEG,S000079631,Alger Weatherbie Enduring Growth ETF,equity_longonly,2023,2024
+JPSV,S000079652,JPMorgan Active Small Cap Value ETF,equity_longonly,2023,2025
+JCHI,S000079746,JPMorgan Active China ETF,equity_longonly,2023,2025
+JPEF,S000079812,JPMorgan Equity Focus ETF,equity_longonly,2024,2025
+TCAF,S000079834,T. Rowe Price Capital Appreciation Equity ETF,equity_longonly,2023,2025
+TGRT,S000079835,T. Rowe Price Growth ETF,equity_longonly,2023,2025
+TOUS,S000079836,T. Rowe Price International Equity ETF,equity_longonly,2023,2025
+TMSL,S000079837,T. Rowe Price Small-Mid Cap ETF,equity_longonly,2023,2025
+TVAL,S000079838,T. Rowe Price Value ETF,equity_longonly,2023,2025
+ECML,S000079847,Euclidean Fundamental Value ETF,equity_longonly,2024,2026
+NSI,S000079901,National Security Emerging Markets Index ETF,equity_longonly,2024,2025
+HEAT,S000079934,Touchstone Climate Transition ETF,equity_longonly,2023,2024
+HAPS,S000079952,Harbor Human Capital Factor US Small Cap ETF,equity_longonly,2023,2023
+FFOG,S000080151,Franklin Focused Growth ETF,equity_longonly,2024,2026
+MKOR,S000080170,Matthews Korea Active ETF,equity_longonly,2023,2025
+BKIV,S000080183,BNY Mellon Innovators ETF,equity_longonly,2024,2025
+BKWO,S000080184,BNY Mellon Womens Opportunities ETF,equity_longonly,2024,2025
+LRGC,S000080208,AB US Large Cap Strategic Equities ETF,equity_longonly,2023,2025
+MDLV,S000080210,Morgan Dempsey Large Cap Value ETF,equity_longonly,2024,2026
+DFVX,S000080330,Dimensional US Large Cap Vector ETF,equity_longonly,2024,2025
+CHAT,S000080348,Roundhill Generative AI & Technology ETF,equity_longonly,2024,2025
+REAI,S000080389,Intelligent Real Estate ETF,equity_longonly,2024,2026
+BLCV,S000080410,iShares Large Cap Value Active ETF,equity_longonly,2023,2025
+KNOW,S000080449,Fundamentals First ETF,equity_longonly,2024,2025
+RUNN,S000080468,Running Oak Efficient Growth ETF,equity_longonly,2023,2025
+TDI,S000080487,Touchstone Dynamic International ETF,equity_longonly,2023,2025
+JDOC,S000080528,JPMorgan Healthcare Leaders ETF,equity_longonly,2024,2025
+JTEK,S000080536,JPMorgan U.S. Tech Leaders ETF,equity_longonly,2024,2025
+AVDS,S000080558,Avantis International Small Cap Equity ETF,equity_longonly,2023,2024
+AVLC,S000080562,Avantis U.S. Large Cap Equity ETF,equity_longonly,2024,2024
+LSGR,S000080571,Natixis Loomis Sayles Focused Growth ETF,equity_longonly,2023,2025
+BDVG,S000080576,iMGP Berkshire Dividend Growth ETF,equity_longonly,2023,2025
+EQLS,S000080583,Simplify Market Neutral Equity Long/Short ETF,equity_longshort,2023,2024
+SHDG,S000080629,Soundwatch Hedged Equity ETF,equity_longshort,2023,2025
+NDIA,S000080659,Global X India Active ETF,equity_longonly,2023,2025
+BRAZ,S000080660,Global X Brazil Active ETF,equity_longonly,2023,2025
+SMRI,S000080670,Bushido Capital US Equity ETF,equity_longonly,2024,2024
+BCHP,S000080686,Principal Focused Blue Chip ETF,equity_longonly,2024,2025
+SFLO,S000080690,VictoryShares Small Cap Free Cash Flow ETF,equity_longonly,2024,2024
+CGDG,S000080720,Capital Group Dividend Growers ETF,equity_longonly,2024,2025
+CGIE,S000080722,Capital Group International Equity ETF,equity_longonly,2024,2025
+LGRO,S000080742,Level Four Large Cap Growth Active ETF,equity_longonly,2023,2025
+KSEA,S000080796,KraneShares Rockefeller Ocean Engagement ETF,equity_longonly,2024,2025
+GSIB,S000081041,Themes Global Systemically Important Banks ETF,equity_longonly,2024,2024
+NBCE,S000081048,Neuberger Berman China Equity ETF,equity_longonly,2024,2025
+NBGR,S000081049,Neuberger Berman Global Real Estate ETF,equity_longonly,2024,2024
+DIVL,S000081096,Madison Dividend Value ETF,equity_longonly,2024,2025
+ROE,S000081203,Astoria US Equal Weight Quality Kings ETF,equity_longonly,2024,2025
+BGIG,S000081227,Bahl & Gaynor Income Growth ETF,equity_longonly,2023,2025
+AGQI,S000081234,First Trust Active Global Quality Income ETF,equity_longonly,2023,2025
+JGLO,S000081237,JPMorgan Global Select Equity ETF,equity_longonly,2023,2025
+JIVE,S000081238,JPMorgan International Value ETF,equity_longonly,2023,2025
+TGLR,S000081285,LAFFER TENGLER Equity Income ETF,equity_longonly,2024,2025
+DARP,S000081338,Grizzle Growth ETF,equity_longonly,2024,2024
+QUVU,S000081376,Hartford Quality Value ETF,equity_longonly,2023,2025
+CSMD,S000081384,Congress SMid Growth ETF,equity_longonly,2023,2025
+CAML,S000081385,Congress Large Cap Growth ETF,equity_longonly,2023,2025
+FCFY,S000081453,First Trust S&P 500 Diversified Free Cash Flow ETF,equity_longonly,2023,2023
+FDIV,S000081525,MarketDesk Focused U.S. Dividend ETF,equity_longonly,2024,2024
+HRTS,S000081541,Tema Obesity & Cardiometabolic ETF,equity_longonly,2024,2026
+MNTL,S000081543,Tema Neuroscience and Mental Health ETF,equity_longonly,2024,2025
+LSEQ,S000081567,Harbor Long-Short Equity ETF,equity_longshort,2024,2025
+CGRO,S000081585,CoreValues Alpha Greater China Growth ETF,equity_longonly,2024,2025
+SPDG,S000081587,SPDR Portfolio S&P Sector Neutral Dividend ETF,equity_longonly,2024,2025
+PCGG,S000081588,Polen Capital Global Growth ETF,equity_longonly,2023,2025
+BINV,S000081642,Brandes International ETF,equity_longonly,2024,2025
+BSMC,S000081643,Brandes U.S. Small-Mid Cap Value ETF,equity_longonly,2024,2025
+BUSA,S000081644,Brandes U.S. Value ETF,equity_longonly,2024,2025
+EAGL,S000081645,Eagle Capital Select Equity ETF,equity_longonly,2024,2025
+LBO,S000081688,WHITEWOLF Publicly Listed Private Equity ETF,equity_longonly,2024,2026
+SOVF,S000081759,Sovereign's Capital Flourish Fund,equity_longonly,2024,2025
+BAMD,S000081761,Brookstone Dividend Stock ETF,equity_longonly,2024,2025
+BAMG,S000081762,Brookstone Growth Stock ETF,equity_longonly,2024,2025
+BAMV,S000081766,Brookstone Value Stock ETF,equity_longonly,2024,2025
+DCOR,S000081780,Dimensional US Core Equity 1 ETF,equity_longonly,2023,2025
+TBG,S000081800,TBG Dividend Focus ETF,equity_longonly,2024,2024
+EMSF,S000081862,Matthews Emerging Markets Sustainable Future Active ETF,equity_longonly,2023,2025
+ASIA,S000081863,Matthews Pacific Tiger Active ETF,equity_longonly,2023,2025
+INDE,S000081864,Matthews India Active ETF,equity_longonly,2023,2025
+JPAN,S000081865,Matthews Japan Active ETF,equity_longonly,2023,2025
+ADVE,S000081866,Matthews Asia Dividend Active ETF,equity_longonly,2023,2025
+SMIZ,S000081958,Zacks Small/Mid Cap ETF,equity_longonly,2023,2025
+GSC,S000081978,Goldman Sachs Small Cap Equity ETF,equity_longonly,2024,2025
+BILD,S000082262,Nomura Global Listed Infrastructure ETF,equity_longonly,2024,2026
+PWER,S000082263,Nomura Energy Transition ETF,equity_longonly,2024,2026
+MJUS,S000082273,Amplify U.S. Alternative Harvest ETF,equity_longonly,2024,2024
+SHRT,S000082296,Gotham Short Strategies ETF,equity_longshort,2024,2025
+BLCR,S000082317,iShares Large Cap Core Active ETF,equity_longonly,2024,2025
+BWTG,S000082334,Brendan Wood TopGun ETF,equity_longonly,2024,2025
+JHAC,S000082342,John Hancock Fundamental All Cap Core ETF,equity_longonly,2024,2026
+EV,S000082790,Mast Global Battery Recycling & Production ETF,equity_longonly,2024,2024
+AVEE,S000082825,Avantis Emerging Markets Small Cap Equity ETF,equity_longonly,2024,2024
+AVMC,S000082826,Avantis U.S. Mid Cap Equity ETF,equity_longonly,2024,2024
+AVMV,S000082827,Avantis U.S. Mid Cap Value ETF,equity_longonly,2024,2024
+SFGV,S000082843,Sequoia Global Value ETF,equity_longonly,2024,2025
+HFEQ,S000082853,Unlimited HFEQ Equity Long/Short ETF,equity_longshort,2025,2025
+SPTE,S000082880,SP Funds S&P Global Technology ETF,equity_longonly,2024,2025
+LGHT,S000082910,Langar Global HealthTech ETF,equity_longonly,2024,2025
+BEEZ,S000082960,Honeytree U.S. Equity ETF,equity_longonly,2024,2024
+FUNL,S000082979,CornerCap Fundametrics Large-Cap ETF,equity_longonly,2024,2025
+LQAI,S000082989,LG QRAFT AI-Powered U.S. Large Cap Core ETF,equity_longonly,2024,2025
+QLTY,S000082992,GMO U.S. Quality ETF,equity_longonly,2024,2026
+VGSR,S000083012,Vert Global Sustainable Real Estate ETF,equity_longonly,2024,2025
+CPAI,S000083027,Counterpoint Quantitative Equity ETF,equity_longonly,2024,2025
+RJMG,S000083044,FT Raymond James Multicap Growth Equity ETF,equity_longonly,2024,2025
+ABCS,S000083066,Alpha Blue Capital US Small-Mid Cap Dynamic ETF,equity_longonly,2024,2025
+SMCO,S000083082,Hilton Small-MidCap Opportunity ETF,equity_longonly,2024,2025
+MVPL,S000083083,Miller Value Partners Leverage ETF,equity_longonly,2024,2024
+MVPA,S000083084,Miller Value Partners Appreciation ETF,equity_longonly,2024,2024
+CARK,S000083184,CastleArk Large Growth ETF,equity_longonly,2024,2025
+BIDD,S000083238,iShares International Dividend Active ETF,equity_longonly,2025,2025
+NITE,S000083302,The Nightview Fund,equity_longonly,2025,2026
+PJBF,S000083331,PGIM Jennison Better Future ETF,equity_longonly,2024,2025
+PJIO,S000083332,PGIM Jennison International Opportunities ETF,equity_longonly,2024,2025
+PJFM,S000083333,PGIM Jennison Focused Mid-Cap ETF,equity_longonly,2024,2025
+PRMN,S000083338,PlanRock Market Neutral Income ETF,equity_longshort,2024,2024
+JDVI,S000083349,John Hancock Disciplined Value International Select ETF,equity_longonly,2024,2026
+AVXC,S000083425,Avantis Emerging Markets ex-China Equity ETF,equity_longonly,2024,2024
+PCCE,S000083434,Polen Capital China Growth ETF,equity_longonly,2024,2025
+PCEM,S000083435,Polen Capital Emerging Markets ex-China Growth ETF,equity_longonly,2024,2025
+PCIG,S000083437,Polen Capital International Growth ETF,equity_longonly,2024,2025
+BCUS,S000083459,Bancreek US Large Cap ETF,equity_longonly,2024,2025
+MYLD,S000083494,Cambria Micro and SmallCap Shareholder Yield ETF,equity_longonly,2024,2025
+SPWO,S000083496,SP Funds S&P World (ex-US) ETF,equity_longonly,2024,2025
+KNO,S000083575,AXS Knowledge Leaders ETF,equity_longonly,2025,2026
+MEMS,S000083828,Matthews Emerging Markets Discovery Active ETF,equity_longonly,2024,2025
+MCHS,S000083829,Matthews China Discovery Active ETF,equity_longonly,2024,2025
+NRES,S000083869,Xtrackers RREEF Global Natural Resources ETF,equity_longonly,2024,2025
+ILOW,S000083870,AB International Low Volatility Equity ETF,equity_longonly,2024,2025
+FPAG,S000083872,FPA Global Equity ETF,equity_longonly,2024,2024
+MGNR,S000083896,American Beacon GLG Natural Resources ETF,equity_longonly,2025,2026
+JADE,S000083982,JPMorgan Active Developing Markets Equity ETF,equity_longonly,2024,2025
+INRO,S000084031,iShares U.S. Industry Rotation Active ETF,equity_longonly,2024,2025
+IOPP,S000084069,Simplify Tara India Opportunities ETF,equity_longonly,2024,2025
+RVER,S000084161,Trenchless Fund ETF,equity_longonly,2024,2025
+NSCR,S000084191,Nuveen Sustainable Core ETF,equity_longonly,2025,2025
+NBSM,S000084236,Neuberger Berman Small-Mid Cap ETF,equity_longonly,2024,2025
+BCIL,S000084270,Bancreek International Large Cap ETF,equity_longonly,2024,2025
+CNEQ,S000084280,Alger Concentrated Equity ETF,equity_longonly,2024,2025
+ALAI,S000084281,Alger AI Enablers & Adopters ETF,equity_longonly,2024,2025
+AIFD,S000084288,TCW Artificial Intelligence ETF,equity_longonly,2024,2025
+GRW,S000084289,TCW Durable Growth ETF,equity_longonly,2024,2025
+PTL,S000084295,Inspire 500 ETF,equity_longonly,2024,2024
+KOOL,S000084308,North Shore Equity Rotation ETF,equity_longonly,2025,2026
+EHLS,S000084434,Even Herd Long Short ETF,equity_longshort,2025,2026
+RAYJ,S000084471,Rayliant SMDAM Japan Equity ETF,equity_longonly,2024,2025
+SAMM,S000084480,Strategas Macro Momentum ETF,equity_longonly,2024,2025
+NEWZ,S000084573,StockSnips AI-Powered Sentiment US All Cap ETF,equity_longonly,2025,2026
+TOGA,S000084649,Tremblant Global ETF,equity_longonly,2024,2025
+OPTZ,S000084701,Optimize Strategy Index ETF,equity_longonly,2025,2025
+NDOW,S000084713,Anydrus Advantage ETF,equity_longonly,2025,2026
+CGGE,S000084722,Capital Group Global Equity ETF,equity_longonly,2025,2025
+CGCV,S000084724,Capital Group Conservative Equity ETF,equity_longonly,2025,2025
+CGIC,S000084726,Capital Group International Core Equity ETF,equity_longonly,2025,2025
+CGNG,S000084728,Capital Group New Geography Equity ETF,equity_longonly,2025,2025
+ERNZ,S000084738,TrueShares Active Yield ETF,equity_longonly,2024,2024
+LRGG,S000084942,Nomura Focused Large Growth ETF,equity_longonly,2025,2026
+OCFS,S000084950,Otter Creek Focus Strategy ETF,equity_longonly,2024,2025
+OASC,S000084956,OneAscent Small Cap Core ETF,equity_longonly,2024,2025
+OZEM,S000085000,Roundhill GLP-1 & Weight Loss ETF,equity_longonly,2024,2025
+TIME,S000085026,Clockwise Core Equity & Innovation ETF,equity_longonly,2024,2024
+LYLD,S000085275,Cambria LargeCap Shareholder Yield ETF,equity_longonly,2025,2025
+GLOW,S000085471,VictoryShares WestEnd Global Equity ETF,equity_longonly,2024,2025
+EMOT,S000085477,First Trust S&P 500 Economic Moat ETF,equity_longonly,2024,2024
+AGIX,S000085506,KraneShares Artificial Intelligence and Technology ETF,equity_longonly,2025,2026
+KQQQ,S000085571,Kurv Technology Titans Select ETF,equity_longonly,2024,2025
+MFSG,S000085667,MFS Active Growth ETF,equity_longonly,2025,2026
+MFSI,S000085669,MFS Active International ETF,equity_longonly,2025,2026
+MFSV,S000085670,MFS Active Value ETF,equity_longonly,2025,2026
+EMEQ,S000085746,Nomura Focused Emerging Markets Equity ETF,equity_longonly,2025,2026
+NBCR,S000085748,Neuberger Berman Core Equity ETF,equity_longonly,2024,2025
+FLCC,S000085753,Federated Hermes MDT Large Cap Core ETF,equity_longonly,2025,2026
+FLCG,S000085754,Federated Hermes MDT Large Cap Growth ETF,equity_longonly,2025,2026
+FLCV,S000085755,Federated Hermes MDT Large Cap Value ETF,equity_longonly,2025,2026
+FSCC,S000085756,Federated Hermes MDT Small Cap Core ETF,equity_longonly,2025,2026
+JDIV,S000085903,JPMorgan Dividend Leaders ETF,equity_longonly,2024,2025
+SEEM,S000085974,SEI Select Emerging Markets Equity ETF,equity_longonly,2025,2026
+SEIE,S000085975,SEI Select International Equity ETF,equity_longonly,2025,2026
+SEIS,S000085976,SEI Select Small Cap ETF,equity_longonly,2025,2026
+BDIV,S000085981,AAM Brentview Dividend Growth ETF,equity_longonly,2024,2025
+SAWS,S000085982,AAM Sawgrass U.S. Small Cap Quality Growth ETF,equity_longonly,2024,2025
+SAWG,S000085983,AAM Sawgrass U.S. Large Cap Quality Growth ETF,equity_longonly,2024,2025
+LCDS,S000086049,JPMorgan Fundamental Data Science Large Core ETF,equity_longonly,2025,2025
+MCDS,S000086050,JPMorgan Fundamental Data Science Mid Core ETF,equity_longonly,2025,2025
+SCDS,S000086051,JPMorgan Fundamental Data Science Small Core ETF,equity_longonly,2025,2025
+TTEQ,S000086172,T. Rowe Price Technology ETF,equity_longonly,2024,2025
+ESN,S000086190,Essential 40 Stock ETF,equity_longonly,2025,2025
+MAGC,S000086192,Roundhill China Magnificent Seven ETF,equity_longonly,2024,2025
+BAI,S000086268,iShares A.I. Innovation and Tech Active ETF,equity_longonly,2025,2025
+TEK,S000086269,iShares Technology Opportunities Active ETF,equity_longonly,2025,2025
+DXUV,S000086501,Dimensional US Vector Equity ETF,equity_longonly,2024,2025
+DXIV,S000086502,Dimensional International Vector Equity ETF,equity_longonly,2024,2025
+DEXC,S000086503,Dimensional Emerging Markets ex China Core Equity ETF,equity_longonly,2025,2025
+ELCV,S000086526,Eventide High Dividend ETF,equity_longonly,2025,2025
+SMLL,S000086592,Harbor Active Small Cap ETF,equity_longonly,2024,2025
+DTAN,S000086651,Sparkline International Intangible Value ETF,equity_longonly,2025,2025
+WCME,S000086663,First Trust WCM Developing World Equity ETF,equity_longonly,2024,2025
+WCMI,S000086665,First Trust WCM International Equity ETF,equity_longonly,2024,2025
+RGEF,S000086715,Rockefeller Global Equity ETF,equity_longonly,2025,2025
+RSMC,S000086716,Rockefeller U.S. Small-Mid Cap ETF,equity_longonly,2025,2025
+NBJP,S000086746,Neuberger Berman Japan Equity ETF,equity_longonly,2025,2025
+LIVR,S000086878,Intelligent Livermore ETF,equity_longonly,2025,2025
+XCNY,S000087668,SPDR S&P Emerging Markets ex-China ETF,equity_longonly,2024,2024
+EUAD,S000087726,Select STOXX Europe Aerospace & Defense ETF,equity_longonly,2025,2025
+BKCG,S000087737,BNY Mellon Concentrated Growth ETF,equity_longonly,2025,2025
+BKDV,S000087738,BNY Mellon Dynamic Value ETF,equity_longonly,2025,2025
+GROZ,S000087747,Zacks Focus Growth ETF,equity_longonly,2025,2025
+DECO,S000087748,SPDR Galaxy Digital Asset Ecosystem ETF,equity_longonly,2024,2025
+TEKX,S000087749,SPDR Galaxy Transformative Tech Accelerators ETF,equity_longonly,2024,2025
+JMID,S000087757,JANUS HENDERSON MID CAP GROWTH ALPHA ETF,equity_longonly,2024,2025
+INFO,S000088022,Harbor PanAgora Dynamic Large Cap Core ETF,equity_longonly,2024,2025
+GQQQQ,S000088111,Astoria US Quality Growth Kings ETF,equity_longonly,2025,2025
+MSLC,S000088119,Morgan Stanley Pathway Large Cap Equity ETF,equity_longonly,2025,2025
+MSSM,S000088120,Morgan Stanley Pathway Small-Mid Cap Equity ETF,equity_longonly,2025,2025
+KMID,S000088173,Virtus KAR Mid-Cap ETF,equity_longonly,2025,2025
+UPSD,S000088187,Aptus Large Cap Upside ETF,equity_longonly,2025,2025
+CSRE,S000088341,Cohen & Steers Real Estate Active ETF,equity_longonly,2025,2026
+CSNR,S000088342,Cohen & Steers Natural Resources Active ETF,equity_longonly,2025,2026
+NANC,S000088363,Unusual Whales Subversive Democratic Trading ETF,equity_longonly,2025,2025
+GOP,S000088364,Unusual Whales Subversive Republican Trading ETF,equity_longonly,2025,2025
+ROPE,S000088451,Coastal Compass 100 ETF,equity_longonly,2025,2025
+BAFE,S000088454,Brown Advisory Flexible Equity ETF,equity_longonly,2025,2025
+FMCE,S000088455,FM Compounders Equity ETF,equity_longonly,2025,2026
+ALRG,S000088479,Allspring LT Large Core ETF,equity_longonly,2025,2025
+AGRW,S000088480,Allspring LT Large Growth ETF,equity_longonly,2025,2025
+ASLV,S000088481,Allspring Special Large Value ETF,equity_longonly,2025,2025
+BEEX,S000088484,The Beehive ETF,equity_longonly,2024,2025
+BCHI,S000088547,GMO Beyond China ETF,equity_longonly,2025,2026
+QLTI,S000088548,GMO International Quality ETF,equity_longonly,2025,2026
+GMOI,S000088549,GMO International Value ETF,equity_longonly,2025,2026
+GMOV,S000088551,GMO U.S. Value ETF,equity_longonly,2025,2026
+AGEM,S000088603,abrdn Emerging Markets Dividend Active ETF,equity_longonly,2025,2025
+AFSC,S000088604,abrdn Focused U.S. Small Cap Active ETF,equity_longonly,2025,2025
+PIEQ,S000088641,Principal International Equity ETF,equity_longonly,2025,2025
+RILA,S000088672,Indexperts Gorilla Aggressive Growth ETF,equity_longonly,2025,2025
+QIDX,S000088673,Indexperts Quality Earnings Focused ETF,equity_longonly,2025,2025
+GEME,S000088737,Pacific NoS Global EM Equity Active ETF,equity_longonly,2025,2025
+TPZ,S000088745,Tortoise Electrification Infrastructure ETF,equity_longonly,2025,2025
+QBIG,S000088835,Invesco Top QQQ ETF,equity_longonly,2025,2025
+OAKM,S000088867,Oakmark U.S. Large Cap ETF,equity_longonly,2025,2025
+CGMM,S000088874,Capital Group U.S. Small and Mid Cap ETF,equity_longonly,2025,2025
+EDGE,S000088878,MRBL Enhanced Equity ETF,equity_longonly,2025,2025
+EFFE,S000088918,Harbor Osmosis Emerging Markets Resource Efficient ETF,equity_longonly,2025,2025
+EFFI,S000088919,Harbor Osmosis International Resource Efficient ETF,equity_longonly,2025,2025
+VOLT,S000088946,Tema Electrification ETF,equity_longonly,2026,2026
+CBLS,S000089015,Clough Hedged Equity ETF,equity_longshort,2025,2025
+CBSE,S000089016,Clough Select Equity ETF,equity_longonly,2025,2025
+GIND,S000089154,Goldman Sachs India Equity ETF,equity_longonly,2025,2025
+NBGX,S000089172,Neuberger Berman Growth ETF,equity_longonly,2025,2025
+SCDV,S000089193,Bahl & Gaynor Small Cap Dividend ETF,equity_longonly,2024,2025
+BGDV,S000089194,Bahl & Gaynor Dividend ETF,equity_longonly,2024,2025
+PRCS,S000089216,Parnassus Core Select ETF,equity_longonly,2024,2025
+PRVS,S000089217,Parnassus Value Select ETF,equity_longonly,2024,2025
+LSVD,S000089218,LSV Disciplined Value ETF,equity_longonly,2025,2025
+TXUE,S000089221,Thornburg International Equity ETF,equity_longonly,2025,2025
+TXUG,S000089222,Thornburg International Growth ETF,equity_longonly,2025,2025
+IDVZ,S000089318,The Opal International Dividend Income ETF,equity_longonly,2025,2025
+TLCI,S000089352,Touchstone International Equity ETF,equity_longonly,2025,2025
+TEMX,S000089353,Touchstone Sands Capital Emerging Markets ex-China Growth ETF,equity_longonly,2025,2025
+TSEL,S000089354,Touchstone Sands Capital US Select Growth ETF,equity_longonly,2025,2025
+EUSM,S000089355,Eventide US Market ETF,equity_longonly,2025,2025
+WAR,S000089411,U.S. Global Technology and Aerospace & Defense ETF,equity_longonly,2024,2025
+BRIF,S000089423,FIS Bright Portfolios Focused Equity ETF ,equity_longonly,2025,2025
+FGSM,S000089435,Frontier Asset Global Small Cap Equity ETF,equity_longonly,2025,2025
+FINT,S000089437,Frontier Asset Total International Equity ETF,equity_longonly,2025,2025
+FLCE,S000089438,Frontier Asset U.S. Large Cap Equity ETF,equity_longonly,2025,2025
+MAVF,S000089477,Matrix Advisors Value ETF,equity_longonly,2025,2025
+MEME,S000089480,Roundhill MEME Stock ETF,equity_longonly,2025,2025
+GEND,S000089486,Genter Capital Dividend Income ETF,equity_longonly,2025,2025
+GENW,S000089487,Genter Capital International Dividend ETF,equity_longonly,2025,2025
+ORR,S000089579,Militia Long/Short Equity ETF,equity_longshort,2025,2025
+THEQ,S000089786,T. Rowe Price Hedged Equity ETF,equity_longshort,2025,2025
+LQPE,S000089834,PEO AlphaQuest Thematic PE ETF,equity_longonly,2025,2025
+MNRS,S000089870,Grayscale Bitcoin Miners ETF,equity_longonly,2025,2025
+HVAC,S000089876,AdvisorShares HVAC and Industrials ETF,equity_longonly,2025,2025
+JXX,S000089963,Janus Henderson Transformational Growth ETF,equity_longonly,2025,2025
+RUSC,S000089990,U.S. Small Cap Equity Active ETF,equity_longonly,2025,2025
+RINT,S000089991,International Developed Equity Active ETF,equity_longonly,2025,2025
+RGLO,S000089992,Global Equity Active ETF,equity_longonly,2025,2025
+REMG,S000089993,Emerging Markets Equity Active ETF,equity_longonly,2025,2025
+RIFR,S000089994,Global Infrastructure Active ETF,equity_longonly,2025,2025
+EXUS,S000090013,Nomura Focused International Core ETF,equity_longonly,2026,2026
+PIPE,S000090149,Invesco SteelPath MLP & Energy Infrastructure ETF,equity_longonly,2025,2025
+YOKE,S000090290,Yoke Core ETF,equity_longonly,2026,2026
+FBDC,S000090298,FT Confluence BDC & Specialty Finance Income ETF,equity_longonly,2025,2025
+JUSA,S000090403,JPMorgan U.S. Research Enhanced Large Cap ETF,equity_longonly,2025,2025
+RCGE,S000090524,RockCreek Global Equality ETF,equity_longonly,2026,2026
+LGDX,S000090660,Intech S&P Large Cap Diversified Alpha ETF,equity_longonly,2026,2026
+SMDX,S000090661,Intech S&P Small-Mid Cap Diversified Alpha ETF,equity_longonly,2026,2026
+DSPY,S000090856,Tema S&P 500 Historical Weight ETF Strategy,equity_longonly,2026,2026
+ALIL,S000091242,Argent Focused Small Cap ETF,equity_longonly,2025,2025
+ABIG,S000091243,Argent Large Cap ETF,equity_longonly,2025,2025
+LCAP,S000091386,Principal Capital Appreciation Select ETF,equity_longonly,2025,2025
+RJDI,S000091480,RJ Eagle GCM Dividend Select Income ETF,equity_longonly,2025,2025
+NODE,S000091510,Onchain Economy ETF,equity_longonly,2025,2025
+EMKT,S000091512,Lazard Emerging Markets Opportunities ETF,equity_longonly,2025,2025
+THMZ,S000091513,Lazard Equity Megatrends ETF,equity_longonly,2025,2025
+IEQ,S000091514,Lazard International Dynamic Equity ETF,equity_longonly,2025,2025
+JPY,S000091515,Lazard Japanese Equity ETF,equity_longonly,2025,2025
+TEKY,S000091516,Lazard Next Gen Technologies ETF,equity_longonly,2025,2025
+EMES,S000091658,Harbor Emerging Markets Select ETF,equity_longonly,2025,2025
+EPEM,S000091659,Harbor Emerging Markets Equity ETF,equity_longonly,2025,2025
+EPIN,S000091660,Harbor International Equity ETF,equity_longonly,2025,2025
+EPMB,S000091661,Harbor Mid Cap Core ETF,equity_longonly,2025,2025
+EPMV,S000091662,Harbor Mid Cap Value ETF,equity_longonly,2025,2025
+EPSB,S000091663,Harbor SMID Cap Core ETF,equity_longonly,2025,2025
+EPSV,S000091664,Harbor SMID Cap Value ETF,equity_longonly,2025,2025
+TEC,S000091665,Harbor Transformative Technologies ETF,equity_longonly,2025,2025
+BCOR,S000091689,Grayscale Bitcoin Adopters ETF,equity_longonly,2025,2025
+CSTK,S000091769,Invesco Comstock Contrarian Equity ETF,equity_longonly,2025,2025
+MTRA,S000091770,Invesco International Growth Focus ETF,equity_longonly,2025,2025
+TRUT,S000091806,VanEck Technology TruSector ETF,equity_longonly,2025,2025
+TRUD,S000091808,VanEck Consumer Discretionary TruSector ETF,equity_longonly,2025,2025
+TFNS,S000092021,T. Rowe Price Financials ETF,equity_longonly,2025,2025
+TGLB,S000092022,T. Rowe Price Global Equity ETF,equity_longonly,2025,2025
+TMED,S000092023,T. Rowe Price Health Care ETF,equity_longonly,2025,2025
+TIER,S000092024,T. Rowe Price International Equity Research ETF,equity_longonly,2025,2025
+TURF,S000092025,T. Rowe Price Natural Resources ETF,equity_longonly,2025,2025
+BASG,S000092068,Brown Advisory Sustainable Growth ETF,equity_longonly,2025,2025
+BASV,S000092069,Brown Advisory Sustainable Value ETF,equity_longonly,2025,2025
+TBLU,S000092074,Tortoise Global Water Fund,equity_longonly,2025,2025
+TPYP,S000092075,Tortoise North American Pipeline Fund,equity_longonly,2025,2025
+RW,S000092079,Rainwater Equity ETF,equity_longonly,2026,2026
+TNGY,S000092090,Tortoise Energy Fund,equity_longonly,2025,2025
+JAPN,S000092105,Horizon Kinetics Japan Owner Operator ETF  ,equity_longonly,2025,2025
+SPCZ,S000092118,RiverNorth Enhanced Pre-Merger SPAC ETF,equity_longonly,2025,2025
+FLDZ,S000092119,RiverNorth Patriot ETF,equity_longonly,2025,2025
+DIVZ,S000092120,Polen Dividend Income ETF,equity_longonly,2025,2025
+ERNZ,S000092121,TrueShares Active Yield ETF,equity_longonly,2025,2025
+RNWZ,S000092122,TrueShares Eagle Global Renewable Energy Income ETF,equity_longonly,2025,2025
+LRNZ,S000092123,"TrueShares Technology, AI & Deep Learning ETF",equity_longonly,2025,2025
+SEMG,S000092183,Suncoast Select Growth ETF,equity_longonly,2026,2026
+VNIE,S000092345,Vontobel International Equity Active ETF,equity_longonly,2025,2025
+HGRO,S000092395,Hedgeye Quality Growth ETF,equity_longonly,2025,2025
+LOGO,S000092481,Alpha Brands Consumption Leaders ETF,equity_longonly,2025,2025
+OTGL,S000092684,OTG Latin America ETF,equity_longonly,2026,2026
+EMOP,S000092962,AB Emerging Markets Opportunities ETF,equity_longonly,2025,2025
+JDVL,S000093162,John Hancock Disciplined Value Select ETF,equity_longonly,2026,2026
+GQGU,S000093212,GQG US Equity ETF,equity_longonly,2026,2026
+CLCG,S000093217,Crossmark Large Cap Growth ETF,equity_longonly,2025,2025
+CLCV,S000093218,Crossmark Large Cap Value ETF,equity_longonly,2025,2025
+STOX,S000093284,Horizon Core Equity ETF,equity_longonly,2025,2025
+YNOT,S000093285,Horizon Digital Frontier ETF,equity_longonly,2025,2025
+DIVN,S000093286,Horizon Dividend Income ETF,equity_longonly,2025,2025
+SFTY,S000093288,Horizon Managed Risk ETF,equity_longonly,2025,2025
+HUMN,S000093377,Roundhill Humanoid Robotics ETF,equity_longonly,2025,2025
+ARMY,S000093386,Tema International Defense ETF,equity_longonly,2026,2026
+ITOL,S000093387,Tema International Durable Quality ETF,equity_longonly,2026,2026
+ASCE,S000093515,Allspring SMID Core ETF,equity_longonly,2025,2025
+IQSZ,S000093577,Invesco Global Equity Net Zero ETF,equity_longonly,2025,2025
+ASCI,S000093583,abrdn International Small Cap Active ETF,equity_longonly,2025,2025
+TIIV,S000093585,AAM Todd International Intrinsic Value ETF,equity_longonly,2025,2025
+QUIZ,S000093685,Zacks Quality International ETF,equity_longonly,2025,2025
+TCAI,S000093687,Tortoise AI Infrastructure ETF,equity_longonly,2025,2025
+IGGY,S000093934,AB International Growth ETF,equity_longonly,2025,2025
+GLIF,S000094312,Lazard Listed Infrastructure ETF,equity_longonly,2025,2025
+SYZ,S000094313,Lazard US Systematic Small Cap Equity ETF,equity_longonly,2025,2025
+DHLX,S000094326,Diamond Hill Large Cap Concentrated ETF,equity_longonly,2025,2025
+HYP,S000094502,Golden Eagle Dynamic Hypergrowth ETF,equity_longonly,2025,2025
+JHAI,S000094567,JANUS HENDERSON GLOBAL ARTIFICIAL INTELLIGENCE ETF,equity_longonly,2025,2025
+MKTN,S000094625,Federated Hermes MDT Market Neutral ETF,equity_longshort,2025,2025
+HEDG,S000094633,Equable Shares Hedged Equity ETF,equity_longshort,2025,2025
+SGRT,S000094702,SMART Earnings Growth 30 ETF,equity_longonly,2025,2025
+STRN,S000094703,SMART Trend 25 ETF,equity_longonly,2025,2025
+DRES,S000094780,GMO Domestic Resilience ETF,equity_longonly,2026,2026
+MMID,S000094824,MFS Active Mid Cap ETF,equity_longonly,2026,2026
+FRIZ,S000094832,Franklin Dividend Growth ETF,equity_longonly,2026,2026
+REGS,S000095310,Columbia Large Cap Growth ETF,equity_longonly,2026,2026
+REMC,S000095312,Columbia Research Enhanced Mid Cap ETF,equity_longonly,2026,2026
+RESM,S000095313,Columbia Research Enhanced Small Cap ETF,equity_longonly,2026,2026
+TINS,S000095580,Templeton International Insights ETF,equity_longonly,2026,2026
+PGRI,S000095581,Putnam International Stock ETF,equity_longonly,2026,2026
+BRCE,S000095645,MFS Blended Research Core Equity ETF,equity_longonly,2026,2026
+BRIE,S000095646,MFS Blended Research International Equity ETF,equity_longonly,2026,2026
+TACU,S000095884,T. Rowe Price Active Core U.S. Equity ETF,equity_longonly,2025,2025
+KDVD,S000096300,Keeley Dividend ETF,equity_longonly,2025,2025
+AQEC,S000096309,AQE Core ETF,equity_longonly,2025,2025
+RONB,S000096481,Baron First Principles ETF,equity_longonly,2025,2025
+BCGD,S000096482,Baron Global Durable Advantage ETF,equity_longonly,2025,2025
+BCSM,S000096483,Baron SMID Cap ETF,equity_longonly,2025,2025
+BCFN,S000096484,Baron Financials ETF,equity_longonly,2025,2025
+BCTK,S000096485,Baron Technology ETF,equity_longonly,2025,2025
+PRMR,S000097065,PeakShares RMR Prime Equity ETF,equity_longonly,2026,2026
+IVSI,S000097228,Applied Finance IVS International Large ETF ,equity_longonly,2025,2025
+IVSS,S000097230,Applied Finance IVS US SMID ETF,equity_longonly,2025,2025
+FSML,S000097279,Franklin Small Cap Enhanced ETF,equity_longonly,2026,2026
+CSIO,S000097367,Cohen & Steers Infrastructure Opportunities Active ETF,equity_longonly,2026,2026
+NLSI,S000097595,NEOS Long/Short Equity Income ETF,equity_longshort,2025,2025
+GAID,S000097909,Guinness Atkinson International Dividend Builder ETF,equity_longonly,2025,2025
+GAUD,S000097910,Guinness Atkinson US Dividend Builder ETF,equity_longonly,2025,2025
+FRWD,S000098706,Nomura Transformational Technologies ETF,equity_longonly,2026,2026
+GOLS,S000099690,Gabelli Opportunities in Live and Sports ETF,equity_longonly,2025,2025

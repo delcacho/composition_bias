@@ -1,0 +1,36 @@
+ticker,class,brochure_type,name_type,source,note
+CCOR,excluded_options,equity_options,equity_options,nohint classification + adjudication 2026-09-21,
+DWFI,allocation,allocation_fof,,nohint classification + adjudication 2026-09-21,
+FWDB,allocation,allocation_fof,,nohint classification + adjudication 2026-09-21,
+LDSF,allocation,allocation_fof,fixed_income,nohint classification + adjudication 2026-09-21,
+PPI,allocation,allocation_fof,other,nohint classification + adjudication 2026-09-21,
+QXGG,allocation,allocation_fof,,nohint classification + adjudication 2026-09-21,
+RISN,allocation,allocation_fof,equity_longonly,nohint classification + adjudication 2026-09-21,
+SQEW,excluded_options,equity_options,equity_longonly,coverage policy (options overlay; adjudication reverted by author 2026-09-21),
+VEGA,excluded_options,equity_options,equity_options,nohint classification + adjudication 2026-09-21,
+CCNR,longonly,equity_longonly,commodity_futures,nohint classification + adjudication 2026-09-21,
+FCTE,longonly,equity_longonly,allocation_fof,nohint classification + adjudication 2026-09-21,
+IVOL,excluded_fixedincome,fixed_income,commodity_futures,nohint classification + adjudication 2026-09-21,
+KEAT,longonly,equity_longonly,allocation_fof,nohint classification + adjudication 2026-09-21,
+MODL,longonly,equity_longonly,allocation_fof,nohint classification + adjudication 2026-09-21,
+RSEE,allocation,allocation_fof,equity_longonly,nohint classification + adjudication 2026-09-21,
+RUFF,allocation,allocation_fof,equity_longonly,nohint classification + adjudication 2026-09-21,
+TUG,allocation,allocation_fof,equity_longonly,nohint classification + adjudication 2026-09-21,
+WLTG,allocation,allocation_fof,equity_longonly,nohint classification + adjudication 2026-09-21,
+SHDG,excluded_options,equity_options,equity_longshort,nohint classification + adjudication 2026-09-21,
+GLOW,allocation,allocation_fof,equity_longonly,nohint classification + adjudication 2026-09-21,
+KOOL,allocation,allocation_fof,equity_longonly,nohint classification + adjudication 2026-09-21,
+MVPL,allocation,allocation_fof,equity_longonly,nohint classification + adjudication 2026-09-21,
+NDOW,allocation,allocation_fof,equity_longonly,nohint classification + adjudication 2026-09-21,
+BYRE,excluded_semitransparent,equity_longonly,equity_longonly,coverage policy (restored 2026-09-21; not a classifier output),Principal Real Estate Active Opp; bottom-up REIT; non-transparent active; brochure 109002 generic; looked up
+DFNL,excluded_semitransparent,equity_longonly,equity_longonly,coverage policy (restored 2026-09-21; not a classifier output),Davis Select Financials; low-turnover concentrated financials; ActiveShares semi-transparent
+LVOL,excluded_semitransparent,equity_longonly,equity_longonly,coverage policy (restored 2026-09-21; not a classifier output),amer century active low-vol; brochure OCR-blank looked up
+VSLU,excluded_options,equity_options,equity_longonly,coverage policy (restored 2026-09-21; not a classifier output),S&P 500 replication + VIX-options overlay to cut vol; name says longonly
+BUFG,excluded_semitransparent,equity_options,allocation_fof,coverage policy (restored 2026-09-21; not a classifier output),Vest; SPY defined-outcome buffer fund-of-funds; options essence
+BUFT,excluded_semitransparent,equity_options,allocation_fof,coverage policy (restored 2026-09-21; not a classifier output),Vest; SPY buffered-allocation defensive; defined-outcome options
+DYFI,excluded_fixedincome,fixed_income,allocation_fof,coverage policy (restored 2026-09-21; not a classifier output),IDX Dynamic Fixed Income; 164201 Tidal broch generic; looked up
+FDIF,excluded_semitransparent,equity_longonly,allocation_fof,coverage policy (restored 2026-09-21; not a classifier output),Fidelity Disruptors; all-equity thematic ETF-of-ETFs; semi-transparent; looked up
+FISR,excluded_fixedincome,fixed_income,allocation_fof,coverage policy (restored 2026-09-21; not a classifier output),SPDR SSGA Fixed Income Sector Rotation; 111242 SSGA broch generic; looked up
+MAAX,excluded_fixedincome,fixed_income,allocation_fof,coverage policy (restored 2026-09-21; not a classifier output),VanEck muni-bond tactical FoF; brochure 105080 generic; looked up
+RMIF,excluded_fixedincome,fixed_income,allocation_fof,coverage policy (restored 2026-09-21; not a classifier output),LHA Risk-Managed Income FoF of bond ETFs trend rotation
+SSFI,excluded_fixedincome,fixed_income,allocation_fof,coverage policy (restored 2026-09-21; not a classifier output),Day Hagan/NDR Smart Sector FI rotates bond-ETF sleeves

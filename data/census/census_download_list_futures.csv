@@ -1,0 +1,75 @@
+ticker,series_id,fund_name,first_year,last_year,net_assets_last
+WTMF,S000026387,WisdomTree Managed Futures Strategy Fund,2018,2025,175047710
+FMF,S000037848,First Trust Managed Futures Strategy Fund,2018,2025,170543146.77
+FTGC,S000039654,First Trust Global Tactical Commodity Strategy Fund,2018,2025,2269868400.22
+PDBC,S000044509,Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF,2018,2025,4459799606.085
+COMT,S000044971,iShares Commodities Select Strategy ETF,2018,2020,296294404.79
+FUT,S000051124,ProShares Managed Futures Strategy ETF,2019,2021,4646556.55999999
+FAAR,S000053488,First Trust Alternative Absolute Return Strategy ETF,2018,2025,105240101.29
+OILK,S000054590,ProShares K-1 Free Crude Oil Strategy ETF,2019,2023,93752897.84
+BCI,S000056192,abrdn Bloomberg All Commodity Strategy K-1 Free ETF,2018,2024,1026523381.56076923
+BCD,S000056193,abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF,2018,2024,220905036.55076923
+AOIL,S000056195,Aberdeen Standard Bloomberg WTI Crude Oil Strategy K-1 Free ETF,2018,2019,3778519
+COMB,S000056279,GraniteShares Bloomberg Commodity Broad Strategy No K-1 ETF,2018,2025,86301141
+COMG,S000056280,GraniteShares S&P GSCI Commodity Broad Strategy No K-1 ETF,2018,2019,6835147.323
+JPMF,S000059124,JPMorgan Managed Futures Strategy ETF,2018,2019,50758647.65
+IAUF,S000061161,iShares Gold Strategy ETF,2018,2020,13802773.52
+CMDY,S000061337,iShares Bloomberg Roll Select Commodity Strategy ETF,2018,2020,28791251.52
+SDCI,S000061783,USCF SummerHaven Dynamic Commodity Strategy No K-1 Fund,2018,2025,68552513
+DBMF,S000064047,iM DBi Managed Futures Strategy ETF,2019,2019,18222687
+CCRV,S000064843,iShares Commodity Curve Carry Strategy ETF,2020,2020,29356888.48
+RYZZ,S000065059,RYZZ Managed Futures Strategy Plus ETF,2020,2020,29270643
+IVOL,S000065362,Quadratic Interest Rate Volatility and Inflation Hedge ETF,2021,2026,421784144.52325994
+FLSP,S000066719,Franklin Systematic Style Premia ETF,2020,2026,461824272.18
+USE,S000068241,USCF Energy Commodity Strategy Absolute Return Fund,2023,2025,3213024
+GCC,S000069359,WisdomTree Enhanced Commodity Strategy Fund,2021,2025,135557326
+IGLD,S000070087,FT Vest Gold Strategy Target Income ETF,2021,2025,256463725.72
+BGLD,S000070088,FT Vest Gold Strategy Quarterly Buffer ETF,2021,2025,63693919.75
+KMLM,S000070143,KFA Mount Lucas Index Strategy ETF,2021,2022,32755190.5229589
+SVOL,S000071794,Simplify Volatility Premium ETF,2021,2025,1089201572
+USG,S000072135,USCF Gold Strategy Plus Income Fund,2022,2025,10274888
+BCIM,S000072683,abrdn Bloomberg Industrial Metals Strategy K-1 Free ETF,2021,2024,23679225.41615384
+HCOM,S000073398,Hartford Schroders Commodity Strategy ETF,2022,2024,12914747.62846153
+GDE,S000073567,WisdomTree Efficient Gold Plus Equity Strategy Fund,2022,2025,110558741
+GDMN,S000073568,WisdomTree Efficient Gold Plus Gold Miners Strategy Fund,2022,2025,25214790
+ZSB,S000073701,USCF Sustainable Battery Metals Strategy Fund,2023,2025,1402635
+CTA,S000075092,Simplify Managed Futures Strategy ETF,2022,2025,582854708
+HGER,S000075202,Harbor Commodity All-Weather Strategy ETF,2022,2023,78590756.75
+KARB,S000075557,Carbon Strategy ETF,2023,2023,477037
+EVMT,S000075602,Invesco Electric Vehicle Metals Commodity Strategy No K-1 ETF,2022,2025,7290289.39083333
+PIT,S000075715,VanEck Commodity Strategy ETF,2023,2025,31187655.3476923
+TILL,S000075991,Teucrium Agricultural Strategy No K-1 ETF,2023,2025,4469294
+IRVH,S000076386,Global X Interest Rate Volatility & Inflation Hedge ETF,2022,2025,1845045.67
+RENW,S000076438,Harbor Energy Transition Strategy ETF,2022,2023,23563446.6
+PDBA,S000077281,Invesco Agriculture Commodity Strategy No K-1 ETF,2022,2025,64814286.81833333
+NBCM,S000077468,Neuberger Berman Commodity Strategy ETF,2023,2025,221452892.68076923
+CHRG,S000079345,"The Energy & Minerals Group EV, Solar & Battery Materials (Lithium, Copper, Cobalt) Futures Strategy ETF",2023,2023,3061676
+RSBT,S000079702,Return Stacked Bonds & Managed Futures ETF,2024,2026,83908250.81
+CMDT,S000079716,PIMCO Commodity Strategy Active Exchange-Traded Fund,2023,2025,356595948.04
+ZSC,S000079954,USCF Sustainable Commodity Strategy Fund,2024,2025,2296110
+HARD,S000079963,Simplify Commodities Strategy No K-1 ETF,2023,2025,19339939
+QIS,S000080584,Simplify Multi-QIS Alternative ETF,2024,2025,108657347
+TFPN,S000080730,Blueprint Chesapeake Multi-Asset Trend ETF,2024,2025,129728466.81
+AHLT,S000081302,American Beacon AHL Trend ETF,2024,2026,48787108.91461538
+ALUM,S000081418,USCF Aluminum Strategy Fund,2024,2024,2633392
+RSST,S000081720,Return Stacked U.S. Stocks & Managed Futures ETF,2024,2026,268307517.35
+HFGM,S000082856,Unlimited HFGM Global Macro ETF,2025,2025,16754485.69
+HFMF,S000082857,Unlimited HFMF Managed Futures ETF,2025,2025,1693103.85
+DCMT,S000083700,DoubleLine Commodity Strategy ETF ,2024,2025,21408998.01
+ASMF,S000083995,Virtus AlphaSimplex Managed Futures ETF,2024,2025,14338507
+UX,S000084168,Roundhill Uranium ETF,2025,2025,1622427.708
+RSBY,S000084638,Return Stacked Bonds & Futures Yield ETF,2025,2026,96712326.93
+RSSY,S000084639,Return Stacked U.S. Stocks & Futures Yield ETF,2025,2026,115264764.05
+USOY,S000084817,Defiance Oil Enhanced Options Income ETF,2024,2024,6828170.9
+MFUT,S000085073,Cambria Chesapeake Pure Trend ETF,2024,2025,21771719.258
+CCNR,S000085672,ALPS | CoreCommodity Natural Resources ETF,2024,2025,338856563
+YGLD,S000088355,Simplify Gold Strategy PLUS Income ETF,2025,2025,17833543
+WHTX,S000089074,2x Wheat ETF,2025,2026,653099.338
+WXET,S000089252,Teucrium 2x Daily Wheat ETF,2024,2025,1056125
+ISMF,S000090448,iShares Managed Futures Active ETF,2025,2025,18310388.175
+IMF,S000090972,Invesco Managed Futures Strategy ETF,2025,2025,285304851.11
+FFUT,S000092140,Fidelity Managed Futures ETF,2026,2026,132614181
+IAUI,S000092389,NEOS Gold High Income ETF,2025,2025,108268582
+WTIP,S000092513,WisdomTree Inflation Plus Fund,2025,2025,1517025
+QALT,S000093461,SEI DBi Multi-Strategy Alternative ETF,2025,2026,187012753.24000001
+GLDW,S000096165,Roundhill Gold WeeklyPay ETF,2025,2025,7295672.82

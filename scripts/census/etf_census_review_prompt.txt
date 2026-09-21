@@ -1,0 +1,43 @@
+DELEGATION PROMPT -- sub-typing the N-CEN active-ETF census, one batch per agent
+(the agent receives this text plus the path of one batch file; recorded here so the review is reproducible)
+
+You are classifying US exchange-traded funds that their own SEC Form N-CEN annual report declares
+are NOT index funds (IS_INDEX != 'Y'). The active/passive question is therefore already settled by the
+filing and is NOT yours. Your job is the fund TYPE, which decides whether the fund can enter a test that
+prices a daily equity book against the fund's own NAV.
+
+Input: a CSV batch file with columns series_id, tickers, fund_name, registrant, adviser, first_year,
+last_year, fund_of_funds, net_assets_last, terminated. Read it with pandas. Do not fetch anything unless
+a name is genuinely ambiguous; a handful of WebFetch calls per batch at most, and record which rows you
+looked up in the note.
+
+For EVERY row write one output row: series_id, tickers, type, transparent, confidence, note
+  type, exactly one of:
+    equity_longonly      long-only stock portfolio, transparent or not (fundamental, quant, thematic, factor, ESG, sector, country)
+    equity_longshort     long/short, market-neutral, hedged equity, 130/30
+    equity_options       equity book with an options overlay: covered call, buffer / defined outcome, premium income, collar, floor
+    leveraged_inverse    daily leveraged or inverse, single-stock or index, any multiple (2x, 3x, -1x, 1.5x)
+    fixed_income         bonds, loans, CLOs, munis, treasuries, TIPS, preferreds, convertibles, cash/ultra-short
+    allocation_fof       funds of funds, multi-asset allocation, target date, model portfolios, ETF-of-ETFs
+    commodity_futures    managed futures, commodity, trend, volatility, carry, macro futures strategies
+    crypto_digital       spot or futures crypto, digital-asset income, bitcoin/ether strategies
+    other                anything else (currency, real assets, money market-like, unclear)
+  transparent: Y if the fund publishes full holdings daily (the default for ETFs under Rule 6c-11);
+    N for semi-transparent / non-transparent active structures (Fidelity Enhanced/active semi-transparent,
+    T. Rowe Price, American Century ActiveShares, Blue Tractor, Precidian, Natixis ActiveShares, Nuveen
+    semi-transparent, Invesco proxy-basket series); U if you cannot tell.
+  confidence: high / medium / low.
+  note: a few words (issuer family, the cue you used, 'looked up' if fetched).
+
+Cues that decide type without lookup: 'Daily ... 2X/3X/-1X/Bull/Bear/Long/Short ... Daily' -> leveraged_inverse;
+'Buffer', 'Defined Outcome', 'Premium Income', 'Covered Call', 'Collar', 'Floor', 'Enhanced Income', 'Yield
+Premium', 'Option Income' -> equity_options (unless the underlying is bonds or crypto); 'Bond', 'Income'
+without options language, 'Treasury', 'Municipal', 'Credit', 'Loan', 'CLO', 'Preferred', 'Ultra Short',
+'Cash' -> fixed_income; 'Managed Futures', 'Commodity', 'Trend', 'Volatility', 'Macro' -> commodity_futures;
+'Bitcoin', 'Ether', 'Crypto', 'Digital' -> crypto_digital; 'Allocation', 'Target', 'Portfolio', 'Balanced',
+'Model', fund_of_funds == Y -> allocation_fof; 'Long/Short', 'Market Neutral', 'Hedged Equity', '130/30'
+-> equity_longshort; otherwise a stock strategy name -> equity_longonly.
+
+Do NOT drop rows, do NOT reorder, do NOT invent tickers. Mark low confidence rather than guess. Write the
+CSV to the output path you are given (header row, one row per input row) and reply with the count by
+type, the count of transparent = N, and the rows you looked up.

@@ -1,0 +1,226 @@
+geometry,channel,estimator,age,stratum,pairs,pair_dates,rmse_ratio_to_stream,ci_lo,ci_hi,share_pairs_below_1
+neutral,covariance,holdings cov,future,0.75-0.85,6253,197085,0.995588,0.980890,1.009019,0.467775
+neutral,covariance,"holdings corr, stream vol",future,0.75-0.85,6253,197085,0.981525,0.970188,0.989263,0.768271
+neutral,covariance,"blend, pair weight",future,0.75-0.85,6253,197085,0.981402,0.970264,0.989202,0.774348
+neutral,correlation,holdings corr,future,0.75-0.85,6253,197085,0.917688,0.878984,0.948709,0.746042
+neutral,correlation,blend corr,future,0.75-0.85,6253,197085,0.915435,0.876129,0.946452,0.755797
+neutral,correlation,factor corr K5,future,0.75-0.85,5959,179387,0.945444,0.915255,0.975412,0.688203
+neutral,correlation,factor corr K10,future,0.75-0.85,5742,166933,0.935827,0.912597,0.957352,0.768722
+neutral,correlation,"proxy factor corr, core 13",future,0.75-0.85,5586,158276,0.956858,0.936663,0.972877,0.745256
+neutral,correlation,"proxy factor corr, extended 22",future,0.75-0.85,4759,129257,0.962898,0.943788,0.978567,0.753099
+neutral,covariance,holdings cov,future,0.85-0.95,21274,657955,0.997329,0.990023,1.003823,0.436824
+neutral,covariance,"holdings corr, stream vol",future,0.85-0.95,21274,657955,0.986374,0.981672,0.990541,0.757450
+neutral,covariance,"blend, pair weight",future,0.85-0.95,21274,657955,0.986357,0.981661,0.990534,0.758532
+neutral,correlation,holdings corr,future,0.85-0.95,21274,657955,0.918548,0.899877,0.936117,0.737943
+neutral,correlation,blend corr,future,0.85-0.95,21274,657955,0.918071,0.899197,0.935598,0.740387
+neutral,correlation,factor corr K5,future,0.85-0.95,19735,588381,0.938922,0.920104,0.957441,0.684723
+neutral,correlation,factor corr K10,future,0.85-0.95,18663,542761,0.932857,0.915569,0.948099,0.743664
+neutral,correlation,"proxy factor corr, core 13",future,0.85-0.95,18129,513367,0.965529,0.949647,0.979823,0.693254
+neutral,correlation,"proxy factor corr, extended 22",future,0.85-0.95,15498,416590,0.971708,0.957087,0.984471,0.689508
+neutral,covariance,holdings cov,future,<0.75,4742,132990,0.988577,0.964769,1.009329,0.479966
+neutral,covariance,"holdings corr, stream vol",future,<0.75,4742,132990,0.982022,0.965065,0.990529,0.644665
+neutral,covariance,"blend, pair weight",future,<0.75,4742,132990,0.981206,0.964303,0.989422,0.667440
+neutral,correlation,holdings corr,future,<0.75,4742,132990,0.875267,0.828671,0.914316,0.771826
+neutral,correlation,blend corr,future,<0.75,4742,132990,0.861831,0.814361,0.898971,0.795023
+neutral,correlation,factor corr K5,future,<0.75,4467,118050,0.951613,0.903670,1.001638,0.680099
+neutral,correlation,factor corr K10,future,<0.75,4254,108447,0.950373,0.914179,0.995444,0.727315
+neutral,correlation,"proxy factor corr, core 13",future,<0.75,4011,100816,0.948907,0.924959,0.979733,0.761905
+neutral,correlation,"proxy factor corr, extended 22",future,<0.75,3150,76557,0.959366,0.936969,0.988397,0.749524
+neutral,covariance,holdings cov,future,>0.95,15836,469070,0.999940,0.990736,1.008787,0.448851
+neutral,covariance,"holdings corr, stream vol",future,>0.95,15836,469070,0.986046,0.978912,0.991801,0.779995
+neutral,covariance,"blend, pair weight",future,>0.95,15836,469070,0.986047,0.978918,0.991796,0.780437
+neutral,correlation,holdings corr,future,>0.95,15836,469070,0.920414,0.889145,0.945195,0.736929
+neutral,correlation,blend corr,future,>0.95,15836,469070,0.920287,0.889040,0.945056,0.737497
+neutral,correlation,factor corr K5,future,>0.95,15197,422002,0.962071,0.926557,0.993569,0.615779
+neutral,correlation,factor corr K10,future,>0.95,14445,386282,0.929261,0.895084,0.956931,0.695189
+neutral,correlation,"proxy factor corr, core 13",future,>0.95,13944,361683,0.955956,0.920147,0.981168,0.685600
+neutral,correlation,"proxy factor corr, extended 22",future,>0.95,11638,283104,0.965100,0.929615,0.990100,0.663430
+neutral,covariance,holdings cov,0,0.75-0.85,6261,197216,0.995433,0.979571,1.010446,0.475483
+neutral,covariance,"holdings corr, stream vol",0,0.75-0.85,6261,197216,0.981885,0.969952,0.990033,0.758824
+neutral,covariance,"blend, pair weight",0,0.75-0.85,6261,197216,0.981778,0.969766,0.989864,0.763776
+neutral,correlation,holdings corr,0,0.75-0.85,6261,197216,0.921229,0.882144,0.951911,0.739339
+neutral,correlation,blend corr,0,0.75-0.85,6261,197216,0.919109,0.879140,0.949616,0.747484
+neutral,correlation,factor corr K5,0,0.75-0.85,5953,179181,0.945395,0.915082,0.975509,0.687552
+neutral,correlation,factor corr K10,0,0.75-0.85,5744,166834,0.935948,0.912523,0.956394,0.768454
+neutral,correlation,"proxy factor corr, core 13",0,0.75-0.85,5586,158155,0.956966,0.935729,0.973711,0.745256
+neutral,correlation,"proxy factor corr, extended 22",0,0.75-0.85,4755,129104,0.962977,0.942102,0.978376,0.752471
+neutral,covariance,holdings cov,0,0.85-0.95,21289,659229,0.997412,0.990327,1.004307,0.439429
+neutral,covariance,"holdings corr, stream vol",0,0.85-0.95,21289,659229,0.986362,0.981351,0.990539,0.762413
+neutral,covariance,"blend, pair weight",0,0.85-0.95,21289,659229,0.986344,0.981336,0.990502,0.763869
+neutral,correlation,holdings corr,0,0.85-0.95,21289,659229,0.918036,0.897562,0.936436,0.740570
+neutral,correlation,blend corr,0,0.85-0.95,21289,659229,0.917575,0.897266,0.935838,0.742966
+neutral,correlation,factor corr K5,0,0.85-0.95,19624,588091,0.938887,0.920519,0.956605,0.683958
+neutral,correlation,factor corr K10,0,0.85-0.95,18697,544112,0.932884,0.915801,0.948050,0.743381
+neutral,correlation,"proxy factor corr, core 13",0,0.85-0.95,18133,514316,0.965475,0.949737,0.979373,0.693542
+neutral,correlation,"proxy factor corr, extended 22",0,0.85-0.95,15498,417318,0.971683,0.956599,0.984746,0.688992
+neutral,covariance,holdings cov,0,<0.75,4767,133362,0.992445,0.970360,1.024305,0.475142
+neutral,covariance,"holdings corr, stream vol",0,<0.75,4767,133362,0.983469,0.966592,0.993569,0.640235
+neutral,covariance,"blend, pair weight",0,<0.75,4767,133362,0.982594,0.964799,0.991902,0.660583
+neutral,correlation,holdings corr,0,<0.75,4767,133362,0.899848,0.853874,0.950832,0.751626
+neutral,correlation,blend corr,0,<0.75,4767,133362,0.885170,0.841963,0.925774,0.775960
+neutral,correlation,factor corr K5,0,<0.75,4480,118241,0.951798,0.905711,0.998819,0.676786
+neutral,correlation,factor corr K10,0,<0.75,4268,108585,0.950438,0.914840,0.989573,0.725867
+neutral,correlation,"proxy factor corr, core 13",0,<0.75,4020,100900,0.949017,0.924488,0.976072,0.760199
+neutral,correlation,"proxy factor corr, extended 22",0,<0.75,3152,76550,0.959447,0.938949,0.986975,0.748096
+neutral,covariance,holdings cov,0,>0.95,15836,469335,0.998978,0.989714,1.008016,0.461228
+neutral,covariance,"holdings corr, stream vol",0,>0.95,15836,469335,0.985905,0.978801,0.991872,0.789278
+neutral,covariance,"blend, pair weight",0,>0.95,15836,469335,0.985907,0.978808,0.991869,0.789467
+neutral,correlation,holdings corr,0,>0.95,15836,469335,0.919608,0.887450,0.945164,0.742170
+neutral,correlation,blend corr,0,>0.95,15836,469335,0.919485,0.887311,0.944990,0.742549
+neutral,correlation,factor corr K5,0,>0.95,15197,422139,0.962051,0.925605,0.992198,0.615977
+neutral,correlation,factor corr K10,0,>0.95,14446,386417,0.929248,0.891999,0.955301,0.695348
+neutral,correlation,"proxy factor corr, core 13",0,>0.95,13944,361807,0.955931,0.918906,0.981089,0.685815
+neutral,correlation,"proxy factor corr, extended 22",0,>0.95,11638,283198,0.965085,0.929519,0.990368,0.663344
+neutral,covariance,holdings cov,21,0.75-0.85,6176,191655,0.981027,0.946963,1.000931,0.559909
+neutral,covariance,"holdings corr, stream vol",21,0.75-0.85,6176,191655,0.974238,0.947333,0.988202,0.767001
+neutral,covariance,"blend, pair weight",21,0.75-0.85,6176,191655,0.974204,0.947282,0.988082,0.783031
+neutral,correlation,holdings corr,21,0.75-0.85,6176,191655,0.950690,0.918740,0.978925,0.692196
+neutral,correlation,blend corr,21,0.75-0.85,6176,191655,0.945421,0.913391,0.973794,0.708711
+neutral,correlation,factor corr K5,21,0.75-0.85,5967,179799,0.945561,0.916333,0.975066,0.687112
+neutral,correlation,factor corr K10,21,0.75-0.85,5742,167224,0.935960,0.913795,0.955170,0.768896
+neutral,correlation,"proxy factor corr, core 13",21,0.75-0.85,5587,158564,0.957012,0.938458,0.973155,0.745123
+neutral,correlation,"proxy factor corr, extended 22",21,0.75-0.85,4761,129505,0.963097,0.944384,0.978543,0.753203
+neutral,covariance,holdings cov,21,0.85-0.95,20787,635687,0.988898,0.980413,0.996694,0.519507
+neutral,covariance,"holdings corr, stream vol",21,0.85-0.95,20787,635687,0.983902,0.977231,0.989886,0.767643
+neutral,covariance,"blend, pair weight",21,0.85-0.95,20787,635687,0.983896,0.977234,0.989874,0.771011
+neutral,correlation,holdings corr,21,0.85-0.95,20787,635687,0.948171,0.931989,0.963552,0.692693
+neutral,correlation,blend corr,21,0.85-0.95,20787,635687,0.946937,0.930829,0.962013,0.699331
+neutral,correlation,factor corr K5,21,0.85-0.95,19778,590497,0.939116,0.920943,0.956369,0.684498
+neutral,correlation,factor corr K10,21,0.85-0.95,18670,544276,0.932960,0.916292,0.947383,0.744028
+neutral,correlation,"proxy factor corr, core 13",21,0.85-0.95,18138,514793,0.965566,0.949468,0.979725,0.693020
+neutral,correlation,"proxy factor corr, extended 22",21,0.85-0.95,15502,417668,0.971713,0.955832,0.984385,0.689395
+neutral,covariance,holdings cov,21,<0.75,4697,128930,0.982906,0.961321,1.015062,0.505642
+neutral,covariance,"holdings corr, stream vol",21,<0.75,4697,128930,0.984423,0.968782,0.995005,0.582712
+neutral,covariance,"blend, pair weight",21,<0.75,4697,128930,0.982629,0.966322,0.991482,0.629338
+neutral,correlation,holdings corr,21,<0.75,4697,128930,1.011362,0.960046,1.074074,0.556951
+neutral,correlation,blend corr,21,<0.75,4697,128930,0.966582,0.933497,1.004285,0.615073
+neutral,correlation,factor corr K5,21,<0.75,4499,118768,0.952206,0.907172,1.002079,0.677928
+neutral,correlation,factor corr K10,21,<0.75,4269,108876,0.950610,0.912960,0.993851,0.728508
+neutral,correlation,"proxy factor corr, core 13",21,<0.75,4025,101218,0.949027,0.924361,0.975688,0.760994
+neutral,correlation,"proxy factor corr, extended 22",21,<0.75,3164,76948,0.959445,0.936880,0.985867,0.747472
+neutral,covariance,holdings cov,21,>0.95,15656,453357,0.988569,0.975442,0.999583,0.561063
+neutral,covariance,"holdings corr, stream vol",21,>0.95,15656,453357,0.982634,0.972391,0.990567,0.800907
+neutral,covariance,"blend, pair weight",21,>0.95,15656,453357,0.982653,0.972424,0.990575,0.801099
+neutral,correlation,holdings corr,21,>0.95,15656,453357,0.942400,0.910346,0.967650,0.698518
+neutral,correlation,blend corr,21,>0.95,15656,453357,0.942034,0.910122,0.967151,0.700690
+neutral,correlation,factor corr K5,21,>0.95,15200,422620,0.962139,0.927822,0.994218,0.615855
+neutral,correlation,factor corr K10,21,>0.95,14450,386836,0.929264,0.894745,0.956087,0.695779
+neutral,correlation,"proxy factor corr, core 13",21,>0.95,13951,362188,0.955861,0.919111,0.981826,0.685686
+neutral,correlation,"proxy factor corr, extended 22",21,>0.95,11644,283485,0.964987,0.927540,0.991054,0.663689
+neutral,covariance,holdings cov,63,0.75-0.85,5956,179032,0.992859,0.980297,1.004696,0.596206
+neutral,covariance,"holdings corr, stream vol",63,0.75-0.85,5956,179032,0.987768,0.980040,0.992752,0.750336
+neutral,covariance,"blend, pair weight",63,0.75-0.85,5956,179032,0.987875,0.980473,0.992583,0.772666
+neutral,correlation,holdings corr,63,0.75-0.85,5956,179032,0.982035,0.956613,1.008672,0.604265
+neutral,correlation,blend corr,63,0.75-0.85,5956,179032,0.971508,0.948293,0.993634,0.639859
+neutral,correlation,factor corr K5,63,0.75-0.85,5954,179008,0.946023,0.915234,0.976415,0.687605
+neutral,correlation,factor corr K10,63,0.75-0.85,5748,167555,0.936050,0.914125,0.956392,0.768441
+neutral,correlation,"proxy factor corr, core 13",63,0.75-0.85,5587,158806,0.956926,0.936921,0.974359,0.744944
+neutral,correlation,"proxy factor corr, extended 22",63,0.75-0.85,4763,129724,0.962920,0.944731,0.979056,0.753307
+neutral,covariance,holdings cov,63,0.85-0.95,19758,588527,0.991691,0.987053,0.996334,0.586902
+neutral,covariance,"holdings corr, stream vol",63,0.85-0.95,19758,588527,0.990397,0.987407,0.993147,0.764905
+neutral,covariance,"blend, pair weight",63,0.85-0.95,19758,588527,0.990394,0.987432,0.993123,0.772497
+neutral,correlation,holdings corr,63,0.85-0.95,19758,588527,0.968700,0.953336,0.983686,0.639690
+neutral,correlation,blend corr,63,0.85-0.95,19758,588527,0.965987,0.950757,0.980553,0.652394
+neutral,correlation,factor corr K5,63,0.85-0.95,19752,588446,0.939527,0.920698,0.957316,0.683526
+neutral,correlation,factor corr K10,63,0.85-0.95,18714,545493,0.932907,0.915178,0.948270,0.743401
+neutral,correlation,"proxy factor corr, core 13",63,0.85-0.95,18150,515547,0.965405,0.948988,0.979765,0.693003
+neutral,correlation,"proxy factor corr, extended 22",63,0.85-0.95,15512,418191,0.971470,0.955924,0.984243,0.689531
+neutral,covariance,holdings cov,63,<0.75,4498,118880,0.998324,0.981747,1.032008,0.461538
+neutral,covariance,"holdings corr, stream vol",63,<0.75,4498,118880,0.991934,0.983793,0.999816,0.569809
+neutral,covariance,"blend, pair weight",63,<0.75,4498,118880,0.989121,0.980331,0.993242,0.679635
+neutral,correlation,holdings corr,63,<0.75,4498,118880,1.062147,0.999380,1.148890,0.462428
+neutral,correlation,blend corr,63,<0.75,4498,118880,0.978313,0.949013,1.010306,0.564918
+neutral,correlation,factor corr K5,63,<0.75,4497,118868,0.952878,0.906778,1.002495,0.676673
+neutral,correlation,factor corr K10,63,<0.75,4285,109556,0.951049,0.914881,0.993779,0.725088
+neutral,correlation,"proxy factor corr, core 13",63,<0.75,4039,101845,0.949333,0.926001,0.976475,0.759842
+neutral,correlation,"proxy factor corr, extended 22",63,<0.75,3170,77360,0.959642,0.937651,0.986466,0.744795
+neutral,covariance,holdings cov,63,>0.95,15140,419234,0.990510,0.983228,0.997057,0.650396
+neutral,covariance,"holdings corr, stream vol",63,>0.95,15140,419234,0.988567,0.983294,0.992427,0.807794
+neutral,covariance,"blend, pair weight",63,>0.95,15140,419234,0.988621,0.983374,0.992450,0.809313
+neutral,correlation,holdings corr,63,>0.95,15140,419234,0.954200,0.923815,0.975937,0.677345
+neutral,correlation,blend corr,63,>0.95,15140,419234,0.953402,0.923210,0.974951,0.680647
+neutral,correlation,factor corr K5,63,>0.95,15140,419234,0.961773,0.927153,0.994233,0.614729
+neutral,correlation,factor corr K10,63,>0.95,14462,387432,0.928879,0.896308,0.955242,0.696792
+neutral,correlation,"proxy factor corr, core 13",63,>0.95,13963,362706,0.955428,0.921146,0.980662,0.686099
+neutral,correlation,"proxy factor corr, extended 22",63,>0.95,11655,283927,0.964407,0.929901,0.988948,0.664693
+neutral,covariance,holdings cov,108,0.75-0.85,5719,165641,0.999580,0.989761,1.009208,0.511628
+neutral,covariance,"holdings corr, stream vol",108,0.75-0.85,5719,165641,0.991494,0.984970,0.995681,0.716209
+neutral,covariance,"blend, pair weight",108,0.75-0.85,5719,165641,0.991648,0.986048,0.995286,0.741213
+neutral,correlation,holdings corr,108,0.75-0.85,5719,165641,1.002160,0.976444,1.026953,0.551670
+neutral,correlation,blend corr,108,0.75-0.85,5719,165641,0.988006,0.965034,1.007260,0.598182
+neutral,correlation,factor corr K5,108,0.75-0.85,5719,165641,0.947182,0.914629,0.976465,0.687008
+neutral,correlation,factor corr K10,108,0.75-0.85,5719,165641,0.936697,0.912441,0.955664,0.767267
+neutral,correlation,"proxy factor corr, core 13",108,0.75-0.85,5587,158811,0.956919,0.934698,0.973116,0.744944
+neutral,correlation,"proxy factor corr, extended 22",108,0.75-0.85,4763,129727,0.962920,0.941830,0.977717,0.753517
+neutral,covariance,holdings cov,108,0.85-0.95,18613,538291,0.995867,0.991158,1.000156,0.548112
+neutral,covariance,"holdings corr, stream vol",108,0.85-0.95,18613,538291,0.992117,0.989756,0.994402,0.737388
+neutral,covariance,"blend, pair weight",108,0.85-0.95,18613,538291,0.992068,0.989757,0.994124,0.748294
+neutral,correlation,holdings corr,108,0.85-0.95,18613,538291,0.989043,0.973339,1.003168,0.568635
+neutral,correlation,blend corr,108,0.85-0.95,18613,538291,0.984257,0.969327,0.997545,0.588460
+neutral,correlation,factor corr K5,108,0.85-0.95,18613,538291,0.941204,0.922518,0.959620,0.675925
+neutral,correlation,factor corr K10,108,0.85-0.95,18613,538291,0.933329,0.917407,0.948653,0.745124
+neutral,correlation,"proxy factor corr, core 13",108,0.85-0.95,18150,515560,0.965405,0.949650,0.979696,0.693003
+neutral,correlation,"proxy factor corr, extended 22",108,0.85-0.95,15512,418194,0.971470,0.957015,0.984485,0.689595
+neutral,covariance,holdings cov,108,<0.75,4241,107774,1.005200,0.992350,1.033164,0.358170
+neutral,covariance,"holdings corr, stream vol",108,<0.75,4241,107774,0.997813,0.990457,1.012478,0.500825
+neutral,covariance,"blend, pair weight",108,<0.75,4241,107774,0.994105,0.988676,0.998612,0.606932
+neutral,correlation,holdings corr,108,<0.75,4241,107774,1.074446,1.017202,1.146895,0.383636
+neutral,correlation,blend corr,108,<0.75,4241,107774,0.987296,0.961352,1.012025,0.520868
+neutral,correlation,factor corr K5,108,<0.75,4241,107774,0.955507,0.909010,1.009142,0.668946
+neutral,correlation,factor corr K10,108,<0.75,4241,107774,0.951859,0.917106,0.994483,0.717755
+neutral,correlation,"proxy factor corr, core 13",108,<0.75,4023,101570,0.949251,0.927174,0.977850,0.761621
+neutral,correlation,"proxy factor corr, extended 22",108,<0.75,3161,77186,0.959586,0.939528,0.987932,0.746283
+neutral,covariance,holdings cov,108,>0.95,14352,380706,0.993906,0.985297,0.999327,0.599429
+neutral,covariance,"holdings corr, stream vol",108,>0.95,14352,380706,0.991120,0.984691,0.994369,0.786302
+neutral,covariance,"blend, pair weight",108,>0.95,14352,380706,0.991180,0.984752,0.994384,0.789228
+neutral,correlation,holdings corr,108,>0.95,14352,380706,0.969059,0.934237,0.992518,0.620610
+neutral,correlation,blend corr,108,>0.95,14352,380706,0.967610,0.932993,0.990154,0.627230
+neutral,correlation,factor corr K5,108,>0.95,14352,380706,0.959442,0.918902,0.995320,0.614339
+neutral,correlation,factor corr K10,108,>0.95,14352,380706,0.928819,0.890479,0.955568,0.695443
+neutral,correlation,"proxy factor corr, core 13",108,>0.95,13963,362700,0.955422,0.918186,0.980190,0.686242
+neutral,correlation,"proxy factor corr, extended 22",108,>0.95,11655,283916,0.964407,0.927346,0.989610,0.664693
+neutral,covariance,holdings cov,future,all,48105,1457100,0.997335,0.989466,1.003946,0.449059
+neutral,covariance,"holdings corr, stream vol",future,all,48105,1457100,0.985319,0.980215,0.989525,0.755161
+neutral,covariance,"blend, pair weight",future,all,48105,1457100,0.985239,0.980125,0.989407,0.758819
+neutral,correlation,holdings corr,future,all,48105,1457100,0.915025,0.894591,0.932293,0.742002
+neutral,correlation,blend corr,future,all,48105,1457100,0.913238,0.892761,0.930782,0.746825
+neutral,correlation,factor corr K5,future,all,45358,1307820,0.948358,0.928927,0.966587,0.661625
+neutral,correlation,factor corr K10,future,all,43104,1204423,0.933822,0.915952,0.948822,0.729143
+neutral,correlation,"proxy factor corr, core 13",future,all,41670,1134142,0.959724,0.941139,0.973926,0.704272
+neutral,correlation,"proxy factor corr, extended 22",future,all,35045,905508,0.967240,0.948264,0.979986,0.694878
+neutral,covariance,holdings cov,0,all,48153,1459142,0.997308,0.989417,1.004410,0.454821
+neutral,covariance,"holdings corr, stream vol",0,all,48153,1459142,0.985416,0.979990,0.989986,0.758686
+neutral,covariance,"blend, pair weight",0,all,48153,1459142,0.985333,0.979920,0.989906,0.762050
+neutral,correlation,holdings corr,0,all,48153,1459142,0.917300,0.894983,0.933792,0.742031
+neutral,correlation,blend corr,0,all,48153,1459142,0.915396,0.893532,0.931443,0.746682
+neutral,correlation,factor corr K5,0,all,45254,1307652,0.948351,0.927078,0.965944,0.660892
+neutral,correlation,factor corr K10,0,all,43155,1205948,0.933855,0.912721,0.949174,0.728907
+neutral,correlation,"proxy factor corr, core 13",0,all,41683,1135178,0.959722,0.940131,0.973698,0.704316
+neutral,correlation,"proxy factor corr, extended 22",0,all,35043,906170,0.967247,0.947456,0.980332,0.694404
+neutral,covariance,holdings cov,21,all,47316,1409629,0.987320,0.976818,0.996581,0.537154
+neutral,covariance,"holdings corr, stream vol",21,all,47316,1409629,0.982231,0.973991,0.988971,0.760208
+neutral,covariance,"blend, pair weight",21,all,47316,1409629,0.982105,0.973949,0.988823,0.768472
+neutral,correlation,holdings corr,21,all,47316,1409629,0.952959,0.934172,0.969500,0.681080
+neutral,correlation,blend corr,21,all,47316,1409629,0.947085,0.929690,0.963483,0.692641
+neutral,correlation,factor corr K5,21,all,45444,1311684,0.948533,0.929279,0.967230,0.661231
+neutral,correlation,factor corr K10,21,all,43131,1207212,0.933913,0.915287,0.949375,0.729638
+neutral,correlation,"proxy factor corr, core 13",21,all,41701,1136763,0.959747,0.942611,0.974456,0.704108
+neutral,correlation,"proxy factor corr, extended 22",21,all,35071,907606,0.967247,0.950183,0.981009,0.694762
+neutral,covariance,holdings cov,63,all,45352,1305673,0.991920,0.986772,0.997062,0.596887
+neutral,covariance,"holdings corr, stream vol",63,all,45352,1305673,0.989555,0.986076,0.992359,0.757960
+neutral,covariance,"blend, pair weight",63,all,45352,1305673,0.989392,0.985925,0.992182,0.775600
+neutral,correlation,holdings corr,63,all,45352,1305673,0.975416,0.956421,0.992205,0.630027
+neutral,correlation,blend corr,63,all,45352,1305673,0.964087,0.946790,0.978929,0.651504
+neutral,correlation,factor corr K5,63,all,45343,1305556,0.948723,0.929546,0.966629,0.660411
+neutral,correlation,factor corr K10,63,all,43209,1210036,0.933829,0.916146,0.949311,0.729316
+neutral,correlation,"proxy factor corr, core 13",63,all,41739,1138904,0.959550,0.941422,0.974393,0.704114
+neutral,correlation,"proxy factor corr, extended 22",63,all,35100,909202,0.966945,0.949069,0.981642,0.694929
+neutral,covariance,holdings cov,108,all,42925,1192412,0.996387,0.991837,1.000895,0.541642
+neutral,covariance,"holdings corr, stream vol",108,all,42925,1192412,0.992104,0.988813,0.994409,0.727548
+neutral,covariance,"blend, pair weight",108,all,42925,1192412,0.991862,0.988479,0.994030,0.747070
+neutral,correlation,holdings corr,108,all,42925,1192412,0.993129,0.974932,1.009142,0.565475
+neutral,correlation,blend corr,108,all,42925,1192412,0.979957,0.963458,0.993498,0.596040
+neutral,correlation,factor corr K5,108,all,42925,1192412,0.949147,0.930016,0.967737,0.656121
+neutral,correlation,factor corr K10,108,all,42925,1192412,0.934172,0.916146,0.950141,0.728759
+neutral,correlation,"proxy factor corr, core 13",108,all,41723,1138641,0.959540,0.942780,0.974356,0.704312
+neutral,correlation,"proxy factor corr, extended 22",108,all,35091,909023,0.966941,0.949807,0.981173,0.695107
